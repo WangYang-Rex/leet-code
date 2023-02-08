@@ -135,10 +135,8 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
-| 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
 
 ## 二分法
 
 | 题目 | 难度 |
 | ---- | ---- |
-| 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |

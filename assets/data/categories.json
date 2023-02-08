@@ -112,24 +112,10 @@
   },
   {
     "label": "滑动窗口",
-    "topics": [
-      {
-        "id": "1",
-        "title": "两数之和",
-        "path": "./problemset/two-sum/README.md",
-        "difficulty": "简单"
-      }
-    ]
+    "topics": []
   },
   {
     "label": "二分法",
-    "topics": [
-      {
-        "id": "1",
-        "title": "两数之和",
-        "path": "./problemset/two-sum/README.md",
-        "difficulty": "简单"
-      }
-    ]
+    "topics": []
   }
 ]
