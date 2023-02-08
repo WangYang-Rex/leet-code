@@ -5818,5 +5818,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/zero-matrix-lcci/",
     "path": "./problemset/zero-matrix-lcci/README.md"
+  },
+  {
+    "id": "abcid",
+    "title": {
+      "cn": "abcchinese",
+      "en": "abcenglish"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-number-of-moves-to-seat-everyone/",
+    "path": "./problemset/abcenglish/README.md"
   }
 ]

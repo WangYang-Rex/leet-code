@@ -5,8 +5,10 @@
   "author": "Dewey Ou <oushihao97@gmail.com>",
   "type": "module",
   "scripts": {
-    "dev": "nr create",
-    "build": "nr update",
+    "dev1": "nr create",
+    "build1": "nr update",
+    "dev": "esno scripts/create.ts",
+    "build": "esno scripts/category.ts",
     "create": "esno scripts/create.ts",
     "update": "esno scripts/category.ts",
     "test": "vitest --dir problemset",
