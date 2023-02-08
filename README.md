@@ -14,10 +14,10 @@
 
 ```shell
 # create a new topic
-pnpm run create
+yarn dev or pnpm run create
 
 # update the category of the specified topic
-pnpm run update
+yarn build or pnpm run update
 ```
 
 ### Template
@@ -28,4 +28,4 @@ npx degit ouduidui/leet-code#template my-leetcode
 
 ### License
 
-[MIT](./LICENSE) Copyright (c) 2021 Dewey Ou
+[MIT](./LICENSE) Copyright (c) 2021

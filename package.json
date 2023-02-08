@@ -2,7 +2,7 @@
   "name": "leet-code",
   "license": "MIT",
   "repository": "git@github.com:WangYang-Rex/leet-code.git",
-  "author": "Dewey Ou <oushihao97@gmail.com>",
+  "author": "wangyang <wy617418875@gmail.com>",
   "type": "module",
   "scripts": {
     "dev1": "nr create",
