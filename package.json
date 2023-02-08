@@ -1,0 +1,39 @@
+{
+  "name": "leet-code",
+  "license": "MIT",
+  "repository": "git@github.com:WangYang-Rex/leet-code.git",
+  "author": "Dewey Ou <oushihao97@gmail.com>",
+  "type": "module",
+  "scripts": {
+    "dev": "nr create",
+    "build": "nr update",
+    "create": "esno scripts/create.ts",
+    "update": "esno scripts/category.ts",
+    "test": "vitest --dir problemset",
+    "test:all": "vitest",
+    "lint": "eslint --ext .js,.ts --ignore-path .gitignore problemset"
+  },
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.1.4"
+  },
+  "devDependencies": {
+    "@antfu/ni": "^0.18.5",
+    "@ouduidui/eslint-config-ts": "^0.1.1",
+    "@types/clear": "^0.1.2",
+    "@types/figlet": "^1.5.5",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.9",
+    "chalk": "^5.1.2",
+    "clear": "^0.1.0",
+    "eslint": "^8.27.0",
+    "esno": "^0.16.3",
+    "execa": "^6.1.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^9.1.4",
+    "local-caches": "^1.0.0",
+    "magic-string": "^0.26.7",
+    "typescript": "^4.8.4",
+    "vite": "^3.2.3",
+    "vitest": "^0.25.2"
+  }
+}
