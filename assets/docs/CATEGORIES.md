@@ -140,3 +140,15 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+
+## 哈希
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 2. [两数相加](../../problemset/add-two-numbers/README.md) | 中等 |
+
+## 数字
+
+| 题目 | 难度 |
+| ---- | ---- |
+| 2. [两数相加](../../problemset/add-two-numbers/README.md) | 中等 |

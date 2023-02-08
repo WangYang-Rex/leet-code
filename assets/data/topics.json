@@ -8,5 +8,15 @@
     "difficulty": "简单",
     "url": "https://leetcode-cn.com/problems/two-sum/",
     "path": "./problemset/two-sum/README.md"
+  },
+  {
+    "id": "2",
+    "title": {
+      "cn": "两数相加",
+      "en": "add-two-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/add-two-numbers/",
+    "path": "./problemset/add-two-numbers/README.md"
   }
 ]
