@@ -32,7 +32,7 @@ jobs:
         run: yarn
 
       - name: Lint
-        run: yarn lint --if-present
+        run: yarn run lint
 
       - name: Test
-        run: yarn test:all --if-present
+        run: yarn run test
