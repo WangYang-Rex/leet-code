@@ -23,6 +23,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 
 ## 链表
 
@@ -34,6 +35,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 
 ## 二分法
 

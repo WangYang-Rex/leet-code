@@ -20,6 +20,16 @@
     "path": "./problemset/add-two-numbers/README.md"
   },
   {
+    "id": "3",
+    "title": {
+      "cn": "无重复字符的最长子串",
+      "en": "longest-substring-without-repeating-characters"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-substring-without-repeating-characters/",
+    "path": "./problemset/longest-substring-without-repeating-characters/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

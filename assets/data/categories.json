@@ -39,7 +39,14 @@
   },
   {
     "label": "字符串",
-    "topics": []
+    "topics": [
+      {
+        "id": "3",
+        "title": "无重复字符的最长子串",
+        "path": "./problemset/longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "链表",
@@ -54,7 +61,14 @@
   },
   {
     "label": "滑动窗口",
-    "topics": []
+    "topics": [
+      {
+        "id": "3",
+        "title": "无重复字符的最长子串",
+        "path": "./problemset/longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "二分法",
