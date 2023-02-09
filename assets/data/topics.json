@@ -30,6 +30,16 @@
     "path": "./problemset/longest-substring-without-repeating-characters/README.md"
   },
   {
+    "id": "4",
+    "title": {
+      "cn": "寻找两个正序数组的中位数",
+      "en": "median-of-two-sorted-arrays"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/median-of-two-sorted-arrays/",
+    "path": "./problemset/median-of-two-sorted-arrays/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

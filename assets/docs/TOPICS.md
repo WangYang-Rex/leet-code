@@ -6,6 +6,8 @@
 
 [3. 无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md)
 
+[4. 寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md)
+
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)

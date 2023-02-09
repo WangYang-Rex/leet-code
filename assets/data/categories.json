@@ -35,7 +35,14 @@
   },
   {
     "label": "数组",
-    "topics": []
+    "topics": [
+      {
+        "id": "4",
+        "title": "寻找两个正序数组的中位数",
+        "path": "./problemset/median-of-two-sorted-arrays/README.md",
+        "difficulty": "困难"
+      }
+    ]
   },
   {
     "label": "字符串",
@@ -72,7 +79,14 @@
   },
   {
     "label": "二分法",
-    "topics": []
+    "topics": [
+      {
+        "id": "4",
+        "title": "寻找两个正序数组的中位数",
+        "path": "./problemset/median-of-two-sorted-arrays/README.md",
+        "difficulty": "困难"
+      }
+    ]
   },
   {
     "label": "排序",
