@@ -25,6 +25,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
+| 5. [最长回文子串](../../problemset/longest-palindromic-substring/README.md) | 中等 |
 
 ## 链表
 

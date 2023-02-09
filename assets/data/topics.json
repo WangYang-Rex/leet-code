@@ -40,6 +40,16 @@
     "path": "./problemset/median-of-two-sorted-arrays/README.md"
   },
   {
+    "id": "5",
+    "title": {
+      "cn": "最长回文子串",
+      "en": "longest-palindromic-substring"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-palindromic-substring/",
+    "path": "./problemset/longest-palindromic-substring/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",
