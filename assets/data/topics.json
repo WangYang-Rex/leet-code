@@ -28,5 +28,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/",
     "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md"
+  },
+  {
+    "id": "1797",
+    "title": {
+      "cn": "设计一个验证系统",
+      "en": "design-authentication-manager"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-authentication-manager/",
+    "path": "./problemset/design-authentication-manager/README.md"
   }
 ]

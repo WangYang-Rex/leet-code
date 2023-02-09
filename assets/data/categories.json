@@ -1,5 +1,9 @@
 [
   {
+    "label": "综合",
+    "topics": []
+  },
+  {
     "label": "哈希表",
     "topics": [
       {
@@ -9,6 +13,14 @@
         "difficulty": "简单"
       }
     ]
+  },
+  {
+    "label": "数组",
+    "topics": []
+  },
+  {
+    "label": "字符串",
+    "topics": []
   },
   {
     "label": "链表",
@@ -35,10 +47,6 @@
   },
   {
     "label": "数学",
-    "topics": []
-  },
-  {
-    "label": "自动机",
     "topics": []
   },
   {
@@ -74,19 +82,11 @@
     "topics": []
   },
   {
-    "label": "子串匹配",
-    "topics": []
-  },
-  {
     "label": "贪心算法",
     "topics": []
   },
   {
     "label": "二叉树",
-    "topics": []
-  },
-  {
-    "label": "枚举",
     "topics": []
   },
   {
@@ -122,29 +122,7 @@
     "topics": []
   },
   {
-    "label": "二分法",
+    "label": "二分查找",
     "topics": []
-  },
-  {
-    "label": "哈希",
-    "topics": [
-      {
-        "id": "2",
-        "title": "两数相加",
-        "path": "./problemset/add-two-numbers/README.md",
-        "difficulty": "中等"
-      }
-    ]
-  },
-  {
-    "label": "数字",
-    "topics": [
-      {
-        "id": "2",
-        "title": "两数相加",
-        "path": "./problemset/add-two-numbers/README.md",
-        "difficulty": "中等"
-      }
-    ]
   }
 ]
