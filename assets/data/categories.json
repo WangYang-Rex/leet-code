@@ -1,7 +1,14 @@
 [
   {
-    "label": "综合",
-    "topics": []
+    "label": "数据结构",
+    "topics": [
+      {
+        "id": "1233",
+        "title": "删除子文件夹",
+        "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "哈希表",
@@ -11,6 +18,12 @@
         "title": "两数之和",
         "path": "./problemset/two-sum/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1233",
+        "title": "删除子文件夹",
+        "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
+        "difficulty": "中等"
       }
     ]
   },

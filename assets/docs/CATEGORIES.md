@@ -1,15 +1,17 @@
 # 题目分类
 
-## 综合
+## 数据结构
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 
 ## 哈希表
 
 | 题目 | 难度 |
 | ---- | ---- |
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
+| 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 
 ## 数组
 
