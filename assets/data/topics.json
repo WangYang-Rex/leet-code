@@ -18,5 +18,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/add-two-numbers/",
     "path": "./problemset/add-two-numbers/README.md"
+  },
+  {
+    "id": "1233",
+    "title": {
+      "cn": "删除子文件夹",
+      "en": "remove-sub-folders-from-the-filesystem"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/remove-sub-folders-from-the-filesystem/",
+    "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md"
   }
 ]

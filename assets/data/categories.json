@@ -18,7 +18,8 @@
         "title": "两数相加",
         "path": "./problemset/add-two-numbers/README.md",
         "difficulty": "中等"
-      }]
+      }
+    ]
   },
   {
     "label": "滑动窗口",
