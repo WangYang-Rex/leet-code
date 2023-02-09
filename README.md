@@ -10,20 +10,21 @@
 </p>
 
 
+
+[力扣主页](https://leetcode.cn/u/wangyang-kn/)
+
 ### Usage
 
 ```shell
 # create a new topic
-yarn dev or pnpm run create
+yarn dev
+# or 
+yarn run create
 
 # update the category of the specified topic
-yarn build or pnpm run update
-```
-
-### Template
-
-```bash
-npx degit ouduidui/leet-code#template my-leetcode
+yarn build 
+# or 
+yarn run update
 ```
 
 ### License
