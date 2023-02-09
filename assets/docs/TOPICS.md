@@ -10,6 +10,14 @@
 
 [5. 最长回文子串](../../problemset/longest-palindromic-substring/README.md)
 
+[6. N 字形变换](../../problemset/zigzag-conversion/README.md)
+
+[7. 整数反转](../../problemset/reverse-integer/README.md)
+
+[8. 字符串转换整数 (atoi)](../../problemset/string-to-integer-atoi/README.md)
+
+[9. 回文数](../../problemset/palindrome-number/README.md)
+
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)

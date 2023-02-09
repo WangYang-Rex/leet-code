@@ -3,6 +3,12 @@
   "rules": {
     "no-cond-assign": 0,
     "@typescript-eslint/no-this-alias": 0,
-    "no-unmodified-loop-condition": 0
+    "no-unmodified-loop-condition": 0,
+    "semi": 0,
+    "@typescript-eslint/semi": 0,
+    "curly": 0,
+    "@typescript-eslint/curly": 0,
+    "brace-style": 0,
+    "@typescript-eslint/brace-style": 0
   }
 }

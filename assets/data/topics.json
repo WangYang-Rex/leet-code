@@ -50,6 +50,46 @@
     "path": "./problemset/longest-palindromic-substring/README.md"
   },
   {
+    "id": "6",
+    "title": {
+      "cn": "N 字形变换",
+      "en": "zigzag-conversion"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/zigzag-conversion/",
+    "path": "./problemset/zigzag-conversion/README.md"
+  },
+  {
+    "id": "7",
+    "title": {
+      "cn": "整数反转",
+      "en": "reverse-integer"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/reverse-integer/",
+    "path": "./problemset/reverse-integer/README.md"
+  },
+  {
+    "id": "8",
+    "title": {
+      "cn": "字符串转换整数 (atoi)",
+      "en": "string-to-integer-atoi"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/string-to-integer-atoi/",
+    "path": "./problemset/string-to-integer-atoi/README.md"
+  },
+  {
+    "id": "9",
+    "title": {
+      "cn": "回文数",
+      "en": "palindrome-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/palindrome-number/",
+    "path": "./problemset/palindrome-number/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",
