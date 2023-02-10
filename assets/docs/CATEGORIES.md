@@ -29,6 +29,7 @@
 | 5. [最长回文子串](../../problemset/longest-palindromic-substring/README.md) | 中等 |
 | 6. [N 字形变换](../../problemset/zigzag-conversion/README.md) | 中等 |
 | 8. [字符串转换整数 (atoi)](../../problemset/string-to-integer-atoi/README.md) | 中等 |
+| 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 
 ## 链表
 
@@ -75,6 +76,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 
 ## 回溯
 

@@ -76,6 +76,12 @@
         "title": "字符串转换整数 (atoi)",
         "path": "./problemset/string-to-integer-atoi/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "12",
+        "title": "整数转罗马数字",
+        "path": "./problemset/integer-to-roman/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -150,7 +156,14 @@
   },
   {
     "label": "模拟",
-    "topics": []
+    "topics": [
+      {
+        "id": "12",
+        "title": "整数转罗马数字",
+        "path": "./problemset/integer-to-roman/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "回溯",
