@@ -64,6 +64,12 @@
         "title": "N 字形变换",
         "path": "./problemset/zigzag-conversion/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "8",
+        "title": "字符串转换整数 (atoi)",
+        "path": "./problemset/string-to-integer-atoi/README.md",
+        "difficulty": "中等"
       }
     ]
   },
