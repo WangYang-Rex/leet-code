@@ -106,7 +106,14 @@
   },
   {
     "label": "数学",
-    "topics": []
+    "topics": [
+      {
+        "id": "7",
+        "title": "整数反转",
+        "path": "./problemset/reverse-integer/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "动态规划",

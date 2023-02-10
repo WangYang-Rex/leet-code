@@ -55,6 +55,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 7. [整数反转](../../problemset/reverse-integer/README.md) | 中等 |
 
 ## 动态规划
 
