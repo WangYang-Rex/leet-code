@@ -3,6 +3,12 @@
     "label": "数据结构",
     "topics": [
       {
+        "id": "9",
+        "title": "回文数",
+        "path": "./problemset/palindrome-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -118,6 +124,12 @@
         "title": "整数反转",
         "path": "./problemset/reverse-integer/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "9",
+        "title": "回文数",
+        "path": "./problemset/palindrome-number/README.md",
+        "difficulty": "简单"
       }
     ]
   },

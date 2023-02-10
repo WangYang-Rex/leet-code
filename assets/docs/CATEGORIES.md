@@ -4,6 +4,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
@@ -57,6 +58,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 7. [整数反转](../../problemset/reverse-integer/README.md) | 中等 |
+| 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 
 ## 动态规划
 
