@@ -58,6 +58,12 @@
         "title": "最长回文子串",
         "path": "./problemset/longest-palindromic-substring/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "6",
+        "title": "N 字形变换",
+        "path": "./problemset/zigzag-conversion/README.md",
+        "difficulty": "中等"
       }
     ]
   },
