@@ -3,7 +3,6 @@
   "license": "MIT",
   "repository": "git@github.com:WangYang-Rex/leet-code.git",
   "author": "wangyang <wy617418875@gmail.com>",
-  "type": "module",
   "scripts": {
     "dev1": "nr create",
     "build1": "nr update",
@@ -16,7 +15,8 @@
     "lint": "eslint problemset --ext .js,.ts"
   },
   "dependencies": {
-    "@datastructures-js/priority-queue": "^6.1.4"
+    "@datastructures-js/priority-queue": "^6.1.4",
+    "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@antfu/ni": "^0.18.5",

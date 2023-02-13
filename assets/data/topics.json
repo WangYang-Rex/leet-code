@@ -130,6 +130,16 @@
     "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md"
   },
   {
+    "id": "1234",
+    "title": {
+      "cn": "替换子串得到平衡字符串",
+      "en": "replace-the-substring-for-balanced-string"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/replace-the-substring-for-balanced-string/",
+    "path": "./problemset/replace-the-substring-for-balanced-string/README.md"
+  },
+  {
     "id": "1797",
     "title": {
       "cn": "设计一个验证系统",

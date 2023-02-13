@@ -43,6 +43,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
+| 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 
 ## 二分法
 
@@ -73,6 +74,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 11. [盛最多水的容器](../../problemset/container-with-most-water/README.md) | 中等 |
+| 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 
 ## 模拟
 
