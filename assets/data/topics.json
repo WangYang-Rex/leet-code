@@ -110,6 +110,16 @@
     "path": "./problemset/integer-to-roman/README.md"
   },
   {
+    "id": "13",
+    "title": {
+      "cn": "罗马数字转整数",
+      "en": "roman-to-integer"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/roman-to-integer/",
+    "path": "./problemset/roman-to-integer/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

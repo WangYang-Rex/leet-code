@@ -82,6 +82,12 @@
         "title": "整数转罗马数字",
         "path": "./problemset/integer-to-roman/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "13",
+        "title": "罗马数字转整数",
+        "path": "./problemset/roman-to-integer/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -135,6 +141,12 @@
         "id": "9",
         "title": "回文数",
         "path": "./problemset/palindrome-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "13",
+        "title": "罗马数字转整数",
+        "path": "./problemset/roman-to-integer/README.md",
         "difficulty": "简单"
       }
     ]

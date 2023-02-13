@@ -30,6 +30,7 @@
 | 6. [N 字形变换](../../problemset/zigzag-conversion/README.md) | 中等 |
 | 8. [字符串转换整数 (atoi)](../../problemset/string-to-integer-atoi/README.md) | 中等 |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
+| 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 
 ## 链表
 
@@ -60,6 +61,7 @@
 | ---- | ---- |
 | 7. [整数反转](../../problemset/reverse-integer/README.md) | 中等 |
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
+| 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 
 ## 动态规划
 
