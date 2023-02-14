@@ -44,6 +44,7 @@
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
+| 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 
@@ -77,6 +78,7 @@
 | ---- | ---- |
 | 11. [盛最多水的容器](../../problemset/container-with-most-water/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
+| 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 

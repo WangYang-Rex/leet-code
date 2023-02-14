@@ -130,6 +130,16 @@
     "path": "./problemset/contains-duplicate-ii/README.md"
   },
   {
+    "id": "643",
+    "title": {
+      "cn": "子数组最大平均数 I",
+      "en": "maximum-average-subarray-i"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-average-subarray-i/",
+    "path": "./problemset/maximum-average-subarray-i/README.md"
+  },
+  {
     "id": "1124",
     "title": {
       "cn": "表现良好的最长时间段",

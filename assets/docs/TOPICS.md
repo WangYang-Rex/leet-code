@@ -26,6 +26,8 @@
 
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)
 
+[643. 子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md)
+
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)
 
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)

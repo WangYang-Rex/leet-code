@@ -118,6 +118,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "643",
+        "title": "子数组最大平均数 I",
+        "path": "./problemset/maximum-average-subarray-i/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1124",
         "title": "表现良好的最长时间段",
         "path": "./problemset/longest-well-performing-interval/README.md",
@@ -186,6 +192,12 @@
         "id": "219",
         "title": "存在重复元素 II",
         "path": "./problemset/contains-duplicate-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "643",
+        "title": "子数组最大平均数 I",
+        "path": "./problemset/maximum-average-subarray-i/README.md",
         "difficulty": "简单"
       },
       {
