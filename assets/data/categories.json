@@ -112,6 +112,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "219",
+        "title": "存在重复元素 II",
+        "path": "./problemset/contains-duplicate-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1124",
         "title": "表现良好的最长时间段",
         "path": "./problemset/longest-well-performing-interval/README.md",
@@ -175,6 +181,12 @@
         "title": "盛最多水的容器",
         "path": "./problemset/container-with-most-water/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "219",
+        "title": "存在重复元素 II",
+        "path": "./problemset/contains-duplicate-ii/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "1124",

@@ -120,6 +120,16 @@
     "path": "./problemset/roman-to-integer/README.md"
   },
   {
+    "id": "219",
+    "title": {
+      "cn": "存在重复元素 II",
+      "en": "contains-duplicate-ii"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/contains-duplicate-ii/",
+    "path": "./problemset/contains-duplicate-ii/README.md"
+  },
+  {
     "id": "1124",
     "title": {
       "cn": "表现良好的最长时间段",
