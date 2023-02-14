@@ -120,6 +120,16 @@
     "path": "./problemset/roman-to-integer/README.md"
   },
   {
+    "id": "1124",
+    "title": {
+      "cn": "表现良好的最长时间段",
+      "en": "longest-well-performing-interval"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-well-performing-interval/",
+    "path": "./problemset/longest-well-performing-interval/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",
