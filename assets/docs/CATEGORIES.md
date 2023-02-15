@@ -20,6 +20,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 4. [寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md) | 困难 |
+| 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 

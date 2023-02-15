@@ -49,6 +49,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "75",
+        "title": "颜色分类",
+        "path": "./problemset/sort-colors/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "80",
         "title": "删除有序数组中的重复项 II",
         "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md",

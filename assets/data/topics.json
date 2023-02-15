@@ -120,6 +120,16 @@
     "path": "./problemset/roman-to-integer/README.md"
   },
   {
+    "id": "75",
+    "title": {
+      "cn": "颜色分类",
+      "en": "sort-colors"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/sort-colors/",
+    "path": "./problemset/sort-colors/README.md"
+  },
+  {
     "id": "80",
     "title": {
       "cn": "删除有序数组中的重复项 II",

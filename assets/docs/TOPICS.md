@@ -24,6 +24,8 @@
 
 [13. 罗马数字转整数](../../problemset/roman-to-integer/README.md)
 
+[75. 颜色分类](../../problemset/sort-colors/README.md)
+
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
 
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)
