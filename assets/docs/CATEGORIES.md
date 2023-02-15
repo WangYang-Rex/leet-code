@@ -24,6 +24,7 @@
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
+| 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 字符串
 
@@ -65,6 +66,7 @@
 | ---- | ---- |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
+| 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 数学
 

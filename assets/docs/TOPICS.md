@@ -45,3 +45,5 @@
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)
+
+[剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)

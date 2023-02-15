@@ -228,5 +228,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/design-authentication-manager/",
     "path": "./problemset/design-authentication-manager/README.md"
+  },
+  {
+    "id": "剑指 Offer II 076",
+    "title": {
+      "cn": "数组中的第 k 大的数字",
+      "en": "xx4gt2"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/xx4gT2/",
+    "path": "./problemset/xx4gt2/README.md"
   }
 ]

@@ -71,6 +71,12 @@
         "title": "移动零",
         "path": "./problemset/move-zeroes/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "剑指 Offer II 076",
+        "title": "数组中的第 k 大的数字",
+        "path": "./problemset/xx4gt2/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -191,6 +197,12 @@
         "id": "215",
         "title": "数组中的第K个最大元素",
         "path": "./problemset/kth-largest-element-in-an-array/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "剑指 Offer II 076",
+        "title": "数组中的第 k 大的数字",
+        "path": "./problemset/xx4gt2/README.md",
         "difficulty": "中等"
       }
     ]
