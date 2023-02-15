@@ -110,7 +110,7 @@ export function intToRoman2(num: number): string {
       num -= value;
       roman.push(symbol);
     }
-    if (num == 0) {
+    if (num === 0) {
       break;
     }
   }
