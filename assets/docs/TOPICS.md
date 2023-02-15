@@ -34,4 +34,6 @@
 
 [1234. 替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md)
 
+[1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
+
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)

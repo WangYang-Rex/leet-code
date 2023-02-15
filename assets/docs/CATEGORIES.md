@@ -47,6 +47,7 @@
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
+| 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
 ## 二分法
 
