@@ -20,6 +20,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 4. [寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md) | 困难 |
+| 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 
 ## 字符串
 
@@ -79,6 +80,7 @@
 | ---- | ---- |
 | 11. [盛最多水的容器](../../problemset/container-with-most-water/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
+| 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |

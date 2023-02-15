@@ -47,6 +47,12 @@
         "title": "寻找两个正序数组的中位数",
         "path": "./problemset/median-of-two-sorted-arrays/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "283",
+        "title": "移动零",
+        "path": "./problemset/move-zeroes/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -198,6 +204,12 @@
         "id": "219",
         "title": "存在重复元素 II",
         "path": "./problemset/contains-duplicate-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "283",
+        "title": "移动零",
+        "path": "./problemset/move-zeroes/README.md",
         "difficulty": "简单"
       },
       {
