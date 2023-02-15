@@ -61,6 +61,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "167",
+        "title": "两数之和 II - 输入有序数组",
+        "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "215",
         "title": "数组中的第K个最大元素",
         "path": "./problemset/kth-largest-element-in-an-array/README.md",
@@ -259,6 +265,12 @@
         "id": "80",
         "title": "删除有序数组中的重复项 II",
         "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "167",
+        "title": "两数之和 II - 输入有序数组",
+        "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md",
         "difficulty": "中等"
       },
       {

@@ -22,6 +22,7 @@
 | 4. [寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md) | 困难 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
+| 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
@@ -89,6 +90,7 @@
 | 11. [盛最多水的容器](../../problemset/container-with-most-water/README.md) | 中等 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
+| 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |

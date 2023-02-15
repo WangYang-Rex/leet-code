@@ -28,6 +28,8 @@
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
 
+[167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
+
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
 
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)
