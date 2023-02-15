@@ -49,6 +49,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "80",
+        "title": "删除有序数组中的重复项 II",
+        "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "283",
         "title": "移动零",
         "path": "./problemset/move-zeroes/README.md",
@@ -198,6 +204,12 @@
         "id": "11",
         "title": "盛最多水的容器",
         "path": "./problemset/container-with-most-water/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "80",
+        "title": "删除有序数组中的重复项 II",
+        "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md",
         "difficulty": "中等"
       },
       {

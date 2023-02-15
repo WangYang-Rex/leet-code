@@ -120,6 +120,16 @@
     "path": "./problemset/roman-to-integer/README.md"
   },
   {
+    "id": "80",
+    "title": {
+      "cn": "删除有序数组中的重复项 II",
+      "en": "remove-duplicates-from-sorted-array-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/",
+    "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md"
+  },
+  {
     "id": "219",
     "title": {
       "cn": "存在重复元素 II",
