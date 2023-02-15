@@ -227,6 +227,12 @@
         "title": "罗马数字转整数",
         "path": "./problemset/roman-to-integer/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1250",
+        "title": "检查「好数组」",
+        "path": "./problemset/check-if-it-is-a-good-array/README.md",
+        "difficulty": "困难"
       }
     ]
   },

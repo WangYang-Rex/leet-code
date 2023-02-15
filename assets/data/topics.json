@@ -210,6 +210,16 @@
     "path": "./problemset/replace-the-substring-for-balanced-string/README.md"
   },
   {
+    "id": "1250",
+    "title": {
+      "cn": "检查「好数组」",
+      "en": "check-if-it-is-a-good-array"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/check-if-it-is-a-good-array/",
+    "path": "./problemset/check-if-it-is-a-good-array/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",
