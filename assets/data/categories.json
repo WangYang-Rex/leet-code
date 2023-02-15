@@ -174,7 +174,14 @@
   },
   {
     "label": "排序",
-    "topics": []
+    "topics": [
+      {
+        "id": "75",
+        "title": "颜色分类",
+        "path": "./problemset/sort-colors/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "数学",
@@ -210,6 +217,12 @@
         "id": "11",
         "title": "盛最多水的容器",
         "path": "./problemset/container-with-most-water/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "75",
+        "title": "颜色分类",
+        "path": "./problemset/sort-colors/README.md",
         "difficulty": "中等"
       },
       {

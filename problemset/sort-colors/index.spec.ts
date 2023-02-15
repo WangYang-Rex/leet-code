@@ -1,14 +1,18 @@
 import { describe, expect, it } from 'vitest'
-import { sortColors } from '.'
+import { sortColors, sortColors1, sortColors2 } from '.'
 // need refactor
 describe('颜色分类', () => {
-  describe('单指针', () => {
+  describe('暴力解法', () => {
     testCase(sortColors)
   })
 
-  // describe('双指针', () => {
-  //   testCase(sortColors2)
-  // })
+  describe('三路快排1', () => {
+    testCase(sortColors1)
+  })
+
+  describe('三路快排1', () => {
+    testCase(sortColors2)
+  })
 })
 
 function testCase(fn: (nums: number[]) => void) {
