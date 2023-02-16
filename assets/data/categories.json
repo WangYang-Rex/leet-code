@@ -130,6 +130,12 @@
         "title": "反转字符串中的单词",
         "path": "./problemset/reverse-words-in-a-string/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "557",
+        "title": "反转字符串中的单词 III",
+        "path": "./problemset/reverse-words-in-a-string-iii/README.md",
+        "difficulty": "简单"
       }
     ]
   },
