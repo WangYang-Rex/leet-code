@@ -48,6 +48,8 @@
 
 [26. 删除有序数组中的重复项](../../problemset/remove-duplicates-from-sorted-array/README.md)
 
+[27. 移除元素](../../problemset/remove-element/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)

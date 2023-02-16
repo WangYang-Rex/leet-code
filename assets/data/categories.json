@@ -358,6 +358,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "27",
+        "title": "移除元素",
+        "path": "./problemset/remove-element/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "75",
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",

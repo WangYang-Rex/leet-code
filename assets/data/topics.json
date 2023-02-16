@@ -240,6 +240,16 @@
     "path": "./problemset/remove-duplicates-from-sorted-array/README.md"
   },
   {
+    "id": "27",
+    "title": {
+      "cn": "移除元素",
+      "en": "remove-element"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-element/",
+    "path": "./problemset/remove-element/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
