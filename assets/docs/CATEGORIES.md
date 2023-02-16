@@ -94,6 +94,7 @@
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
+| 344. [反转字符串](../../problemset/reverse-string/README.md) | 简单 |
 | 345. [反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md) | 简单 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |

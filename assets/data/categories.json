@@ -292,6 +292,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "344",
+        "title": "反转字符串",
+        "path": "./problemset/reverse-string/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "345",
         "title": "反转字符串中的元音字母",
         "path": "./problemset/reverse-vowels-of-a-string/README.md",
