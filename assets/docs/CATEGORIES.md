@@ -140,6 +140,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md) | 简单 |
+| 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
 
 ## 堆
 

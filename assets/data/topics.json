@@ -220,6 +220,16 @@
     "path": "./problemset/merge-k-sorted-lists/README.md"
   },
   {
+    "id": "24",
+    "title": {
+      "cn": "两两交换链表中的节点",
+      "en": "swap-nodes-in-pairs"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/swap-nodes-in-pairs/",
+    "path": "./problemset/swap-nodes-in-pairs/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

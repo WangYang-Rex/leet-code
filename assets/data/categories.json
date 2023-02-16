@@ -466,6 +466,12 @@
         "title": "合并两个有序链表",
         "path": "./problemset/merge-two-sorted-lists/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "24",
+        "title": "两两交换链表中的节点",
+        "path": "./problemset/swap-nodes-in-pairs/README.md",
+        "difficulty": "中等"
       }
     ]
   },
