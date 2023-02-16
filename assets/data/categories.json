@@ -177,6 +177,12 @@
         "title": "两数相加",
         "path": "./problemset/add-two-numbers/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "19",
+        "title": "删除链表的倒数第 N 个结点",
+        "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -325,6 +331,12 @@
         "id": "18",
         "title": "四数之和",
         "path": "./problemset/4sum/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "19",
+        "title": "删除链表的倒数第 N 个结点",
+        "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
         "difficulty": "中等"
       },
       {

@@ -170,6 +170,16 @@
     "path": "./problemset/4sum/README.md"
   },
   {
+    "id": "19",
+    "title": {
+      "cn": "删除链表的倒数第 N 个结点",
+      "en": "remove-nth-node-from-end-of-list"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/remove-nth-node-from-end-of-list/",
+    "path": "./problemset/remove-nth-node-from-end-of-list/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
