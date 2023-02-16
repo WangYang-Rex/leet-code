@@ -200,6 +200,16 @@
     "path": "./problemset/maximum-average-subarray-i/README.md"
   },
   {
+    "id": "680",
+    "title": {
+      "cn": "验证回文串 II",
+      "en": "valid-palindrome-ii"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-palindrome-ii/",
+    "path": "./problemset/valid-palindrome-ii/README.md"
+  },
+  {
     "id": "1124",
     "title": {
       "cn": "表现良好的最长时间段",
