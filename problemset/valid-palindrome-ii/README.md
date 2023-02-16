@@ -36,7 +36,7 @@
 ## 解题
 
 ### 双指针
-```typescript
+```typescript 
 /**
  * 双指针
  * @param s
