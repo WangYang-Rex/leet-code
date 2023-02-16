@@ -66,4 +66,6 @@
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)
 
+[2341. 数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)

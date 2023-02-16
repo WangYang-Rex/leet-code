@@ -330,6 +330,16 @@
     "path": "./problemset/design-authentication-manager/README.md"
   },
   {
+    "id": "2341",
+    "title": {
+      "cn": "数组能形成多少数对",
+      "en": "maximum-number-of-pairs-in-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-number-of-pairs-in-array/",
+    "path": "./problemset/maximum-number-of-pairs-in-array/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",
