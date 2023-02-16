@@ -26,6 +26,8 @@
 
 [14. 最长公共前缀](../../problemset/longest-common-prefix/README.md)
 
+[15. 三数之和](../../problemset/3sum/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)

@@ -130,6 +130,16 @@
     "path": "./problemset/longest-common-prefix/README.md"
   },
   {
+    "id": "15",
+    "title": {
+      "cn": "三数之和",
+      "en": "3sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/3sum/",
+    "path": "./problemset/3sum/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
