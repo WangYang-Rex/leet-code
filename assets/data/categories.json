@@ -61,6 +61,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "26",
+        "title": "删除有序数组中的重复项",
+        "path": "./problemset/remove-duplicates-from-sorted-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "75",
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",
@@ -344,6 +350,12 @@
         "title": "删除链表的倒数第 N 个结点",
         "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "26",
+        "title": "删除有序数组中的重复项",
+        "path": "./problemset/remove-duplicates-from-sorted-array/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "75",

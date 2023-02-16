@@ -230,6 +230,16 @@
     "path": "./problemset/swap-nodes-in-pairs/README.md"
   },
   {
+    "id": "26",
+    "title": {
+      "cn": "删除有序数组中的重复项",
+      "en": "remove-duplicates-from-sorted-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-duplicates-from-sorted-array/",
+    "path": "./problemset/remove-duplicates-from-sorted-array/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
