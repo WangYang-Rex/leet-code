@@ -124,6 +124,12 @@
         "title": "罗马数字转整数",
         "path": "./problemset/roman-to-integer/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "151",
+        "title": "反转字符串中的单词",
+        "path": "./problemset/reverse-words-in-a-string/README.md",
+        "difficulty": "中等"
       }
     ]
   },

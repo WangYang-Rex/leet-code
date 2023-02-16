@@ -37,6 +37,7 @@
 | 8. [字符串转换整数 (atoi)](../../problemset/string-to-integer-atoi/README.md) | 中等 |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
+| 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 
 ## 链表
 

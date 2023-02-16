@@ -30,6 +30,8 @@
 
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
+[151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
+
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
