@@ -150,6 +150,16 @@
     "path": "./problemset/3sum-closest/README.md"
   },
   {
+    "id": "17",
+    "title": {
+      "cn": "电话号码的字母组合",
+      "en": "submissions"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/letter-combinations-of-a-phone-number/",
+    "path": "./problemset/submissions/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

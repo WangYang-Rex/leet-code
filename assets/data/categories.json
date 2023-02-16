@@ -402,7 +402,14 @@
   },
   {
     "label": "回溯",
-    "topics": []
+    "topics": [
+      {
+        "id": "17",
+        "title": "电话号码的字母组合",
+        "path": "./problemset/submissions/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "栈",
