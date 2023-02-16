@@ -160,6 +160,16 @@
     "path": "./problemset/submissions/README.md"
   },
   {
+    "id": "18",
+    "title": {
+      "cn": "四数之和",
+      "en": "4sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/4sum/",
+    "path": "./problemset/4sum/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

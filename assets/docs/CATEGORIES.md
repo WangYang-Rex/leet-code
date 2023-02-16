@@ -73,6 +73,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 18. [四数之和](../../problemset/4sum/README.md) | 中等 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
@@ -98,6 +99,7 @@
 | 11. [盛最多水的容器](../../problemset/container-with-most-water/README.md) | 中等 |
 | 15. [三数之和](../../problemset/3sum/README.md) | 中等 |
 | 16. [最接近的三数之和](../../problemset/3sum-closest/README.md) | 中等 |
+| 18. [四数之和](../../problemset/4sum/README.md) | 中等 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |

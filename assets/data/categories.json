@@ -242,6 +242,12 @@
     "label": "排序",
     "topics": [
       {
+        "id": "18",
+        "title": "四数之和",
+        "path": "./problemset/4sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "75",
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",
@@ -313,6 +319,12 @@
         "id": "16",
         "title": "最接近的三数之和",
         "path": "./problemset/3sum-closest/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "18",
+        "title": "四数之和",
+        "path": "./problemset/4sum/README.md",
         "difficulty": "中等"
       },
       {
