@@ -437,7 +437,14 @@
   },
   {
     "label": "栈",
-    "topics": []
+    "topics": [
+      {
+        "id": "20",
+        "title": "有效的括号",
+        "path": "./problemset/valid-parentheses/README.md",
+        "difficulty": "简单"
+      }
+    ]
   },
   {
     "label": "递归 & 迭代",

@@ -180,6 +180,16 @@
     "path": "./problemset/remove-nth-node-from-end-of-list/README.md"
   },
   {
+    "id": "20",
+    "title": {
+      "cn": "有效的括号",
+      "en": "valid-parentheses"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-parentheses/",
+    "path": "./problemset/valid-parentheses/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

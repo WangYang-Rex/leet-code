@@ -131,6 +131,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 20. [有效的括号](../../problemset/valid-parentheses/README.md) | 简单 |
 
 ## 递归 & 迭代
 
