@@ -156,6 +156,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "28",
+        "title": "找出字符串中第一个匹配项的下标",
+        "path": "./problemset/find-the-index-of-the-first-occurrence-in-a-string/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "151",
         "title": "反转字符串中的单词",
         "path": "./problemset/reverse-words-in-a-string/README.md",
