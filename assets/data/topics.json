@@ -140,6 +140,16 @@
     "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md"
   },
   {
+    "id": "125",
+    "title": {
+      "cn": "验证回文串",
+      "en": "valid-palindrome"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-palindrome/",
+    "path": "./problemset/valid-palindrome/README.md"
+  },
+  {
     "id": "167",
     "title": {
       "cn": "两数之和 II - 输入有序数组",
