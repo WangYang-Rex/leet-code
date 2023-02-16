@@ -210,6 +210,16 @@
     "path": "./problemset/generate-parentheses/README.md"
   },
   {
+    "id": "23",
+    "title": {
+      "cn": "合并K个升序链表",
+      "en": "merge-k-sorted-lists"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/merge-k-sorted-lists/",
+    "path": "./problemset/merge-k-sorted-lists/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

@@ -51,6 +51,7 @@
 | ---- | ---- |
 | 2. [两数相加](../../problemset/add-two-numbers/README.md) | 中等 |
 | 19. [删除链表的倒数第 N 个结点](../../problemset/remove-nth-node-from-end-of-list/README.md) | 中等 |
+| 23. [合并K个升序链表](../../problemset/merge-k-sorted-lists/README.md) | 困难 |
 
 ## 滑动窗口
 
@@ -179,6 +180,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 23. [合并K个升序链表](../../problemset/merge-k-sorted-lists/README.md) | 困难 |
 
 ## 树状数组
 

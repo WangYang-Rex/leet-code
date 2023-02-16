@@ -183,6 +183,12 @@
         "title": "删除链表的倒数第 N 个结点",
         "path": "./problemset/remove-nth-node-from-end-of-list/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "23",
+        "title": "合并K个升序链表",
+        "path": "./problemset/merge-k-sorted-lists/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -493,7 +499,14 @@
   },
   {
     "label": "优先队列",
-    "topics": []
+    "topics": [
+      {
+        "id": "23",
+        "title": "合并K个升序链表",
+        "path": "./problemset/merge-k-sorted-lists/README.md",
+        "difficulty": "困难"
+      }
+    ]
   },
   {
     "label": "树状数组",

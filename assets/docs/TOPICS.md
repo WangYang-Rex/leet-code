@@ -42,6 +42,8 @@
 
 [22. 括号生成](../../problemset/generate-parentheses/README.md)
 
+[23. 合并K个升序链表](../../problemset/merge-k-sorted-lists/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
