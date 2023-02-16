@@ -120,6 +120,16 @@
     "path": "./problemset/roman-to-integer/README.md"
   },
   {
+    "id": "14",
+    "title": {
+      "cn": "最长公共前缀",
+      "en": "longest-common-prefix"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/longest-common-prefix/",
+    "path": "./problemset/longest-common-prefix/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

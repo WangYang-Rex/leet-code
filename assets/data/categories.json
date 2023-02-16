@@ -132,6 +132,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "14",
+        "title": "最长公共前缀",
+        "path": "./problemset/longest-common-prefix/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "151",
         "title": "反转字符串中的单词",
         "path": "./problemset/reverse-words-in-a-string/README.md",
