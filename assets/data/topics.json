@@ -190,6 +190,16 @@
     "path": "./problemset/move-zeroes/README.md"
   },
   {
+    "id": "345",
+    "title": {
+      "cn": "反转字符串中的元音字母",
+      "en": "reverse-vowels-of-a-string"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reverse-vowels-of-a-string/",
+    "path": "./problemset/reverse-vowels-of-a-string/README.md"
+  },
+  {
     "id": "643",
     "title": {
       "cn": "子数组最大平均数 I",

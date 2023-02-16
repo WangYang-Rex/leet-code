@@ -38,6 +38,8 @@
 
 [283. 移动零](../../problemset/move-zeroes/README.md)
 
+[345. 反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md)
+
 [643. 子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md)
 
 [680. 验证回文串 II](../../problemset/valid-palindrome-ii/README.md)
