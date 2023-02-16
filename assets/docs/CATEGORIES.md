@@ -38,6 +38,7 @@
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 | 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
+| 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 
 ## 链表

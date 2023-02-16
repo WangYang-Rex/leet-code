@@ -132,6 +132,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "541",
+        "title": "反转字符串 II",
+        "path": "./problemset/reverse-string-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "557",
         "title": "反转字符串中的单词 III",
         "path": "./problemset/reverse-words-in-a-string-iii/README.md",

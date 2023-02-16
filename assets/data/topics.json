@@ -220,6 +220,16 @@
     "path": "./problemset/reverse-vowels-of-a-string/README.md"
   },
   {
+    "id": "541",
+    "title": {
+      "cn": "反转字符串 II",
+      "en": "reverse-string-ii"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/reverse-string-ii/",
+    "path": "./problemset/reverse-string-ii/README.md"
+  },
+  {
     "id": "557",
     "title": {
       "cn": "反转字符串中的单词 III",
