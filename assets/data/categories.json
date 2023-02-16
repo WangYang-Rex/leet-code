@@ -432,6 +432,12 @@
         "title": "电话号码的字母组合",
         "path": "./problemset/submissions/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "22",
+        "title": "括号生成",
+        "path": "./problemset/generate-parentheses/README.md",
+        "difficulty": "中等"
       }
     ]
   },

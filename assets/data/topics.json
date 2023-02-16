@@ -200,6 +200,16 @@
     "path": "./problemset/merge-two-sorted-lists/README.md"
   },
   {
+    "id": "22",
+    "title": {
+      "cn": "括号生成",
+      "en": "generate-parentheses"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/generate-parentheses/",
+    "path": "./problemset/generate-parentheses/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

@@ -126,6 +126,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 17. [电话号码的字母组合](../../problemset/submissions/README.md) | 中等 |
+| 22. [括号生成](../../problemset/generate-parentheses/README.md) | 中等 |
 
 ## 栈
 
