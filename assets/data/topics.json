@@ -140,6 +140,16 @@
     "path": "./problemset/3sum/README.md"
   },
   {
+    "id": "16",
+    "title": {
+      "cn": "最接近的三数之和",
+      "en": "3sum-closest"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/3sum-closest/",
+    "path": "./problemset/3sum-closest/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
