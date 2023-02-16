@@ -166,6 +166,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "209",
+        "title": "长度最小的子数组",
+        "path": "./problemset/minimum-size-subarray-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "219",
         "title": "存在重复元素 II",
         "path": "./problemset/contains-duplicate-ii/README.md",
@@ -295,6 +301,12 @@
         "id": "167",
         "title": "两数之和 II - 输入有序数组",
         "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "209",
+        "title": "长度最小的子数组",
+        "path": "./problemset/minimum-size-subarray-sum/README.md",
         "difficulty": "中等"
       },
       {
