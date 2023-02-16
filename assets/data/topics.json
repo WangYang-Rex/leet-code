@@ -190,6 +190,16 @@
     "path": "./problemset/valid-parentheses/README.md"
   },
   {
+    "id": "21",
+    "title": {
+      "cn": "合并两个有序链表",
+      "en": "merge-two-sorted-lists"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/merge-two-sorted-lists/",
+    "path": "./problemset/merge-two-sorted-lists/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

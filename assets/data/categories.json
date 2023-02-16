@@ -448,7 +448,14 @@
   },
   {
     "label": "递归 & 迭代",
-    "topics": []
+    "topics": [
+      {
+        "id": "21",
+        "title": "合并两个有序链表",
+        "path": "./problemset/merge-two-sorted-lists/README.md",
+        "difficulty": "简单"
+      }
+    ]
   },
   {
     "label": "堆",

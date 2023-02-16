@@ -137,6 +137,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md) | 简单 |
 
 ## 堆
 

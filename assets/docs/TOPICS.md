@@ -38,6 +38,8 @@
 
 [20. 有效的括号](../../problemset/valid-parentheses/README.md)
 
+[21. 合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
