@@ -480,6 +480,16 @@
     "path": "./problemset/add-binary/README.md"
   },
   {
+    "id": "68",
+    "title": {
+      "cn": "文本左右对齐",
+      "en": "text-justification"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/text-justification/",
+    "path": "./problemset/text-justification/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

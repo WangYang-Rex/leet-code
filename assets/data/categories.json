@@ -580,6 +580,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "68",
+        "title": "文本左右对齐",
+        "path": "./problemset/text-justification/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",
