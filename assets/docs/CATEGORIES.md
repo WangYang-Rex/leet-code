@@ -209,6 +209,7 @@
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
+| 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
 
 ## 位运算
 

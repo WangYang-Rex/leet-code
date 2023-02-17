@@ -779,6 +779,12 @@
         "title": "不同的二叉搜索树",
         "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "100",
+        "title": "相同的树",
+        "path": "./problemset/same-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   },
