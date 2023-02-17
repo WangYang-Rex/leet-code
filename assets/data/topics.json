@@ -280,6 +280,16 @@
     "path": "./problemset/substring-with-concatenation-of-all-words/README.md"
   },
   {
+    "id": "31",
+    "title": {
+      "cn": "下一个排列",
+      "en": "next-permutation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/next-permutation/",
+    "path": "./problemset/next-permutation/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

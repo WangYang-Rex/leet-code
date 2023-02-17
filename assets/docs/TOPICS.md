@@ -56,6 +56,8 @@
 
 [30. 串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md)
 
+[31. 下一个排列](../../problemset/next-permutation/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)

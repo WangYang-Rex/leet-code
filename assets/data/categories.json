@@ -278,6 +278,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "31",
+        "title": "下一个排列",
+        "path": "./problemset/next-permutation/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "75",
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",
