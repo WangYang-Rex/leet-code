@@ -118,6 +118,7 @@
 | 64. [最小路径和](../../problemset/minimum-path-sum/README.md) | 中等 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
 | 91. [解码方法](../../problemset/decode-ways/README.md) | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针
@@ -166,6 +167,7 @@
 | 40. [组合总和 II](../../problemset/combination-sum-ii/README.md) | 中等 |
 | 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 
 ## 栈
 
@@ -206,6 +208,7 @@
 | ---- | ---- |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
+| 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 
 ## 位运算
 

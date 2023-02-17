@@ -580,6 +580,16 @@
     "path": "./problemset/unique-binary-search-trees-ii/README.md"
   },
   {
+    "id": "96",
+    "title": {
+      "cn": "不同的二叉搜索树",
+      "en": "unique-binary-search-trees"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/unique-binary-search-trees/",
+    "path": "./problemset/unique-binary-search-trees/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",

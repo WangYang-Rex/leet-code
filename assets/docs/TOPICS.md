@@ -116,6 +116,8 @@
 
 [95. 不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md)
 
+[96. 不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md)
+
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
