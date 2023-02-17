@@ -624,7 +624,14 @@
   },
   {
     "label": "贪心算法",
-    "topics": []
+    "topics": [
+      {
+        "id": "45",
+        "title": "跳跃游戏 II",
+        "path": "./problemset/jump-game-ii/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "二叉树",

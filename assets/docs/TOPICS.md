@@ -74,6 +74,8 @@
 
 [43. 字符串相乘](../../problemset/multiply-strings/README.md)
 
+[45. 跳跃游戏 II](../../problemset/jump-game-ii/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)

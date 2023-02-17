@@ -370,6 +370,16 @@
     "path": "./problemset/multiply-strings/README.md"
   },
   {
+    "id": "45",
+    "title": {
+      "cn": "跳跃游戏 II",
+      "en": "jump-game-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/jump-game-ii/",
+    "path": "./problemset/jump-game-ii/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",
