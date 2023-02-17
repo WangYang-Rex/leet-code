@@ -153,6 +153,7 @@
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 67. [二进制求和](../../problemset/add-binary/README.md) | 简单 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
+| 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 回溯
@@ -204,6 +205,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
+| 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 
 ## 位运算
 

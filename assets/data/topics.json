@@ -570,6 +570,16 @@
     "path": "./problemset/binary-tree-inorder-traversal/README.md"
   },
   {
+    "id": "95",
+    "title": {
+      "cn": "不同的二叉搜索树 II",
+      "en": "unique-binary-search-trees-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/unique-binary-search-trees-ii/",
+    "path": "./problemset/unique-binary-search-trees-ii/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",
