@@ -45,6 +45,7 @@
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 | 14. [最长公共前缀](../../problemset/longest-common-prefix/README.md) | 简单 |
 | 28. [找出字符串中第一个匹配项的下标](../../problemset/find-the-index-of-the-first-occurrence-in-a-string/README.md) | 中等 |
+| 58. [最后一个单词的长度](../../problemset/length-of-last-word/README.md) | 简单 |
 | 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |

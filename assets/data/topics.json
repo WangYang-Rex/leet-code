@@ -420,6 +420,16 @@
     "path": "./problemset/jump-game/README.md"
   },
   {
+    "id": "58",
+    "title": {
+      "cn": "最后一个单词的长度",
+      "en": "length-of-last-word"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/length-of-last-word/",
+    "path": "./problemset/length-of-last-word/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

@@ -84,6 +84,8 @@
 
 [55. 跳跃游戏](../../problemset/jump-game/README.md)
 
+[58. 最后一个单词的长度](../../problemset/length-of-last-word/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
