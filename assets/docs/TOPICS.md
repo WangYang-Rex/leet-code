@@ -66,6 +66,8 @@
 
 [35. 搜索插入位置](../../problemset/search-insert-position/README.md)
 
+[36. 有效的数独](../../problemset/valid-sudoku/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)

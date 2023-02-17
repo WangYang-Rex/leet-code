@@ -330,6 +330,16 @@
     "path": "./problemset/search-insert-position/README.md"
   },
   {
+    "id": "36",
+    "title": {
+      "cn": "有效的数独",
+      "en": "valid-sudoku"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/valid-sudoku/",
+    "path": "./problemset/valid-sudoku/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

@@ -5,6 +5,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
+| 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
