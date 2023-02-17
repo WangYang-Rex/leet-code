@@ -60,6 +60,8 @@
 
 [32. 最长有效括号](../../problemset/longest-valid-parentheses/README.md)
 
+[33. 搜索旋转排序数组](../../problemset/search-in-rotated-sorted-array/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)

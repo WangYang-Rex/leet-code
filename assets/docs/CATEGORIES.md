@@ -73,6 +73,7 @@
 | ---- | ---- |
 | 4. [寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md) | 困难 |
 | 29. [两数相除](../../problemset/divide-two-integers/README.md) | 中等 |
+| 33. [搜索旋转排序数组](../../problemset/search-in-rotated-sorted-array/README.md) | 中等 |
 
 ## 排序
 

@@ -300,6 +300,16 @@
     "path": "./problemset/longest-valid-parentheses/README.md"
   },
   {
+    "id": "33",
+    "title": {
+      "cn": "搜索旋转排序数组",
+      "en": "search-in-rotated-sorted-array"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/search-in-rotated-sorted-array/",
+    "path": "./problemset/search-in-rotated-sorted-array/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

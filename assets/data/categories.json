@@ -265,6 +265,12 @@
         "title": "两数相除",
         "path": "./problemset/divide-two-integers/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "33",
+        "title": "搜索旋转排序数组",
+        "path": "./problemset/search-in-rotated-sorted-array/README.md",
+        "difficulty": "中等"
       }
     ]
   },
