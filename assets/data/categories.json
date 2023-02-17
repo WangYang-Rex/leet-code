@@ -15,6 +15,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "43",
+        "title": "字符串相乘",
+        "path": "./problemset/multiply-strings/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -517,6 +523,12 @@
         "id": "12",
         "title": "整数转罗马数字",
         "path": "./problemset/integer-to-roman/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "43",
+        "title": "字符串相乘",
+        "path": "./problemset/multiply-strings/README.md",
         "difficulty": "中等"
       },
       {

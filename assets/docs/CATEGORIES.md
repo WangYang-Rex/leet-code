@@ -6,6 +6,7 @@
 | ---- | ---- |
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 | 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
+| 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
@@ -136,6 +137,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
+| 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 回溯

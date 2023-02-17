@@ -360,6 +360,16 @@
     "path": "./problemset/combination-sum-ii/README.md"
   },
   {
+    "id": "43",
+    "title": {
+      "cn": "字符串相乘",
+      "en": "multiply-strings"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/multiply-strings/",
+    "path": "./problemset/multiply-strings/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",
