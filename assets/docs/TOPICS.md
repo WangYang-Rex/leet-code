@@ -82,6 +82,8 @@
 
 [53. 最大子数组和](../../problemset/maximum-subarray/README.md)
 
+[55. 跳跃游戏](../../problemset/jump-game/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)

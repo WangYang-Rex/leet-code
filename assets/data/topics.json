@@ -410,6 +410,16 @@
     "path": "./problemset/maximum-subarray/README.md"
   },
   {
+    "id": "55",
+    "title": {
+      "cn": "跳跃游戏",
+      "en": "jump-game"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/jump-game/",
+    "path": "./problemset/jump-game/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

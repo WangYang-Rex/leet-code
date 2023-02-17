@@ -181,6 +181,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 45. [跳跃游戏 II](../../problemset/jump-game-ii/README.md) | 中等 |
+| 55. [跳跃游戏](../../problemset/jump-game/README.md) | 中等 |
 
 ## 二叉树
 

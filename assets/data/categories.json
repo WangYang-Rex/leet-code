@@ -636,6 +636,12 @@
         "title": "跳跃游戏 II",
         "path": "./problemset/jump-game-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "55",
+        "title": "跳跃游戏",
+        "path": "./problemset/jump-game/README.md",
+        "difficulty": "中等"
       }
     ]
   },
