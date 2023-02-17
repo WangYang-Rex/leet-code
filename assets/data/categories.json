@@ -574,6 +574,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "67",
+        "title": "二进制求和",
+        "path": "./problemset/add-binary/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",

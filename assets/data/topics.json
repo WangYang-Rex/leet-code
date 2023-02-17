@@ -470,6 +470,16 @@
     "path": "./problemset/plus-one/README.md"
   },
   {
+    "id": "67",
+    "title": {
+      "cn": "二进制求和",
+      "en": "add-binary"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/add-binary/",
+    "path": "./problemset/add-binary/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

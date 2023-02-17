@@ -145,6 +145,7 @@
 | ---- | ---- |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
+| 67. [二进制求和](../../problemset/add-binary/README.md) | 简单 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 回溯
