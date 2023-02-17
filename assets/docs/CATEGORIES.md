@@ -172,6 +172,7 @@
 | ---- | ---- |
 | 20. [有效的括号](../../problemset/valid-parentheses/README.md) | 简单 |
 | 32. [最长有效括号](../../problemset/longest-valid-parentheses/README.md) | 困难 |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 
 ## 递归 & 迭代
 
@@ -179,6 +180,7 @@
 | ---- | ---- |
 | 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md) | 简单 |
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 
 ## 堆
 
@@ -201,6 +203,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 
 ## 位运算
 

@@ -560,6 +560,16 @@
     "path": "./problemset/decode-ways/README.md"
   },
   {
+    "id": "94",
+    "title": {
+      "cn": "二叉树的中序遍历",
+      "en": "binary-tree-inorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/binary-tree-inorder-traversal/",
+    "path": "./problemset/binary-tree-inorder-traversal/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",

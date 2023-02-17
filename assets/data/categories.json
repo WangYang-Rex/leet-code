@@ -684,6 +684,12 @@
         "title": "最长有效括号",
         "path": "./problemset/longest-valid-parentheses/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "94",
+        "title": "二叉树的中序遍历",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -701,6 +707,12 @@
         "title": "两两交换链表中的节点",
         "path": "./problemset/swap-nodes-in-pairs/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "94",
+        "title": "二叉树的中序遍历",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -731,7 +743,14 @@
   },
   {
     "label": "二叉树",
-    "topics": []
+    "topics": [
+      {
+        "id": "94",
+        "title": "二叉树的中序遍历",
+        "path": "./problemset/binary-tree-inorder-traversal/README.md",
+        "difficulty": "简单"
+      }
+    ]
   },
   {
     "label": "位运算",
