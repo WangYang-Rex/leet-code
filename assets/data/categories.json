@@ -549,6 +549,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "40",
+        "title": "组合总和 II",
+        "path": "./problemset/combination-sum-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "46",
         "title": "全排列",
         "path": "./problemset/permutations/README.md",

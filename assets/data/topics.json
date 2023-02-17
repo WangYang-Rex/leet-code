@@ -350,6 +350,16 @@
     "path": "./problemset/combination-sum/README.md"
   },
   {
+    "id": "40",
+    "title": {
+      "cn": "组合总和 II",
+      "en": "combination-sum-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/combination-sum-ii/",
+    "path": "./problemset/combination-sum-ii/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

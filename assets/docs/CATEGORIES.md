@@ -145,6 +145,7 @@
 | 17. [电话号码的字母组合](../../problemset/submissions/README.md) | 中等 |
 | 22. [括号生成](../../problemset/generate-parentheses/README.md) | 中等 |
 | 39. [组合总和](../../problemset/combination-sum/README.md) | 中等 |
+| 40. [组合总和 II](../../problemset/combination-sum-ii/README.md) | 中等 |
 | 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
 
