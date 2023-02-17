@@ -340,6 +340,16 @@
     "path": "./problemset/valid-sudoku/README.md"
   },
   {
+    "id": "39",
+    "title": {
+      "cn": "组合总和",
+      "en": "combination-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/combination-sum/",
+    "path": "./problemset/combination-sum/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

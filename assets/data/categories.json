@@ -543,6 +543,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "39",
+        "title": "组合总和",
+        "path": "./problemset/combination-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "46",
         "title": "全排列",
         "path": "./problemset/permutations/README.md",

@@ -68,6 +68,8 @@
 
 [36. 有效的数独](../../problemset/valid-sudoku/README.md)
 
+[39. 组合总和](../../problemset/combination-sum/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)
