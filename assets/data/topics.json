@@ -430,6 +430,16 @@
     "path": "./problemset/length-of-last-word/README.md"
   },
   {
+    "id": "62",
+    "title": {
+      "cn": "不同路径",
+      "en": "unique-paths"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/unique-paths/",
+    "path": "./problemset/unique-paths/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
