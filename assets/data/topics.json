@@ -540,6 +540,16 @@
     "path": "./problemset/remove-duplicates-from-sorted-list/README.md"
   },
   {
+    "id": "88",
+    "title": {
+      "cn": "合并两个有序数组",
+      "en": "merge-sorted-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/merge-sorted-array/",
+    "path": "./problemset/merge-sorted-array/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",
