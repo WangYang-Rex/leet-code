@@ -270,6 +270,16 @@
     "path": "./problemset/divide-two-integers/README.md"
   },
   {
+    "id": "30",
+    "title": {
+      "cn": "串联所有单词的子串",
+      "en": "substring-with-concatenation-of-all-words"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/substring-with-concatenation-of-all-words/",
+    "path": "./problemset/substring-with-concatenation-of-all-words/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

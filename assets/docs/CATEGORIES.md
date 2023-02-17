@@ -96,6 +96,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 30. [串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md) | 困难 |
 | 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |

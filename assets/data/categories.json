@@ -330,6 +330,12 @@
     "label": "动态规划",
     "topics": [
       {
+        "id": "30",
+        "title": "串联所有单词的子串",
+        "path": "./problemset/substring-with-concatenation-of-all-words/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "46",
         "title": "全排列",
         "path": "./problemset/permutations/README.md",

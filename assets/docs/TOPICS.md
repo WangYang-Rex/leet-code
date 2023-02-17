@@ -54,6 +54,8 @@
 
 [29. 两数相除](../../problemset/divide-two-integers/README.md)
 
+[30. 串联所有单词的子串](../../problemset/substring-with-concatenation-of-all-words/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)
