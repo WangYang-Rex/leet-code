@@ -62,6 +62,8 @@
 
 [33. 搜索旋转排序数组](../../problemset/search-in-rotated-sorted-array/README.md)
 
+[34. 在排序数组中查找元素的第一个和最后一个位置](../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)

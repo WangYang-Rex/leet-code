@@ -74,6 +74,7 @@
 | 4. [寻找两个正序数组的中位数](../../problemset/median-of-two-sorted-arrays/README.md) | 困难 |
 | 29. [两数相除](../../problemset/divide-two-integers/README.md) | 中等 |
 | 33. [搜索旋转排序数组](../../problemset/search-in-rotated-sorted-array/README.md) | 中等 |
+| 34. [在排序数组中查找元素的第一个和最后一个位置](../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 
 ## 排序
 
@@ -210,16 +211,6 @@
 | ---- | ---- |
 
 ## 图
-
-| 题目 | 难度 |
-| ---- | ---- |
-
-## 滑动窗口
-
-| 题目 | 难度 |
-| ---- | ---- |
-
-## 二分查找
 
 | 题目 | 难度 |
 | ---- | ---- |
