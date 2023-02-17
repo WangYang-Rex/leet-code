@@ -530,6 +530,16 @@
     "path": "./problemset/remove-duplicates-from-sorted-array-ii/README.md"
   },
   {
+    "id": "83",
+    "title": {
+      "cn": "删除排序链表中的重复元素",
+      "en": "remove-duplicates-from-sorted-list"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/remove-duplicates-from-sorted-list/",
+    "path": "./problemset/remove-duplicates-from-sorted-list/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",

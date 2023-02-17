@@ -106,6 +106,8 @@
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
 
+[83. 删除排序链表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md)
+
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)

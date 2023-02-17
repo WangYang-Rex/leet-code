@@ -225,6 +225,12 @@
         "title": "合并K个升序链表",
         "path": "./problemset/merge-k-sorted-lists/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "83",
+        "title": "删除排序链表中的重复元素",
+        "path": "./problemset/remove-duplicates-from-sorted-list/README.md",
+        "difficulty": "简单"
       }
     ]
   },
