@@ -379,6 +379,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "70",
+        "title": "爬楼梯",
+        "path": "./problemset/climbing-stairs/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -436,6 +442,12 @@
         "title": "最小路径和",
         "path": "./problemset/minimum-path-sum/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "70",
+        "title": "爬楼梯",
+        "path": "./problemset/climbing-stairs/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "1139",

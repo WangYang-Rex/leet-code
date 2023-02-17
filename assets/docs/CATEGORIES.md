@@ -100,6 +100,7 @@
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
 | 69. [x 的平方根](../../problemset/sqrtx/README.md) | 简单 |
+| 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 
 ## 动态规划
@@ -114,6 +115,7 @@
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
 | 63. [不同路径 II](../../problemset/unique-paths-ii/README.md) | 中等 |
 | 64. [最小路径和](../../problemset/minimum-path-sum/README.md) | 中等 |
+| 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针

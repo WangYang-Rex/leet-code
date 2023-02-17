@@ -500,6 +500,16 @@
     "path": "./problemset/sqrtx/README.md"
   },
   {
+    "id": "70",
+    "title": {
+      "cn": "爬楼梯",
+      "en": "climbing-stairs"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/climbing-stairs/",
+    "path": "./problemset/climbing-stairs/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
