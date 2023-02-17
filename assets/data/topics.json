@@ -430,6 +430,16 @@
     "path": "./problemset/longest-well-performing-interval/README.md"
   },
   {
+    "id": "1139",
+    "title": {
+      "cn": "最大的以 1 为边界的正方形",
+      "en": "largest-1-bordered-square"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/largest-1-bordered-square/",
+    "path": "./problemset/largest-1-bordered-square/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

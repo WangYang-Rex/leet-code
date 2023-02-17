@@ -96,6 +96,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针
 
@@ -126,6 +127,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
+| 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 回溯
 

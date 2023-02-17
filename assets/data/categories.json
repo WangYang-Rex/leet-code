@@ -328,7 +328,14 @@
   },
   {
     "label": "动态规划",
-    "topics": []
+    "topics": [
+      {
+        "id": "1139",
+        "title": "最大的以 1 为边界的正方形",
+        "path": "./problemset/largest-1-bordered-square/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "双指针",
@@ -456,6 +463,12 @@
         "id": "12",
         "title": "整数转罗马数字",
         "path": "./problemset/integer-to-roman/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1139",
+        "title": "最大的以 1 为边界的正方形",
+        "path": "./problemset/largest-1-bordered-square/README.md",
         "difficulty": "中等"
       }
     ]
