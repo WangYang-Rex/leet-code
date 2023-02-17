@@ -731,6 +731,12 @@
         "title": "二叉树的中序遍历",
         "path": "./problemset/binary-tree-inorder-traversal/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "101",
+        "title": "对称二叉树",
+        "path": "./problemset/symmetric-tree/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -784,6 +790,12 @@
         "id": "100",
         "title": "相同的树",
         "path": "./problemset/same-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "101",
+        "title": "对称二叉树",
+        "path": "./problemset/symmetric-tree/README.md",
         "difficulty": "简单"
       }
     ]

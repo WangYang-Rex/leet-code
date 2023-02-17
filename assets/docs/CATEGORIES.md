@@ -184,6 +184,7 @@
 | 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md) | 简单 |
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
+| 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 
 ## 堆
 
@@ -210,6 +211,7 @@
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
+| 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 
 ## 位运算
 
