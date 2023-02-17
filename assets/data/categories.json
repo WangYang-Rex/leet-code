@@ -330,6 +330,12 @@
     "label": "动态规划",
     "topics": [
       {
+        "id": "46",
+        "title": "全排列",
+        "path": "./problemset/permutations/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",
@@ -486,6 +492,12 @@
         "id": "22",
         "title": "括号生成",
         "path": "./problemset/generate-parentheses/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "46",
+        "title": "全排列",
+        "path": "./problemset/permutations/README.md",
         "difficulty": "中等"
       }
     ]

@@ -96,6 +96,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针
@@ -135,6 +136,7 @@
 | ---- | ---- |
 | 17. [电话号码的字母组合](../../problemset/submissions/README.md) | 中等 |
 | 22. [括号生成](../../problemset/generate-parentheses/README.md) | 中等 |
+| 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 
 ## 栈
 

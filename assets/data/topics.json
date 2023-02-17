@@ -270,6 +270,16 @@
     "path": "./problemset/divide-two-integers/README.md"
   },
   {
+    "id": "46",
+    "title": {
+      "cn": "全排列",
+      "en": "permutations"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/permutations/",
+    "path": "./problemset/permutations/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
