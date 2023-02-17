@@ -260,6 +260,16 @@
     "path": "./problemset/find-the-index-of-the-first-occurrence-in-a-string/README.md"
   },
   {
+    "id": "29",
+    "title": {
+      "cn": "两数相除",
+      "en": "divide-two-integers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/divide-two-integers/",
+    "path": "./problemset/divide-two-integers/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",

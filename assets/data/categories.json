@@ -259,6 +259,12 @@
         "title": "寻找两个正序数组的中位数",
         "path": "./problemset/median-of-two-sorted-arrays/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "29",
+        "title": "两数相除",
+        "path": "./problemset/divide-two-integers/README.md",
+        "difficulty": "中等"
       }
     ]
   },
