@@ -320,6 +320,16 @@
     "path": "./problemset/find-first-and-last-position-of-element-in-sorted-array/README.md"
   },
   {
+    "id": "35",
+    "title": {
+      "cn": "搜索插入位置",
+      "en": "search-insert-position"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/search-insert-position/",
+    "path": "./problemset/search-insert-position/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

@@ -64,6 +64,8 @@
 
 [34. 在排序数组中查找元素的第一个和最后一个位置](../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md)
 
+[35. 搜索插入位置](../../problemset/search-insert-position/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)
