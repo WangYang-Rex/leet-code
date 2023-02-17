@@ -280,6 +280,16 @@
     "path": "./problemset/permutations/README.md"
   },
   {
+    "id": "47",
+    "title": {
+      "cn": "全排列 II",
+      "en": "permutations-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/permutations-ii/",
+    "path": "./problemset/permutations-ii/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
