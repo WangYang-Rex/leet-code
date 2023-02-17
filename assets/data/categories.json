@@ -342,6 +342,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "32",
+        "title": "最长有效括号",
+        "path": "./problemset/longest-valid-parentheses/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "46",
         "title": "全排列",
         "path": "./problemset/permutations/README.md",
@@ -534,6 +540,12 @@
         "title": "有效的括号",
         "path": "./problemset/valid-parentheses/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "32",
+        "title": "最长有效括号",
+        "path": "./problemset/longest-valid-parentheses/README.md",
+        "difficulty": "困难"
       }
     ]
   },

@@ -290,6 +290,16 @@
     "path": "./problemset/next-permutation/README.md"
   },
   {
+    "id": "32",
+    "title": {
+      "cn": "最长有效括号",
+      "en": "longest-valid-parentheses"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/longest-valid-parentheses/",
+    "path": "./problemset/longest-valid-parentheses/README.md"
+  },
+  {
     "id": "46",
     "title": {
       "cn": "全排列",

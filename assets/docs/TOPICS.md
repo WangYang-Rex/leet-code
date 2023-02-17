@@ -58,6 +58,8 @@
 
 [31. 下一个排列](../../problemset/next-permutation/README.md)
 
+[32. 最长有效括号](../../problemset/longest-valid-parentheses/README.md)
+
 [46. 全排列](../../problemset/permutations/README.md)
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)
