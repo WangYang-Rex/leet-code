@@ -106,6 +106,7 @@
 | 32. [最长有效括号](../../problemset/longest-valid-parentheses/README.md) | 困难 |
 | 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
+| 53. [最大子数组和](../../problemset/maximum-subarray/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针

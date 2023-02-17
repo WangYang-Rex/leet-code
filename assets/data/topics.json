@@ -400,6 +400,16 @@
     "path": "./problemset/permutations-ii/README.md"
   },
   {
+    "id": "53",
+    "title": {
+      "cn": "最大子数组和",
+      "en": "maximum-subarray"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximum-subarray/",
+    "path": "./problemset/maximum-subarray/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
