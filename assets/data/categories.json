@@ -420,6 +420,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "64",
+        "title": "最小路径和",
+        "path": "./problemset/minimum-path-sum/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",

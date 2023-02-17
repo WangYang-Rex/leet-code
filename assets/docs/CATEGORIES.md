@@ -111,6 +111,7 @@
 | 53. [最大子数组和](../../problemset/maximum-subarray/README.md) | 中等 |
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
 | 63. [不同路径 II](../../problemset/unique-paths-ii/README.md) | 中等 |
+| 64. [最小路径和](../../problemset/minimum-path-sum/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针

@@ -450,6 +450,16 @@
     "path": "./problemset/unique-paths-ii/README.md"
   },
   {
+    "id": "64",
+    "title": {
+      "cn": "最小路径和",
+      "en": "minimum-path-sum"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/minimum-path-sum/",
+    "path": "./problemset/minimum-path-sum/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
