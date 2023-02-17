@@ -117,6 +117,7 @@
 | 63. [不同路径 II](../../problemset/unique-paths-ii/README.md) | 中等 |
 | 64. [最小路径和](../../problemset/minimum-path-sum/README.md) | 中等 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
+| 91. [解码方法](../../problemset/decode-ways/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 
 ## 双指针

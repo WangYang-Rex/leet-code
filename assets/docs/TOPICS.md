@@ -110,6 +110,8 @@
 
 [88. 合并两个有序数组](../../problemset/merge-sorted-array/README.md)
 
+[91. 解码方法](../../problemset/decode-ways/README.md)
+
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
