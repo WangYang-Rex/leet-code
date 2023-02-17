@@ -98,6 +98,8 @@
 
 [68. 文本左右对齐](../../problemset/text-justification/README.md)
 
+[69. x 的平方根](../../problemset/sqrtx/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)

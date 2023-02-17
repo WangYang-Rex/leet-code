@@ -373,6 +373,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "69",
+        "title": "x 的平方根",
+        "path": "./problemset/sqrtx/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",

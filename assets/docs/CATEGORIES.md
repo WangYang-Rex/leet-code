@@ -99,6 +99,7 @@
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
+| 69. [x 的平方根](../../problemset/sqrtx/README.md) | 简单 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 
 ## 动态规划

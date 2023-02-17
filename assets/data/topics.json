@@ -490,6 +490,16 @@
     "path": "./problemset/text-justification/README.md"
   },
   {
+    "id": "69",
+    "title": {
+      "cn": "x 的平方根",
+      "en": "sqrtx"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/sqrtx/",
+    "path": "./problemset/sqrtx/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
