@@ -79,6 +79,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "66",
+        "title": "加一",
+        "path": "./problemset/plus-one/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "75",
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",

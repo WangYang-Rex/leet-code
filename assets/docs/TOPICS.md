@@ -92,6 +92,8 @@
 
 [64. 最小路径和](../../problemset/minimum-path-sum/README.md)
 
+[66. 加一](../../problemset/plus-one/README.md)
+
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)

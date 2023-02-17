@@ -25,6 +25,7 @@
 | 15. [三数之和](../../problemset/3sum/README.md) | 中等 |
 | 16. [最接近的三数之和](../../problemset/3sum-closest/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../../problemset/remove-duplicates-from-sorted-array/README.md) | 简单 |
+| 66. [加一](../../problemset/plus-one/README.md) | 简单 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |

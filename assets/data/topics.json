@@ -460,6 +460,16 @@
     "path": "./problemset/minimum-path-sum/README.md"
   },
   {
+    "id": "66",
+    "title": {
+      "cn": "加一",
+      "en": "plus-one"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/plus-one/",
+    "path": "./problemset/plus-one/README.md"
+  },
+  {
     "id": "75",
     "title": {
       "cn": "颜色分类",
