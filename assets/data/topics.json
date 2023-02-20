@@ -840,6 +840,16 @@
     "path": "./problemset/coin-change/README.md"
   },
   {
+    "id": "326",
+    "title": {
+      "cn": "3 的幂",
+      "en": "power-of-three"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/power-of-three/",
+    "path": "./problemset/power-of-three/README.md"
+  },
+  {
     "id": "344",
     "title": {
       "cn": "反转字符串",

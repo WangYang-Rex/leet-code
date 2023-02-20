@@ -457,6 +457,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "326",
+        "title": "3 的幂",
+        "path": "./problemset/power-of-three/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",

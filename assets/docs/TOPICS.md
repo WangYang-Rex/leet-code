@@ -168,6 +168,8 @@
 
 [322. 零钱兑换](../../problemset/coin-change/README.md)
 
+[326. 3 的幂](../../problemset/power-of-three/README.md)
+
 [344. 反转字符串](../../problemset/reverse-string/README.md)
 
 [345. 反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md)
