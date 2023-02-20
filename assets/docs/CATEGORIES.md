@@ -178,6 +178,7 @@
 | 46. [全排列](../../problemset/permutations/README.md) | 中等 |
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
+| 212. [单词搜索 II](../../problemset/word-search-ii/README.md) | 困难 |
 
 ## 栈
 
@@ -243,6 +244,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 212. [单词搜索 II](../../problemset/word-search-ii/README.md) | 困难 |
 
 ## 优先队列
 

@@ -745,6 +745,12 @@
         "title": "不同的二叉搜索树",
         "path": "./problemset/unique-binary-search-trees/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "212",
+        "title": "单词搜索 II",
+        "path": "./problemset/word-search-ii/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -907,7 +913,14 @@
   },
   {
     "label": "字典树",
-    "topics": []
+    "topics": [
+      {
+        "id": "212",
+        "title": "单词搜索 II",
+        "path": "./problemset/word-search-ii/README.md",
+        "difficulty": "困难"
+      }
+    ]
   },
   {
     "label": "优先队列",
