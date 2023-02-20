@@ -1027,6 +1027,13 @@
   },
   {
     "label": "图",
-    "topics": []
+    "topics": [
+      {
+        "id": "441",
+        "title": "排列硬币",
+        "path": "./problemset/arranging-coins/README.md",
+        "difficulty": "简单"
+      }
+    ]
   }
 ]

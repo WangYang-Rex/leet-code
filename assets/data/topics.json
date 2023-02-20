@@ -910,6 +910,16 @@
     "path": "./problemset/path-sum-iii/README.md"
   },
   {
+    "id": "441",
+    "title": {
+      "cn": "排列硬币",
+      "en": "arranging-coins"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/arranging-coins/",
+    "path": "./problemset/arranging-coins/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",
