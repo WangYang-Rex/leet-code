@@ -77,6 +77,7 @@
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
+| 413. [等差数列划分](../../problemset/arithmetic-slices/README.md) | 中等 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
@@ -159,6 +160,7 @@
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 344. [反转字符串](../../problemset/reverse-string/README.md) | 简单 |
 | 345. [反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md) | 简单 |
+| 413. [等差数列划分](../../problemset/arithmetic-slices/README.md) | 中等 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |

@@ -316,6 +316,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "413",
+        "title": "等差数列划分",
+        "path": "./problemset/arithmetic-slices/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "643",
         "title": "子数组最大平均数 I",
         "path": "./problemset/maximum-average-subarray-i/README.md",
@@ -681,6 +687,12 @@
         "title": "反转字符串中的元音字母",
         "path": "./problemset/reverse-vowels-of-a-string/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "413",
+        "title": "等差数列划分",
+        "path": "./problemset/arithmetic-slices/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "643",

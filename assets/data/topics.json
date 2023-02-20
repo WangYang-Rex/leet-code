@@ -890,6 +890,16 @@
     "path": "./problemset/fizz-buzz/README.md"
   },
   {
+    "id": "413",
+    "title": {
+      "cn": "等差数列划分",
+      "en": "arithmetic-slices"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/arithmetic-slices/",
+    "path": "./problemset/arithmetic-slices/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",

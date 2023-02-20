@@ -178,6 +178,8 @@
 
 [412. Fizz Buzz](../../problemset/fizz-buzz/README.md)
 
+[413. 等差数列划分](../../problemset/arithmetic-slices/README.md)
+
 [541. 反转字符串 II](../../problemset/reverse-string-ii/README.md)
 
 [557. 反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md)
