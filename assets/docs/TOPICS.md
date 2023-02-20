@@ -156,6 +156,8 @@
 
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)
 
+[223. 矩形面积](../../problemset/rectangle-area/README.md)
+
 [283. 移动零](../../problemset/move-zeroes/README.md)
 
 [344. 反转字符串](../../problemset/reverse-string/README.md)
