@@ -38,5 +38,22 @@ solution.getRandom(); // 返回 3
 ## 解题
 
 ```typescript
+import type { ListNode } from '~/utils/listNode';
 
+export class Solution {
+  private arr: ListNode[] = [];
+  constructor(head: ListNode | null) {
+    this.arr = [];
+    while (head) {
+      this.arr.push(head);
+      head = head.next;
+    }
+  }
+
+  getRandom(): number {
+    const length = this.arr.length;
+    const index = Math.floor(Math.random() * length);
+    return this.arr[index].val;
+  }
+}
 ```

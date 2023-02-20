@@ -9,6 +9,7 @@
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
+| 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 

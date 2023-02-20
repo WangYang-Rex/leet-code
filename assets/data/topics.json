@@ -880,6 +880,16 @@
     "path": "./problemset/linked-list-random-node/README.md"
   },
   {
+    "id": "412",
+    "title": {
+      "cn": "Fizz Buzz",
+      "en": "fizz-buzz"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/fizz-buzz/",
+    "path": "./problemset/fizz-buzz/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",
