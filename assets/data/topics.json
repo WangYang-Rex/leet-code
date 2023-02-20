@@ -640,6 +640,16 @@
     "path": "./problemset/minimum-depth-of-binary-tree/README.md"
   },
   {
+    "id": "121",
+    "title": {
+      "cn": "买卖股票的最佳时机",
+      "en": "best-time-to-buy-and-sell-stock"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/",
+    "path": "./problemset/best-time-to-buy-and-sell-stock/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",

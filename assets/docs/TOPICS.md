@@ -128,6 +128,8 @@
 
 [111. 二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md)
 
+[121. 买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md)
+
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
