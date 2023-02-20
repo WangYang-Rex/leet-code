@@ -90,6 +90,7 @@
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 35. [搜索插入位置](../../problemset/search-insert-position/README.md) | 简单 |
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
+| 278. [第一个错误的版本](../../problemset/first-bad-version/README.md) | 简单 |
 
 ## 排序
 

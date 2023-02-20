@@ -160,6 +160,8 @@
 
 [273. 整数转换英文表示](../../problemset/integer-to-english-words/README.md)
 
+[278. 第一个错误的版本](../../problemset/first-bad-version/README.md)
+
 [283. 移动零](../../problemset/move-zeroes/README.md)
 
 [344. 反转字符串](../../problemset/reverse-string/README.md)

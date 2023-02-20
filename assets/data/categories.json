@@ -367,6 +367,12 @@
         "title": "寻找峰值",
         "path": "./problemset/find-peak-element/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "278",
+        "title": "第一个错误的版本",
+        "path": "./problemset/first-bad-version/README.md",
+        "difficulty": "简单"
       }
     ]
   },
