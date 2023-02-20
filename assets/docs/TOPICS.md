@@ -140,6 +140,8 @@
 
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
+[187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
+
 [209. 长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md)
 
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)

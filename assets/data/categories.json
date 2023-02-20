@@ -44,6 +44,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "187",
+        "title": "重复的DNA序列",
+        "path": "./problemset/repeated-dna-sequences/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -253,6 +259,12 @@
         "id": "3",
         "title": "无重复字符的最长子串",
         "path": "./problemset/longest-substring-without-repeating-characters/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "187",
+        "title": "重复的DNA序列",
+        "path": "./problemset/repeated-dna-sequences/README.md",
         "difficulty": "中等"
       },
       {
@@ -575,6 +587,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "187",
+        "title": "重复的DNA序列",
+        "path": "./problemset/repeated-dna-sequences/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "209",
         "title": "长度最小的子数组",
         "path": "./problemset/minimum-size-subarray-sum/README.md",
@@ -856,7 +874,14 @@
   },
   {
     "label": "位运算",
-    "topics": []
+    "topics": [
+      {
+        "id": "187",
+        "title": "重复的DNA序列",
+        "path": "./problemset/repeated-dna-sequences/README.md",
+        "difficulty": "中等"
+      }
+    ]
   },
   {
     "label": "并查集",

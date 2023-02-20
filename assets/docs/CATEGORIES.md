@@ -15,6 +15,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 
 ## 数组
@@ -67,6 +68,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 3. [无重复字符的最长子串](../../problemset/longest-substring-without-repeating-characters/README.md) | 中等 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
@@ -141,6 +143,7 @@
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
@@ -226,6 +229,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 
 ## 并查集
 

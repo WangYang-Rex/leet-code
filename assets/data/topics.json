@@ -700,6 +700,16 @@
     "path": "./problemset/two-sum-ii-input-array-is-sorted/README.md"
   },
   {
+    "id": "187",
+    "title": {
+      "cn": "重复的DNA序列",
+      "en": "repeated-dna-sequences"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/repeated-dna-sequences/",
+    "path": "./problemset/repeated-dna-sequences/README.md"
+  },
+  {
     "id": "209",
     "title": {
       "cn": "长度最小的子数组",
