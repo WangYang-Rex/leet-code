@@ -900,6 +900,16 @@
     "path": "./problemset/arithmetic-slices/README.md"
   },
   {
+    "id": "437",
+    "title": {
+      "cn": "路径总和 III",
+      "en": "path-sum-iii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/path-sum-iii/",
+    "path": "./problemset/path-sum-iii/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",

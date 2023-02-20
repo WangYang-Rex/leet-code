@@ -1,5 +1,6 @@
 // Definition for a binary tree node.
 export class TreeNode {
+  [x: string]: any
   val: number
   left: TreeNode | null
   right: TreeNode | null

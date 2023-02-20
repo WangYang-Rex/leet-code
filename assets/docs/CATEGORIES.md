@@ -10,6 +10,7 @@
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
+| 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
@@ -240,6 +241,7 @@
 | 104. [二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md) | 简单 |
 | 108. [将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md) | 简单 |
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
+| 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 
 ## 位运算
 
