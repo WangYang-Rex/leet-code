@@ -174,6 +174,8 @@
 
 [345. 反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md)
 
+[382. 链表随机节点](../../problemset/linked-list-random-node/README.md)
+
 [541. 反转字符串 II](../../problemset/reverse-string-ii/README.md)
 
 [557. 反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md)

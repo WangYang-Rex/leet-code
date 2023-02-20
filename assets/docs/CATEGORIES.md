@@ -66,6 +66,7 @@
 | 23. [合并K个升序链表](../../problemset/merge-k-sorted-lists/README.md) | 困难 |
 | 83. [删除排序链表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md) | 简单 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
+| 382. [链表随机节点](../../problemset/linked-list-random-node/README.md) | 中等 |
 
 ## 滑动窗口
 

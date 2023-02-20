@@ -273,6 +273,12 @@
         "title": "反转链表",
         "path": "./problemset/reverse-linked-list/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "382",
+        "title": "链表随机节点",
+        "path": "./problemset/linked-list-random-node/README.md",
+        "difficulty": "中等"
       }
     ]
   },
