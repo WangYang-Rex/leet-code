@@ -680,6 +680,16 @@
     "path": "./problemset/find-peak-element/README.md"
   },
   {
+    "id": "165",
+    "title": {
+      "cn": "比较版本号",
+      "en": "compare-version-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/compare-version-numbers/",
+    "path": "./problemset/compare-version-numbers/README.md"
+  },
+  {
     "id": "167",
     "title": {
       "cn": "两数之和 II - 输入有序数组",

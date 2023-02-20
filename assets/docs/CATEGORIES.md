@@ -49,6 +49,7 @@
 | 28. [找出字符串中第一个匹配项的下标](../../problemset/find-the-index-of-the-first-occurrence-in-a-string/README.md) | 中等 |
 | 58. [最后一个单词的长度](../../problemset/length-of-last-word/README.md) | 简单 |
 | 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
+| 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 
@@ -138,6 +139,7 @@
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md) | 简单 |
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
+| 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 209. [长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md) | 中等 |
 | 219. [存在重复元素 II](../../problemset/contains-duplicate-ii/README.md) | 简单 |

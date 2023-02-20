@@ -198,6 +198,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "165",
+        "title": "比较版本号",
+        "path": "./problemset/compare-version-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "541",
         "title": "反转字符串 II",
         "path": "./problemset/reverse-string-ii/README.md",
@@ -555,6 +561,12 @@
         "title": "验证回文串",
         "path": "./problemset/valid-palindrome/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "165",
+        "title": "比较版本号",
+        "path": "./problemset/compare-version-numbers/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "167",
