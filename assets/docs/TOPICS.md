@@ -152,6 +152,8 @@
 
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
 
+[217. 存在重复元素](../../problemset/contains-duplicate/README.md)
+
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)
 
 [283. 移动零](../../problemset/move-zeroes/README.md)

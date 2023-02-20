@@ -17,6 +17,7 @@
 | ---- | ---- |
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 
 ## 数组

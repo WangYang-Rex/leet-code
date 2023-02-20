@@ -56,6 +56,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "217",
+        "title": "存在重复元素",
+        "path": "./problemset/contains-duplicate/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",

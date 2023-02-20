@@ -760,6 +760,16 @@
     "path": "./problemset/kth-largest-element-in-an-array/README.md"
   },
   {
+    "id": "217",
+    "title": {
+      "cn": "存在重复元素",
+      "en": "contains-duplicate"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/contains-duplicate/",
+    "path": "./problemset/contains-duplicate/README.md"
+  },
+  {
     "id": "219",
     "title": {
       "cn": "存在重复元素 II",
