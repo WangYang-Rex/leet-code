@@ -827,6 +827,12 @@
         "title": "反转链表",
         "path": "./problemset/reverse-linked-list/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "273",
+        "title": "整数转换英文表示",
+        "path": "./problemset/integer-to-english-words/README.md",
+        "difficulty": "困难"
       }
     ]
   },
