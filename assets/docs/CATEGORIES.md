@@ -212,6 +212,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 100. [相同的树](../../problemset/same-tree/README.md) | 简单 |
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
+| 104. [二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md) | 简单 |
 
 ## 位运算
 

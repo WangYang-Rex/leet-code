@@ -610,6 +610,16 @@
     "path": "./problemset/symmetric-tree/README.md"
   },
   {
+    "id": "104",
+    "title": {
+      "cn": "二叉树的最大深度",
+      "en": "maximum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/maximum-depth-of-binary-tree/",
+    "path": "./problemset/maximum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",
