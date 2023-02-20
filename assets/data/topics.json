@@ -820,6 +820,16 @@
     "path": "./problemset/move-zeroes/README.md"
   },
   {
+    "id": "292",
+    "title": {
+      "cn": "Nim 游戏",
+      "en": "nim-game"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/nim-game/",
+    "path": "./problemset/nim-game/README.md"
+  },
+  {
     "id": "344",
     "title": {
       "cn": "反转字符串",
