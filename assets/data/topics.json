@@ -630,6 +630,16 @@
     "path": "./problemset/convert-sorted-array-to-binary-search-tree/README.md"
   },
   {
+    "id": "111",
+    "title": {
+      "cn": "二叉树的最小深度",
+      "en": "minimum-depth-of-binary-tree"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/minimum-depth-of-binary-tree/",
+    "path": "./problemset/minimum-depth-of-binary-tree/README.md"
+  },
+  {
     "id": "125",
     "title": {
       "cn": "验证回文串",
