@@ -142,6 +142,8 @@
 
 [187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
 
+[206. 反转链表](../../problemset/reverse-linked-list/README.md)
+
 [209. 长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md)
 
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)

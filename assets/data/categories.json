@@ -249,6 +249,12 @@
         "title": "删除排序链表中的重复元素",
         "path": "./problemset/remove-duplicates-from-sorted-list/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "206",
+        "title": "反转链表",
+        "path": "./problemset/reverse-linked-list/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -791,6 +797,12 @@
         "title": "寻找峰值",
         "path": "./problemset/find-peak-element/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "206",
+        "title": "反转链表",
+        "path": "./problemset/reverse-linked-list/README.md",
+        "difficulty": "简单"
       }
     ]
   },
