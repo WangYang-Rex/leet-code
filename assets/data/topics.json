@@ -830,6 +830,16 @@
     "path": "./problemset/maximum-number-of-pairs-in-array/README.md"
   },
   {
+    "id": "2347",
+    "title": {
+      "cn": "最好的扑克手牌",
+      "en": "best-poker-hand"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/best-poker-hand/",
+    "path": "./problemset/best-poker-hand/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",

@@ -156,6 +156,7 @@
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
+| 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 
 ## 回溯
 

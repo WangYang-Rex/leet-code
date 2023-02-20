@@ -166,4 +166,6 @@
 
 [2341. 数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md)
 
+[2347. 最好的扑克手牌](../../problemset/best-poker-hand/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
