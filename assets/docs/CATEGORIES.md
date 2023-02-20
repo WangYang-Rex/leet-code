@@ -82,6 +82,7 @@
 | 33. [搜索旋转排序数组](../../problemset/search-in-rotated-sorted-array/README.md) | 中等 |
 | 34. [在排序数组中查找元素的第一个和最后一个位置](../../problemset/find-first-and-last-position-of-element-in-sorted-array/README.md) | 中等 |
 | 35. [搜索插入位置](../../problemset/search-insert-position/README.md) | 简单 |
+| 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 
 ## 排序
 
@@ -187,6 +188,7 @@
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
+| 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 
 ## 堆
 

@@ -319,6 +319,12 @@
         "title": "搜索插入位置",
         "path": "./problemset/search-insert-position/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "162",
+        "title": "寻找峰值",
+        "path": "./problemset/find-peak-element/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -749,6 +755,12 @@
         "title": "对称二叉树",
         "path": "./problemset/symmetric-tree/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "162",
+        "title": "寻找峰值",
+        "path": "./problemset/find-peak-element/README.md",
+        "difficulty": "中等"
       }
     ]
   },

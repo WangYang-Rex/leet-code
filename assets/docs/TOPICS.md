@@ -134,6 +134,8 @@
 
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
 
+[162. 寻找峰值](../../problemset/find-peak-element/README.md)
+
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
 [209. 长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md)

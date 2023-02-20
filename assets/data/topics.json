@@ -670,6 +670,16 @@
     "path": "./problemset/reverse-words-in-a-string/README.md"
   },
   {
+    "id": "162",
+    "title": {
+      "cn": "寻找峰值",
+      "en": "find-peak-element"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-peak-element/",
+    "path": "./problemset/find-peak-element/README.md"
+  },
+  {
     "id": "167",
     "title": {
       "cn": "两数之和 II - 输入有序数组",
