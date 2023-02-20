@@ -47,5 +47,3 @@ export function bestHand(ranks: number[], suits: string[]): string {
   // 高牌
   return 'High Card'
 }
-
-console.log(bestHand([10, 10, 2, 12, 9], ['a', 'b', 'c', 'a', 'd']))
