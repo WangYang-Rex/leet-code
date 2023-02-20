@@ -534,6 +534,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "322",
+        "title": "零钱兑换",
+        "path": "./problemset/coin-change/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",
@@ -709,6 +715,12 @@
         "id": "95",
         "title": "不同的二叉搜索树 II",
         "path": "./problemset/unique-binary-search-trees-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "322",
+        "title": "零钱兑换",
+        "path": "./problemset/coin-change/README.md",
         "difficulty": "中等"
       },
       {

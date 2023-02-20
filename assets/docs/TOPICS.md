@@ -166,6 +166,8 @@
 
 [292. Nim 游戏](../../problemset/nim-game/README.md)
 
+[322. 零钱兑换](../../problemset/coin-change/README.md)
+
 [344. 反转字符串](../../problemset/reverse-string/README.md)
 
 [345. 反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md)
