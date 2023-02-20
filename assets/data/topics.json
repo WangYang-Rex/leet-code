@@ -930,6 +930,16 @@
     "path": "./problemset/number-of-boomerangs/README.md"
   },
   {
+    "id": "470",
+    "title": {
+      "cn": "用 Rand7() 实现 Rand10()",
+      "en": "implement-rand10-using-rand7"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/implement-rand10-using-rand7/",
+    "path": "./problemset/implement-rand10-using-rand7/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",
