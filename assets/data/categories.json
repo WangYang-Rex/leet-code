@@ -45,6 +45,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "447",
+        "title": "回旋镖的数量",
+        "path": "./problemset/number-of-boomerangs/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -757,6 +763,12 @@
         "id": "322",
         "title": "零钱兑换",
         "path": "./problemset/coin-change/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "447",
+        "title": "回旋镖的数量",
+        "path": "./problemset/number-of-boomerangs/README.md",
         "difficulty": "中等"
       },
       {

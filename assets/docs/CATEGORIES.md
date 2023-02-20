@@ -11,6 +11,7 @@
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
+| 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
@@ -176,6 +177,7 @@
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
+| 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 

@@ -920,6 +920,16 @@
     "path": "./problemset/arranging-coins/README.md"
   },
   {
+    "id": "447",
+    "title": {
+      "cn": "回旋镖的数量",
+      "en": "number-of-boomerangs"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/number-of-boomerangs/",
+    "path": "./problemset/number-of-boomerangs/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",
