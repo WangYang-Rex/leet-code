@@ -146,6 +146,8 @@
 
 [209. 长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md)
 
+[211. 添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md)
+
 [215. 数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md)
 
 [219. 存在重复元素 II](../../problemset/contains-duplicate-ii/README.md)

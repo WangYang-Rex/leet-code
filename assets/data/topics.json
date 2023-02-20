@@ -730,6 +730,16 @@
     "path": "./problemset/minimum-size-subarray-sum/README.md"
   },
   {
+    "id": "211",
+    "title": {
+      "cn": "添加与搜索单词 - 数据结构设计",
+      "en": "design-add-and-search-words-data-structure"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/design-add-and-search-words-data-structure/",
+    "path": "./problemset/design-add-and-search-words-data-structure/README.md"
+  },
+  {
     "id": "215",
     "title": {
       "cn": "数组中的第K个最大元素",
