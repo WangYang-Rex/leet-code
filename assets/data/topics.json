@@ -940,6 +940,16 @@
     "path": "./problemset/implement-rand10-using-rand7/README.md"
   },
   {
+    "id": "476",
+    "title": {
+      "cn": "数字的补数",
+      "en": "number-complement"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-complement/",
+    "path": "./problemset/number-complement/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",

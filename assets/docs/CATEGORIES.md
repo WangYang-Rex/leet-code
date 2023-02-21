@@ -179,6 +179,7 @@
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 470. [用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md) | 中等 |
+| 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 
@@ -251,6 +252,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
+| 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
 
 ## 并查集
 

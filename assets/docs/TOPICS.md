@@ -188,6 +188,8 @@
 
 [470. 用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md)
 
+[476. 数字的补数](../../problemset/number-complement/README.md)
+
 [541. 反转字符串 II](../../problemset/reverse-string-ii/README.md)
 
 [557. 反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md)
