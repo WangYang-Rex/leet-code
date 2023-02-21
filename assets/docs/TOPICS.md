@@ -208,6 +208,8 @@
 
 [1250. 检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md)
 
+[1326. 灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)

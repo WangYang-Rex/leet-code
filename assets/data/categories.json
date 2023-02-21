@@ -580,6 +580,12 @@
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "1326",
+        "title": "灌溉花园的最少水龙头数目",
+        "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
+        "difficulty": "困难"
       }
     ]
   },
@@ -942,6 +948,12 @@
         "title": "跳跃游戏",
         "path": "./problemset/jump-game/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "1326",
+        "title": "灌溉花园的最少水龙头数目",
+        "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
+        "difficulty": "困难"
       }
     ]
   },

@@ -25,3 +25,21 @@
 输出：0
 解释：1 的二进制表示为 1（没有前导零位），其补数为 0。所以你需要输出 0 。
 ```
+
+## 解题
+
+```typescript
+export function findComplement(num: number): number {
+  let highbit = 0;
+  for (let i = 1; i <= 30; ++i) {
+    if (num >= 1 << i) {
+      highbit = i;
+    } else {
+      break;
+    }
+  }
+  const mask = highbit === 30 ? 0x7FFFFFFF : (1 << (highbit + 1)) - 1;
+  return num ^ mask;
+}
+
+```

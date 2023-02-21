@@ -138,6 +138,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
+| 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 
 ## 双指针
 
@@ -232,6 +233,7 @@
 | ---- | ---- |
 | 45. [跳跃游戏 II](../../problemset/jump-game-ii/README.md) | 中等 |
 | 55. [跳跃游戏](../../problemset/jump-game/README.md) | 中等 |
+| 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 
 ## 二叉树
 
