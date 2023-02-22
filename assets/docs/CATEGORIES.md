@@ -139,6 +139,7 @@
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 877. [石子游戏](../../problemset/stone-game/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
+| 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 
 ## 双指针

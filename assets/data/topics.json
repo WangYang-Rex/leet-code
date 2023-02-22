@@ -1020,6 +1020,16 @@
     "path": "./problemset/largest-1-bordered-square/README.md"
   },
   {
+    "id": "1140",
+    "title": {
+      "cn": "石子游戏 II",
+      "en": "stone-game-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/stone-game-ii/",
+    "path": "./problemset/stone-game-ii/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

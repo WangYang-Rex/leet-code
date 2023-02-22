@@ -588,6 +588,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1140",
+        "title": "石子游戏 II",
+        "path": "./problemset/stone-game-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1326",
         "title": "灌溉花园的最少水龙头数目",
         "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",

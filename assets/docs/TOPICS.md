@@ -204,6 +204,8 @@
 
 [1139. 最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md)
 
+[1140. 石子游戏 II](../../problemset/stone-game-ii/README.md)
+
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)
 
 [1234. 替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md)
