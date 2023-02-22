@@ -990,6 +990,16 @@
     "path": "./problemset/valid-palindrome-ii/README.md"
   },
   {
+    "id": "877",
+    "title": {
+      "cn": "石子游戏",
+      "en": "stone-game"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/stone-game/",
+    "path": "./problemset/stone-game/README.md"
+  },
+  {
     "id": "1124",
     "title": {
       "cn": "表现良好的最长时间段",

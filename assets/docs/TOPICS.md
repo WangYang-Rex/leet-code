@@ -198,6 +198,8 @@
 
 [680. 验证回文串 II](../../problemset/valid-palindrome-ii/README.md)
 
+[877. 石子游戏](../../problemset/stone-game/README.md)
+
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)
 
 [1139. 最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md)
