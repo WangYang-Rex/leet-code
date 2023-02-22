@@ -78,4 +78,3 @@ export function minSubArrayLen2(target: number, nums: number[]): number {
 
   return res
 }
-

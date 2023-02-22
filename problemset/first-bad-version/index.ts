@@ -7,7 +7,7 @@
 export function solution(
   isBadVersion: (version: number) => boolean,
 ): (n: number) => number {
-  return function (n: number): number {
+  return function fn(n: number): number {
     let low = 1
     let high = n
     while (low < high) {
