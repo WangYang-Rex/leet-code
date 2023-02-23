@@ -962,6 +962,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "502",
+        "title": "IPO",
+        "path": "./problemset/ipo/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1326",
         "title": "灌溉花园的最少水龙头数目",
         "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
