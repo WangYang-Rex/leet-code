@@ -1080,6 +1080,16 @@
     "path": "./problemset/replace-the-substring-for-balanced-string/README.md"
   },
   {
+    "id": "1238",
+    "title": {
+      "cn": "循环码排列",
+      "en": "circular-permutation-in-binary-representation"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/circular-permutation-in-binary-representation/",
+    "path": "./problemset/circular-permutation-in-binary-representation/README.md"
+  },
+  {
     "id": "1250",
     "title": {
       "cn": "检查「好数组」",

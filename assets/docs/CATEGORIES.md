@@ -262,6 +262,7 @@
 | ---- | ---- |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
+| 1238. [循环码排列](../../problemset/circular-permutation-in-binary-representation/README.md) | 中等 |
 
 ## 并查集
 

@@ -216,6 +216,8 @@
 
 [1234. 替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md)
 
+[1238. 循环码排列](../../problemset/circular-permutation-in-binary-representation/README.md)
+
 [1250. 检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md)
 
 [1326. 灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md)
