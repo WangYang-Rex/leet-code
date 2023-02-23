@@ -493,6 +493,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "509",
+        "title": "斐波那契数",
+        "path": "./problemset/fibonacci-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -935,6 +941,12 @@
         "title": "整数转换英文表示",
         "path": "./problemset/integer-to-english-words/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "509",
+        "title": "斐波那契数",
+        "path": "./problemset/fibonacci-number/README.md",
+        "difficulty": "简单"
       }
     ]
   },

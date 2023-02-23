@@ -119,6 +119,7 @@
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
+| 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 
 ## 动态规划
@@ -218,6 +219,7 @@
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
+| 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
 
 ## 堆
 

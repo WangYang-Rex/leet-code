@@ -960,6 +960,16 @@
     "path": "./problemset/ipo/README.md"
   },
   {
+    "id": "509",
+    "title": {
+      "cn": "斐波那契数",
+      "en": "fibonacci-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/fibonacci-number/",
+    "path": "./problemset/fibonacci-number/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",
