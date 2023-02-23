@@ -970,6 +970,16 @@
     "path": "./problemset/fibonacci-number/README.md"
   },
   {
+    "id": "524",
+    "title": {
+      "cn": "通过删除字母匹配到字典里最长单词",
+      "en": "longest-word-in-dictionary-through-deleting"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/",
+    "path": "./problemset/longest-word-in-dictionary-through-deleting/README.md"
+  },
+  {
     "id": "541",
     "title": {
       "cn": "反转字符串 II",

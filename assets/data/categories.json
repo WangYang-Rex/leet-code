@@ -434,6 +434,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "524",
+        "title": "通过删除字母匹配到字典里最长单词",
+        "path": "./problemset/longest-word-in-dictionary-through-deleting/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "剑指 Offer II 076",
         "title": "数组中的第 k 大的数字",
         "path": "./problemset/xx4gt2/README.md",
@@ -728,6 +734,12 @@
         "id": "413",
         "title": "等差数列划分",
         "path": "./problemset/arithmetic-slices/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "524",
+        "title": "通过删除字母匹配到字典里最长单词",
+        "path": "./problemset/longest-word-in-dictionary-through-deleting/README.md",
         "difficulty": "中等"
       },
       {

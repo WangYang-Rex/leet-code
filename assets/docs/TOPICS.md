@@ -194,6 +194,8 @@
 
 [509. 斐波那契数](../../problemset/fibonacci-number/README.md)
 
+[524. 通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md)
+
 [541. 反转字符串 II](../../problemset/reverse-string-ii/README.md)
 
 [557. 反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md)
