@@ -51,6 +51,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1144",
+        "title": "递减元素使数组呈锯齿状",
+        "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -161,6 +167,12 @@
         "title": "移动零",
         "path": "./problemset/move-zeroes/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1144",
+        "title": "递减元素使数组呈锯齿状",
+        "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "2341",

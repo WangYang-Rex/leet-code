@@ -1060,6 +1060,16 @@
     "path": "./problemset/stone-game-ii/README.md"
   },
   {
+    "id": "1144",
+    "title": {
+      "cn": "递减元素使数组呈锯齿状",
+      "en": "decrease-elements-to-make-array-zigzag"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/decrease-elements-to-make-array-zigzag/",
+    "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",

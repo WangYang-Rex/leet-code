@@ -212,6 +212,8 @@
 
 [1140. 石子游戏 II](../../problemset/stone-game-ii/README.md)
 
+[1144. 递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md)
+
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)
 
 [1234. 替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md)
