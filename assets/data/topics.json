@@ -1168,5 +1168,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/xx4gT2/",
     "path": "./problemset/xx4gt2/README.md"
+  },
+  {
+    "id": "面试题 05.02",
+    "title": {
+      "cn": "二进制数转字符串",
+      "en": "bianry-number-to-string-lcci"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/bianry-number-to-string-lcci/",
+    "path": "./problemset/bianry-number-to-string-lcci/README.md"
   }
 ]

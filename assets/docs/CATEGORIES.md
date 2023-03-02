@@ -61,6 +61,7 @@
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
+| 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 链表
 
@@ -124,6 +125,7 @@
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
+| 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 动态规划
 

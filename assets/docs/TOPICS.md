@@ -233,3 +233,5 @@
 [2347. 最好的扑克手牌](../../problemset/best-poker-hand/README.md)
 
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
+
+[面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
