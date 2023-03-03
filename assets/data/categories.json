@@ -96,6 +96,12 @@
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "1487",
+        "title": "保证文件名唯一",
+        "path": "./problemset/making-file-names-unique/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -172,6 +178,12 @@
         "id": "1144",
         "title": "递减元素使数组呈锯齿状",
         "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1487",
+        "title": "保证文件名唯一",
+        "path": "./problemset/making-file-names-unique/README.md",
         "difficulty": "中等"
       },
       {
@@ -268,6 +280,12 @@
         "title": "反转字符串中的单词 III",
         "path": "./problemset/reverse-words-in-a-string-iii/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1487",
+        "title": "保证文件名唯一",
+        "path": "./problemset/making-file-names-unique/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "面试题 05.02",

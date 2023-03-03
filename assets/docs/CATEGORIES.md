@@ -24,6 +24,7 @@
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
+| 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 
 ## 数组
 
@@ -41,6 +42,7 @@
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 1144. [递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md) | 中等 |
+| 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 2341. [数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md) | 简单 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
@@ -61,6 +63,7 @@
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
+| 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 链表

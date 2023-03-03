@@ -1120,6 +1120,16 @@
     "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md"
   },
   {
+    "id": "1487",
+    "title": {
+      "cn": "保证文件名唯一",
+      "en": "making-file-names-unique"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/making-file-names-unique/",
+    "path": "./problemset/making-file-names-unique/README.md"
+  },
+  {
     "id": "1763",
     "title": {
       "cn": "最长的美好子字符串",
