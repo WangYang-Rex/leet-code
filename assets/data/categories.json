@@ -288,6 +288,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1653",
+        "title": "使字符串平衡的最少删除次数",
+        "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "面试题 05.02",
         "title": "二进制数转字符串",
         "path": "./problemset/bianry-number-to-string-lcci/README.md",
@@ -652,6 +658,12 @@
         "title": "灌溉花园的最少水龙头数目",
         "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "1653",
+        "title": "使字符串平衡的最少删除次数",
+        "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
+        "difficulty": "中等"
       }
     ]
   },
@@ -800,6 +812,12 @@
         "id": "1234",
         "title": "替换子串得到平衡字符串",
         "path": "./problemset/replace-the-substring-for-balanced-string/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1653",
+        "title": "使字符串平衡的最少删除次数",
+        "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
         "difficulty": "中等"
       }
     ]

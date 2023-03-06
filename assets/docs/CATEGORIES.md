@@ -64,6 +64,7 @@
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
+| 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 链表
@@ -150,6 +151,7 @@
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
+| 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 
 ## 双指针
 
@@ -179,6 +181,7 @@
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
+| 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 
 ## 模拟
 

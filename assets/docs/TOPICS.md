@@ -226,6 +226,8 @@
 
 [1487. 保证文件名唯一](../../problemset/making-file-names-unique/README.md)
 
+[1653. 使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md)
+
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
 
 [1797. 设计一个验证系统](../../problemset/design-authentication-manager/README.md)
