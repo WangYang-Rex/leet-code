@@ -1019,6 +1019,12 @@
         "title": "斐波那契数",
         "path": "./problemset/fibonacci-number/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1096",
+        "title": "花括号展开 II",
+        "path": "./problemset/brace-expansion-ii/README.md",
+        "difficulty": "困难"
       }
     ]
   },

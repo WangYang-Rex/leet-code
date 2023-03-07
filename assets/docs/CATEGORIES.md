@@ -232,6 +232,7 @@
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
+| 1096. [花括号展开 II](../../problemset/brace-expansion-ii/README.md) | 困难 |
 
 ## 堆
 

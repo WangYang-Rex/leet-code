@@ -1030,6 +1030,16 @@
     "path": "./problemset/stone-game/README.md"
   },
   {
+    "id": "1096",
+    "title": {
+      "cn": "花括号展开 II",
+      "en": "brace-expansion-ii"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/brace-expansion-ii/",
+    "path": "./problemset/brace-expansion-ii/README.md"
+  },
+  {
     "id": "1124",
     "title": {
       "cn": "表现良好的最长时间段",
