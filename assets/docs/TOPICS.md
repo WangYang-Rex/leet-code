@@ -241,3 +241,5 @@
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
+
+[剑指 Offer 47. 礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md)

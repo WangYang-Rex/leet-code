@@ -1208,5 +1208,15 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/bianry-number-to-string-lcci/",
     "path": "./problemset/bianry-number-to-string-lcci/README.md"
+  },
+  {
+    "id": "剑指 Offer 47",
+    "title": {
+      "cn": "礼物的最大价值",
+      "en": "li-wu-de-zui-da-jie-zhi-lcof"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/",
+    "path": "./problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md"
   }
 ]

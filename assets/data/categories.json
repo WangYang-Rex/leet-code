@@ -664,6 +664,12 @@
         "title": "使字符串平衡的最少删除次数",
         "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "剑指 Offer 47",
+        "title": "礼物的最大价值",
+        "path": "./problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md",
+        "difficulty": "中等"
       }
     ]
   },
