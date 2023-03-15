@@ -228,6 +228,8 @@
 
 [1487. 保证文件名唯一](../../problemset/making-file-names-unique/README.md)
 
+[1615. 最大网络秩](../../problemset/maximal-network-rank/README.md)
+
 [1653. 使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)

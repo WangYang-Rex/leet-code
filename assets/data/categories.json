@@ -63,6 +63,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1615",
+        "title": "最大网络秩",
+        "path": "./problemset/maximal-network-rank/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1797",
         "title": "设计一个验证系统",
         "path": "./problemset/design-authentication-manager/README.md",

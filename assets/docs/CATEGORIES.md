@@ -14,6 +14,7 @@
 | 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 1144. [递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
+| 1615. [最大网络秩](../../problemset/maximal-network-rank/README.md) | 中等 |
 | 1797. [设计一个验证系统](../../problemset/design-authentication-manager/README.md) | 中等 |
 
 ## 哈希表

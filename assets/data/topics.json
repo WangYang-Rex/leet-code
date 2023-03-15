@@ -1140,6 +1140,16 @@
     "path": "./problemset/making-file-names-unique/README.md"
   },
   {
+    "id": "1615",
+    "title": {
+      "cn": "最大网络秩",
+      "en": "maximal-network-rank"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/maximal-network-rank/",
+    "path": "./problemset/maximal-network-rank/README.md"
+  },
+  {
     "id": "1653",
     "title": {
       "cn": "使字符串平衡的最少删除次数",
