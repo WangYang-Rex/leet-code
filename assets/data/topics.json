@@ -1030,6 +1030,16 @@
     "path": "./problemset/stone-game/README.md"
   },
   {
+    "id": "1012",
+    "title": {
+      "cn": "至少有 1 位重复的数字",
+      "en": "numbers-with-repeated-digits"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/numbers-with-repeated-digits/",
+    "path": "./problemset/numbers-with-repeated-digits/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",

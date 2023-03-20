@@ -206,6 +206,8 @@
 
 [877. 石子游戏](../../problemset/stone-game/README.md)
 
+[1012. 至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md)
+
 [1096. 花括号展开 II](../../problemset/brace-expansion-ii/README.md)
 
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)

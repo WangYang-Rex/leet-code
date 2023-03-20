@@ -129,6 +129,7 @@
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
+| 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
@@ -149,6 +150,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 877. [石子游戏](../../problemset/stone-game/README.md) | 中等 |
+| 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |

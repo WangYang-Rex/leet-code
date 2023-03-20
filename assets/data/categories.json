@@ -553,6 +553,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1012",
+        "title": "至少有 1 位重复的数字",
+        "path": "./problemset/numbers-with-repeated-digits/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -646,6 +652,12 @@
         "title": "石子游戏",
         "path": "./problemset/stone-game/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "1012",
+        "title": "至少有 1 位重复的数字",
+        "path": "./problemset/numbers-with-repeated-digits/README.md",
+        "difficulty": "困难"
       },
       {
         "id": "1139",
