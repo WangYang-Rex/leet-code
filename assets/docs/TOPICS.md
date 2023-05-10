@@ -80,6 +80,8 @@
 
 [47. 全排列 II](../../problemset/permutations-ii/README.md)
 
+[48. 旋转图像](../../problemset/rotate-image/README.md)
+
 [53. 最大子数组和](../../problemset/maximum-subarray/README.md)
 
 [55. 跳跃游戏](../../problemset/jump-game/README.md)

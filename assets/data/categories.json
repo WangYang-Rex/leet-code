@@ -21,6 +21,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "48",
+        "title": "旋转图像",
+        "path": "./problemset/rotate-image/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "211",
         "title": "添加与搜索单词 - 数据结构设计",
         "path": "./problemset/design-add-and-search-words-data-structure/README.md",
@@ -137,6 +143,12 @@
         "title": "删除有序数组中的重复项",
         "path": "./problemset/remove-duplicates-from-sorted-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "48",
+        "title": "旋转图像",
+        "path": "./problemset/rotate-image/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "66",

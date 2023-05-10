@@ -7,6 +7,7 @@
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 | 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
+| 48. [旋转图像](../../problemset/rotate-image/README.md) | 中等 |
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
@@ -35,6 +36,7 @@
 | 15. [三数之和](../../problemset/3sum/README.md) | 中等 |
 | 16. [最接近的三数之和](../../problemset/3sum-closest/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../../problemset/remove-duplicates-from-sorted-array/README.md) | 简单 |
+| 48. [旋转图像](../../problemset/rotate-image/README.md) | 中等 |
 | 66. [加一](../../problemset/plus-one/README.md) | 简单 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
