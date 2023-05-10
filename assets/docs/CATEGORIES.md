@@ -132,6 +132,7 @@
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
+| 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 动态规划
@@ -204,6 +205,7 @@
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
+| 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
 
 ## 回溯
 

@@ -571,6 +571,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "2437",
+        "title": "有效时间的数目",
+        "path": "./problemset/number-of-valid-clock-times/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "面试题 05.02",
         "title": "二进制数转字符串",
         "path": "./problemset/bianry-number-to-string-lcci/README.md",
@@ -925,6 +931,12 @@
         "id": "2347",
         "title": "最好的扑克手牌",
         "path": "./problemset/best-poker-hand/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "2437",
+        "title": "有效时间的数目",
+        "path": "./problemset/number-of-valid-clock-times/README.md",
         "difficulty": "简单"
       }
     ]

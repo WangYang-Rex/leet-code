@@ -1220,6 +1220,16 @@
     "path": "./problemset/best-poker-hand/README.md"
   },
   {
+    "id": "2437",
+    "title": {
+      "cn": "有效时间的数目",
+      "en": "number-of-valid-clock-times"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-of-valid-clock-times/",
+    "path": "./problemset/number-of-valid-clock-times/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",
