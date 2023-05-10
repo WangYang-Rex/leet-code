@@ -130,6 +130,7 @@
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
+| 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
@@ -200,6 +201,7 @@
 | 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 470. [用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md) | 中等 |
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
+| 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 

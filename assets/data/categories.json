@@ -559,6 +559,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1015",
+        "title": "可被 K 整除的最小整数",
+        "path": "./problemset/smallest-integer-divisible-by-k/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -902,6 +908,12 @@
         "title": "数字的补数",
         "path": "./problemset/number-complement/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "1015",
+        "title": "可被 K 整除的最小整数",
+        "path": "./problemset/smallest-integer-divisible-by-k/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "1139",

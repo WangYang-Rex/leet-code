@@ -1040,6 +1040,16 @@
     "path": "./problemset/numbers-with-repeated-digits/README.md"
   },
   {
+    "id": "1015",
+    "title": {
+      "cn": "可被 K 整除的最小整数",
+      "en": "smallest-integer-divisible-by-k"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/smallest-integer-divisible-by-k/",
+    "path": "./problemset/smallest-integer-divisible-by-k/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",
