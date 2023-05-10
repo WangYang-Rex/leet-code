@@ -410,6 +410,16 @@
     "path": "./problemset/rotate-image/README.md"
   },
   {
+    "id": "49",
+    "title": {
+      "cn": "字母异位词分组",
+      "en": "group-anagrams"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/group-anagrams/",
+    "path": "./problemset/group-anagrams/README.md"
+  },
+  {
     "id": "53",
     "title": {
       "cn": "最大子数组和",

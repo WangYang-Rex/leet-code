@@ -8,6 +8,7 @@
 | 36. [有效的数独](../../problemset/valid-sudoku/README.md) | 中等 |
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 48. [旋转图像](../../problemset/rotate-image/README.md) | 中等 |
+| 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
@@ -37,6 +38,7 @@
 | 16. [最接近的三数之和](../../problemset/3sum-closest/README.md) | 中等 |
 | 26. [删除有序数组中的重复项](../../problemset/remove-duplicates-from-sorted-array/README.md) | 简单 |
 | 48. [旋转图像](../../problemset/rotate-image/README.md) | 中等 |
+| 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 66. [加一](../../problemset/plus-one/README.md) | 简单 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
@@ -113,6 +115,7 @@
 | ---- | ---- |
 | 18. [四数之和](../../problemset/4sum/README.md) | 中等 |
 | 31. [下一个排列](../../problemset/next-permutation/README.md) | 中等 |
+| 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |

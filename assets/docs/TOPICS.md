@@ -82,6 +82,8 @@
 
 [48. 旋转图像](../../problemset/rotate-image/README.md)
 
+[49. 字母异位词分组](../../problemset/group-anagrams/README.md)
+
 [53. 最大子数组和](../../problemset/maximum-subarray/README.md)
 
 [55. 跳跃游戏](../../problemset/jump-game/README.md)

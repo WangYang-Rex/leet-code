@@ -27,6 +27,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "49",
+        "title": "字母异位词分组",
+        "path": "./problemset/group-anagrams/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "211",
         "title": "添加与搜索单词 - 数据结构设计",
         "path": "./problemset/design-add-and-search-words-data-structure/README.md",
@@ -148,6 +154,12 @@
         "id": "48",
         "title": "旋转图像",
         "path": "./problemset/rotate-image/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "49",
+        "title": "字母异位词分组",
+        "path": "./problemset/group-anagrams/README.md",
         "difficulty": "中等"
       },
       {
@@ -479,6 +491,12 @@
         "id": "31",
         "title": "下一个排列",
         "path": "./problemset/next-permutation/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "49",
+        "title": "字母异位词分组",
+        "path": "./problemset/group-anagrams/README.md",
         "difficulty": "中等"
       },
       {
