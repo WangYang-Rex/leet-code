@@ -312,6 +312,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1016",
+        "title": "子串能表示从 1 到 N 数字的二进制串",
+        "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1487",
         "title": "保证文件名唯一",
         "path": "./problemset/making-file-names-unique/README.md",
@@ -949,6 +955,12 @@
         "id": "1015",
         "title": "可被 K 整除的最小整数",
         "path": "./problemset/smallest-integer-divisible-by-k/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1016",
+        "title": "子串能表示从 1 到 N 数字的二进制串",
+        "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md",
         "difficulty": "中等"
       },
       {

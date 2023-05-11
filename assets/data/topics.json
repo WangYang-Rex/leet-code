@@ -1070,6 +1070,16 @@
     "path": "./problemset/smallest-integer-divisible-by-k/README.md"
   },
   {
+    "id": "1016",
+    "title": {
+      "cn": "子串能表示从 1 到 N 数字的二进制串",
+      "en": "binary-string-with-substrings-representing-1-to-n"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/binary-string-with-substrings-representing-1-to-n/",
+    "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",

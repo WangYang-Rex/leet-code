@@ -214,6 +214,8 @@
 
 [1015. 可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md)
 
+[1016. 子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md)
+
 [1096. 花括号展开 II](../../problemset/brace-expansion-ii/README.md)
 
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)

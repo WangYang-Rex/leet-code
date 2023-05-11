@@ -68,6 +68,7 @@
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
+| 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
@@ -208,6 +209,7 @@
 | 470. [用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md) | 中等 |
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
+| 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 | 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
