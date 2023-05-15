@@ -110,6 +110,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "1072",
+        "title": "按列翻转得到最大值等行数",
+        "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -961,6 +967,12 @@
         "id": "1016",
         "title": "子串能表示从 1 到 N 数字的二进制串",
         "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1072",
+        "title": "按列翻转得到最大值等行数",
+        "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md",
         "difficulty": "中等"
       },
       {

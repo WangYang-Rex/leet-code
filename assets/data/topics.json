@@ -1080,6 +1080,16 @@
     "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md"
   },
   {
+    "id": "1072",
+    "title": {
+      "cn": "按列翻转得到最大值等行数",
+      "en": "flip-columns-for-maximum-number-of-equal-rows"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/flip-columns-for-maximum-number-of-equal-rows/",
+    "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",

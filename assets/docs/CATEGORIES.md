@@ -26,6 +26,7 @@
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
+| 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 
@@ -210,6 +211,7 @@
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
+| 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 | 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
