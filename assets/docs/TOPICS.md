@@ -238,6 +238,8 @@
 
 [1326. 灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md)
 
+[1335. 工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md)
+
 [1487. 保证文件名唯一](../../problemset/making-file-names-unique/README.md)
 
 [1615. 最大网络秩](../../problemset/maximal-network-rank/README.md)

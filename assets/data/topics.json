@@ -1190,6 +1190,16 @@
     "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md"
   },
   {
+    "id": "1335",
+    "title": {
+      "cn": "工作计划的最低难度",
+      "en": "minimum-difficulty-of-a-job-schedule"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/minimum-difficulty-of-a-job-schedule/",
+    "path": "./problemset/minimum-difficulty-of-a-job-schedule/README.md"
+  },
+  {
     "id": "1487",
     "title": {
       "cn": "保证文件名唯一",

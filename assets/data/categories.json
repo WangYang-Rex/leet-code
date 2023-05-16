@@ -732,6 +732,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1335",
+        "title": "工作计划的最低难度",
+        "path": "./problemset/minimum-difficulty-of-a-job-schedule/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1653",
         "title": "使字符串平衡的最少删除次数",
         "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
