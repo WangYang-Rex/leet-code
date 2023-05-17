@@ -336,6 +336,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "2446",
+        "title": "判断两个事件是否存在冲突",
+        "path": "./problemset/determine-if-two-events-have-conflict/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "面试题 05.02",
         "title": "二进制数转字符串",
         "path": "./problemset/bianry-number-to-string-lcci/README.md",

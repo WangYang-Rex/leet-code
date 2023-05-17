@@ -1280,6 +1280,16 @@
     "path": "./problemset/number-of-valid-clock-times/README.md"
   },
   {
+    "id": "2446",
+    "title": {
+      "cn": "判断两个事件是否存在冲突",
+      "en": "determine-if-two-events-have-conflict"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/determine-if-two-events-have-conflict/",
+    "path": "./problemset/determine-if-two-events-have-conflict/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",

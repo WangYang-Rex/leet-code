@@ -72,6 +72,7 @@
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
+| 2446. [判断两个事件是否存在冲突](../../problemset/determine-if-two-events-have-conflict/README.md) | 简单 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
 
 ## 链表

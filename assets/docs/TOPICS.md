@@ -256,6 +256,8 @@
 
 [2437. 有效时间的数目](../../problemset/number-of-valid-clock-times/README.md)
 
+[2446. 判断两个事件是否存在冲突](../../problemset/determine-if-two-events-have-conflict/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
