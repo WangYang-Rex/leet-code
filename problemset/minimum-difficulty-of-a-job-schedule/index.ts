@@ -3,7 +3,7 @@ export function minDifficulty(jobDifficulty: number[], d: number): number {
   if (n < d) {
     return -1;
   }
-  const dp = new Array(d + 1).fill(0).map(() => new Array(n).fill(0x3f3f3f3f));
+  const dp = new Array(d + 1).fill(0).map(() => new Array(n).fill(0x3F3F3F3F));
   let ma = 0;
   for (let i = 0; i < n; ++i) {
     ma = Math.max(ma, jobDifficulty[i]);

@@ -1090,6 +1090,16 @@
     "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md"
   },
   {
+    "id": "1073",
+    "title": {
+      "cn": "负二进制数相加",
+      "en": "adding-two-negabinary-numbers"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/adding-two-negabinary-numbers/",
+    "path": "./problemset/adding-two-negabinary-numbers/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",

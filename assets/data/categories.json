@@ -613,6 +613,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1073",
+        "title": "负二进制数相加",
+        "path": "./problemset/adding-two-negabinary-numbers/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -985,6 +991,12 @@
         "id": "1072",
         "title": "按列翻转得到最大值等行数",
         "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1073",
+        "title": "负二进制数相加",
+        "path": "./problemset/adding-two-negabinary-numbers/README.md",
         "difficulty": "中等"
       },
       {

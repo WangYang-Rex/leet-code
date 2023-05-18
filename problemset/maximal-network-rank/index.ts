@@ -1,5 +1,5 @@
 /** 数学组合 */
-export function maximalNetworkRank(n: number, roads: number[][]): number { 
+export function maximalNetworkRank(n: number, roads: number[][]): number {
   const connect = new Array(n).fill(0).map(() => new Array(n).fill(0));
   const degree = new Array(n).fill(0);
   for (const road of roads) {

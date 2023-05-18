@@ -218,6 +218,8 @@
 
 [1072. 按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md)
 
+[1073. 负二进制数相加](../../problemset/adding-two-negabinary-numbers/README.md)
+
 [1096. 花括号展开 II](../../problemset/brace-expansion-ii/README.md)
 
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)
