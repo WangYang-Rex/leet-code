@@ -131,6 +131,7 @@
 | 7. [整数反转](../../problemset/reverse-integer/README.md) | 中等 |
 | 9. [回文数](../../problemset/palindrome-number/README.md) | 简单 |
 | 13. [罗马数字转整数](../../problemset/roman-to-integer/README.md) | 简单 |
+| 50. [Pow(x, n)](../../problemset/powx-n/README.md) | 中等 |
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
 | 69. [x 的平方根](../../problemset/sqrtx/README.md) | 简单 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
@@ -205,6 +206,7 @@
 | ---- | ---- |
 | 12. [整数转罗马数字](../../problemset/integer-to-roman/README.md) | 中等 |
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
+| 50. [Pow(x, n)](../../problemset/powx-n/README.md) | 中等 |
 | 67. [二进制求和](../../problemset/add-binary/README.md) | 简单 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
@@ -248,6 +250,7 @@
 | ---- | ---- |
 | 21. [合并两个有序链表](../../problemset/merge-two-sorted-lists/README.md) | 简单 |
 | 24. [两两交换链表中的节点](../../problemset/swap-nodes-in-pairs/README.md) | 中等 |
+| 50. [Pow(x, n)](../../problemset/powx-n/README.md) | 中等 |
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |

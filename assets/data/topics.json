@@ -420,6 +420,16 @@
     "path": "./problemset/group-anagrams/README.md"
   },
   {
+    "id": "50",
+    "title": {
+      "cn": "Pow(x, n)",
+      "en": "powx-n"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/powx-n/",
+    "path": "./problemset/powx-n/README.md"
+  },
+  {
     "id": "53",
     "title": {
       "cn": "最大子数组和",

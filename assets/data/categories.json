@@ -565,6 +565,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "50",
+        "title": "Pow(x, n)",
+        "path": "./problemset/powx-n/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "62",
         "title": "不同路径",
         "path": "./problemset/unique-paths/README.md",
@@ -934,6 +940,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "50",
+        "title": "Pow(x, n)",
+        "path": "./problemset/powx-n/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "67",
         "title": "二进制求和",
         "path": "./problemset/add-binary/README.md",
@@ -1114,6 +1126,12 @@
         "id": "24",
         "title": "两两交换链表中的节点",
         "path": "./problemset/swap-nodes-in-pairs/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "50",
+        "title": "Pow(x, n)",
+        "path": "./problemset/powx-n/README.md",
         "difficulty": "中等"
       },
       {
