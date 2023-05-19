@@ -1100,6 +1100,16 @@
     "path": "./problemset/adding-two-negabinary-numbers/README.md"
   },
   {
+    "id": "1079",
+    "title": {
+      "cn": "活字印刷",
+      "en": "letter-tile-possibilities"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/letter-tile-possibilities/",
+    "path": "./problemset/letter-tile-possibilities/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",
