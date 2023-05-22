@@ -964,6 +964,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "110",
+        "title": "平衡二叉树",
+        "path": "./problemset/balanced-binary-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "322",
         "title": "零钱兑换",
         "path": "./problemset/coin-change/README.md",
@@ -1258,6 +1264,12 @@
         "id": "108",
         "title": "将有序数组转换为二叉搜索树",
         "path": "./problemset/convert-sorted-array-to-binary-search-tree/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "110",
+        "title": "平衡二叉树",
+        "path": "./problemset/balanced-binary-tree/README.md",
         "difficulty": "简单"
       },
       {

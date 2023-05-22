@@ -132,6 +132,8 @@
 
 [108. 将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md)
 
+[110. 平衡二叉树](../../problemset/balanced-binary-tree/README.md)
+
 [111. 二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md)
 
 [121. 买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md)

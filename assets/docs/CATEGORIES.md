@@ -210,6 +210,7 @@
 | 67. [二进制求和](../../problemset/add-binary/README.md) | 简单 |
 | 68. [文本左右对齐](../../problemset/text-justification/README.md) | 困难 |
 | 95. [不同的二叉搜索树 II](../../problemset/unique-binary-search-trees-ii/README.md) | 中等 |
+| 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 470. [用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md) | 中等 |
@@ -289,6 +290,7 @@
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 | 104. [二叉树的最大深度](../../problemset/maximum-depth-of-binary-tree/README.md) | 简单 |
 | 108. [将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md) | 简单 |
+| 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 
