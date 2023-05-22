@@ -1283,6 +1283,12 @@
         "title": "路径总和 III",
         "path": "./problemset/path-sum-iii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "1080",
+        "title": "根到叶路径上的不足节点",
+        "path": "./problemset/insufficient-nodes-in-root-to-leaf-paths/README.md",
+        "difficulty": "中等"
       }
     ]
   },

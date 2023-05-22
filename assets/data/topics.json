@@ -1130,6 +1130,16 @@
     "path": "./problemset/letter-tile-possibilities/README.md"
   },
   {
+    "id": "1080",
+    "title": {
+      "cn": "根到叶路径上的不足节点",
+      "en": "insufficient-nodes-in-root-to-leaf-paths"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/",
+    "path": "./problemset/insufficient-nodes-in-root-to-leaf-paths/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",

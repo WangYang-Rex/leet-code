@@ -293,6 +293,7 @@
 | 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
+| 1080. [根到叶路径上的不足节点](../../problemset/insufficient-nodes-in-root-to-leaf-paths/README.md) | 中等 |
 
 ## 位运算
 
