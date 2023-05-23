@@ -116,6 +116,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1090",
+        "title": "受标签影响的最大值",
+        "path": "./problemset/largest-values-from-labels/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1233",
         "title": "删除子文件夹",
         "path": "./problemset/remove-sub-folders-from-the-filesystem/README.md",
@@ -533,6 +539,12 @@
         "id": "524",
         "title": "通过删除字母匹配到字典里最长单词",
         "path": "./problemset/longest-word-in-dictionary-through-deleting/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1090",
+        "title": "受标签影响的最大值",
+        "path": "./problemset/largest-values-from-labels/README.md",
         "difficulty": "中等"
       },
       {

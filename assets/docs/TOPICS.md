@@ -228,6 +228,8 @@
 
 [1080. 根到叶路径上的不足节点](../../problemset/insufficient-nodes-in-root-to-leaf-paths/README.md)
 
+[1090. 受标签影响的最大值](../../problemset/largest-values-from-labels/README.md)
+
 [1096. 花括号展开 II](../../problemset/brace-expansion-ii/README.md)
 
 [1124. 表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md)

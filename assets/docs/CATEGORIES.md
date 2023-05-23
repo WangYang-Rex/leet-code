@@ -27,6 +27,7 @@
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
+| 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 
@@ -122,6 +123,7 @@
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |
+| 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 数学

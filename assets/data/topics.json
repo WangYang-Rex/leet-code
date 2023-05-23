@@ -1140,6 +1140,16 @@
     "path": "./problemset/insufficient-nodes-in-root-to-leaf-paths/README.md"
   },
   {
+    "id": "1090",
+    "title": {
+      "cn": "受标签影响的最大值",
+      "en": "largest-values-from-labels"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/largest-values-from-labels/",
+    "path": "./problemset/largest-values-from-labels/README.md"
+  },
+  {
     "id": "1096",
     "title": {
       "cn": "花括号展开 II",
