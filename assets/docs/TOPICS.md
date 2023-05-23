@@ -138,6 +138,8 @@
 
 [112. 路径总和](../../problemset/path-sum/README.md)
 
+[118. 杨辉三角](../../problemset/pascals-triangle/README.md)
+
 [121. 买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md)
 
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)

@@ -138,6 +138,7 @@
 | 62. [不同路径](../../problemset/unique-paths/README.md) | 中等 |
 | 69. [x 的平方根](../../problemset/sqrtx/README.md) | 简单 |
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
+| 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |

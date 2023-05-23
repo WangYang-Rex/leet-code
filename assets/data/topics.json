@@ -690,6 +690,16 @@
     "path": "./problemset/path-sum/README.md"
   },
   {
+    "id": "118",
+    "title": {
+      "cn": "杨辉三角",
+      "en": "pascals-triangle"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/pascals-triangle/",
+    "path": "./problemset/pascals-triangle/README.md"
+  },
+  {
     "id": "121",
     "title": {
       "cn": "买卖股票的最佳时机",
