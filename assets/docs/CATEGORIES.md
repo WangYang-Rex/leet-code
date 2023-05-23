@@ -258,6 +258,7 @@
 | 94. [二叉树的中序遍历](../../problemset/binary-tree-inorder-traversal/README.md) | 简单 |
 | 101. [对称二叉树](../../problemset/symmetric-tree/README.md) | 简单 |
 | 144. [二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md) | 简单 |
+| 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 | 206. [反转链表](../../problemset/reverse-linked-list/README.md) | 简单 |
 | 273. [整数转换英文表示](../../problemset/integer-to-english-words/README.md) | 困难 |
@@ -298,6 +299,7 @@
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
 | 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 144. [二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md) | 简单 |
+| 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 | 1080. [根到叶路径上的不足节点](../../problemset/insufficient-nodes-in-root-to-leaf-paths/README.md) | 中等 |
 

@@ -720,6 +720,16 @@
     "path": "./problemset/binary-tree-preorder-traversal/README.md"
   },
   {
+    "id": "145",
+    "title": {
+      "cn": "二叉树的后序遍历",
+      "en": "binary-tree-postorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/binary-tree-postorder-traversal/",
+    "path": "./problemset/binary-tree-postorder-traversal/README.md"
+  },
+  {
     "id": "151",
     "title": {
       "cn": "反转字符串中的单词",
