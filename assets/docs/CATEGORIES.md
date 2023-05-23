@@ -9,6 +9,7 @@
 | 43. [字符串相乘](../../problemset/multiply-strings/README.md) | 中等 |
 | 48. [旋转图像](../../problemset/rotate-image/README.md) | 中等 |
 | 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
+| 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 211. [添加与搜索单词 - 数据结构设计](../../problemset/design-add-and-search-words-data-structure/README.md) | 中等 |
 | 223. [矩形面积](../../problemset/rectangle-area/README.md) | 中等 |
 | 412. [Fizz Buzz](../../problemset/fizz-buzz/README.md) | 简单 |
@@ -294,6 +295,7 @@
 | 108. [将有序数组转换为二叉搜索树](../../problemset/convert-sorted-array-to-binary-search-tree/README.md) | 简单 |
 | 110. [平衡二叉树](../../problemset/balanced-binary-tree/README.md) | 简单 |
 | 111. [二叉树的最小深度](../../problemset/minimum-depth-of-binary-tree/README.md) | 简单 |
+| 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 | 1080. [根到叶路径上的不足节点](../../problemset/insufficient-nodes-in-root-to-leaf-paths/README.md) | 中等 |
 

@@ -680,6 +680,16 @@
     "path": "./problemset/minimum-depth-of-binary-tree/README.md"
   },
   {
+    "id": "112",
+    "title": {
+      "cn": "路径总和",
+      "en": "path-sum"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/path-sum/",
+    "path": "./problemset/path-sum/README.md"
+  },
+  {
     "id": "121",
     "title": {
       "cn": "买卖股票的最佳时机",
