@@ -142,6 +142,8 @@
 
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
+[144. 二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md)
+
 [151. 反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md)
 
 [162. 寻找峰值](../../problemset/find-peak-element/README.md)

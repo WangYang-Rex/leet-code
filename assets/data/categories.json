@@ -1171,6 +1171,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "144",
+        "title": "二叉树的前序遍历",
+        "path": "./problemset/binary-tree-preorder-traversal/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "162",
         "title": "寻找峰值",
         "path": "./problemset/find-peak-element/README.md",
@@ -1300,6 +1306,12 @@
         "id": "112",
         "title": "路径总和",
         "path": "./problemset/path-sum/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "144",
+        "title": "二叉树的前序遍历",
+        "path": "./problemset/binary-tree-preorder-traversal/README.md",
         "difficulty": "简单"
       },
       {

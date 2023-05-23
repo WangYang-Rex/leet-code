@@ -710,6 +710,16 @@
     "path": "./problemset/valid-palindrome/README.md"
   },
   {
+    "id": "144",
+    "title": {
+      "cn": "二叉树的前序遍历",
+      "en": "binary-tree-preorder-traversal"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/binary-tree-preorder-traversal/",
+    "path": "./problemset/binary-tree-preorder-traversal/README.md"
+  },
+  {
     "id": "151",
     "title": {
       "cn": "反转字符串中的单词",
