@@ -146,6 +146,8 @@
 
 [125. 验证回文串](../../problemset/valid-palindrome/README.md)
 
+[136. 只出现一次的数字](../../problemset/single-number/README.md)
+
 [144. 二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md)
 
 [145. 二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md)

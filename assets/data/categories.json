@@ -104,6 +104,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "136",
+        "title": "只出现一次的数字",
+        "path": "./problemset/single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "187",
         "title": "重复的DNA序列",
         "path": "./problemset/repeated-dna-sequences/README.md",
@@ -202,6 +208,12 @@
         "id": "121",
         "title": "买卖股票的最佳时机",
         "path": "./problemset/best-time-to-buy-and-sell-stock/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "136",
+        "title": "只出现一次的数字",
+        "path": "./problemset/single-number/README.md",
         "difficulty": "简单"
       },
       {
@@ -616,6 +628,12 @@
         "id": "119",
         "title": "杨辉三角 II",
         "path": "./problemset/pascals-triangle-ii/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "136",
+        "title": "只出现一次的数字",
+        "path": "./problemset/single-number/README.md",
         "difficulty": "简单"
       },
       {

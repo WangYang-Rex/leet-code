@@ -25,6 +25,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
+| 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
@@ -46,6 +47,7 @@
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
+| 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
@@ -140,6 +142,7 @@
 | 70. [爬楼梯](../../problemset/climbing-stairs/README.md) | 简单 |
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-ii/README.md) | 简单 |
+| 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
