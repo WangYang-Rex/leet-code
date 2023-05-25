@@ -144,6 +144,12 @@
         "title": "保证文件名唯一",
         "path": "./problemset/making-file-names-unique/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "2451",
+        "title": "差值数组不同的字符串",
+        "path": "./problemset/odd-string-difference/README.md",
+        "difficulty": "简单"
       }
     ]
   },
@@ -363,6 +369,12 @@
         "id": "2446",
         "title": "判断两个事件是否存在冲突",
         "path": "./problemset/determine-if-two-events-have-conflict/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "2451",
+        "title": "差值数组不同的字符串",
+        "path": "./problemset/odd-string-difference/README.md",
         "difficulty": "简单"
       },
       {
