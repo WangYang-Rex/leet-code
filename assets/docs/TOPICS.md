@@ -148,6 +148,8 @@
 
 [136. 只出现一次的数字](../../problemset/single-number/README.md)
 
+[141. 环形链表](../../problemset/linked-list-cycle/README.md)
+
 [144. 二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md)
 
 [145. 二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md)

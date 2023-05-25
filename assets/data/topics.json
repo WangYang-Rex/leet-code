@@ -740,6 +740,16 @@
     "path": "./problemset/single-number/README.md"
   },
   {
+    "id": "141",
+    "title": {
+      "cn": "环形链表",
+      "en": "linked-list-cycle"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/linked-list-cycle/",
+    "path": "./problemset/linked-list-cycle/README.md"
+  },
+  {
     "id": "144",
     "title": {
       "cn": "二叉树的前序遍历",

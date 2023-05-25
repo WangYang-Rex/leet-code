@@ -110,6 +110,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "141",
+        "title": "环形链表",
+        "path": "./problemset/linked-list-cycle/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "187",
         "title": "重复的DNA序列",
         "path": "./problemset/repeated-dna-sequences/README.md",
@@ -896,6 +902,12 @@
         "id": "125",
         "title": "验证回文串",
         "path": "./problemset/valid-palindrome/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "141",
+        "title": "环形链表",
+        "path": "./problemset/linked-list-cycle/README.md",
         "difficulty": "简单"
       },
       {

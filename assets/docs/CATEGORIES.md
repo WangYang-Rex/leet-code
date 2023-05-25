@@ -26,6 +26,7 @@
 | ---- | ---- |
 | 1. [两数之和](../../problemset/two-sum/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
@@ -195,6 +196,7 @@
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 88. [合并两个有序数组](../../problemset/merge-sorted-array/README.md) | 简单 |
 | 125. [验证回文串](../../problemset/valid-palindrome/README.md) | 简单 |
+| 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
