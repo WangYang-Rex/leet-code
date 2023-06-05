@@ -277,6 +277,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "2559",
+        "title": "统计范围内的元音字符串数",
+        "path": "./problemset/count-vowel-strings-in-ranges/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "剑指 Offer II 076",
         "title": "数组中的第 k 大的数字",
         "path": "./problemset/xx4gt2/README.md",

@@ -1450,6 +1450,16 @@
     "path": "./problemset/apply-operations-to-an-array/README.md"
   },
   {
+    "id": "2559",
+    "title": {
+      "cn": "统计范围内的元音字符串数",
+      "en": "count-vowel-strings-in-ranges"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/count-vowel-strings-in-ranges/",
+    "path": "./problemset/count-vowel-strings-in-ranges/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",
