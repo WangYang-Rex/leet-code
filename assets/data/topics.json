@@ -1440,6 +1440,16 @@
     "path": "./problemset/odd-string-difference/README.md"
   },
   {
+    "id": "2460",
+    "title": {
+      "cn": "对数组执行操作",
+      "en": "apply-operations-to-an-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/apply-operations-to-an-array/",
+    "path": "./problemset/apply-operations-to-an-array/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",

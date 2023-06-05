@@ -288,6 +288,8 @@
 
 [2451. 差值数组不同的字符串](../../problemset/odd-string-difference/README.md)
 
+[2460. 对数组执行操作](../../problemset/apply-operations-to-an-array/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)

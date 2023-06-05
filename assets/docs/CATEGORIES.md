@@ -57,6 +57,7 @@
 | 1144. [递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 2341. [数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md) | 简单 |
+| 2460. [对数组执行操作](../../problemset/apply-operations-to-an-array/README.md) | 简单 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 字符串

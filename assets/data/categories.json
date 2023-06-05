@@ -271,6 +271,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "2460",
+        "title": "对数组执行操作",
+        "path": "./problemset/apply-operations-to-an-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "剑指 Offer II 076",
         "title": "数组中的第 k 大的数字",
         "path": "./problemset/xx4gt2/README.md",
