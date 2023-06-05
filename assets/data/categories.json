@@ -496,6 +496,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1156",
+        "title": "单字符重复子串的最大长度",
+        "path": "./problemset/swap-for-longest-repeated-character-substring/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1234",
         "title": "替换子串得到平衡字符串",
         "path": "./problemset/replace-the-substring-for-balanced-string/README.md",
@@ -1004,6 +1010,12 @@
         "id": "1124",
         "title": "表现良好的最长时间段",
         "path": "./problemset/longest-well-performing-interval/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1156",
+        "title": "单字符重复子串的最大长度",
+        "path": "./problemset/swap-for-longest-repeated-character-substring/README.md",
         "difficulty": "中等"
       },
       {

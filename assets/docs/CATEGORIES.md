@@ -107,6 +107,7 @@
 | 413. [等差数列划分](../../problemset/arithmetic-slices/README.md) | 中等 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
+| 1156. [单字符重复子串的最大长度](../../problemset/swap-for-longest-repeated-character-substring/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 | 1763. [最长的美好子字符串](../../problemset/longest-nice-substring/README.md) | 简单 |
 
@@ -213,6 +214,7 @@
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |
 | 1124. [表现良好的最长时间段](../../problemset/longest-well-performing-interval/README.md) | 中等 |
+| 1156. [单字符重复子串的最大长度](../../problemset/swap-for-longest-repeated-character-substring/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 

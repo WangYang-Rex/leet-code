@@ -256,6 +256,8 @@
 
 [1144. 递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md)
 
+[1156. 单字符重复子串的最大长度](../../problemset/swap-for-longest-repeated-character-substring/README.md)
+
 [1233. 删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md)
 
 [1234. 替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md)

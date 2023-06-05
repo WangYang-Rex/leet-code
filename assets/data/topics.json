@@ -1280,6 +1280,16 @@
     "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md"
   },
   {
+    "id": "1156",
+    "title": {
+      "cn": "单字符重复子串的最大长度",
+      "en": "swap-for-longest-repeated-character-substring"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/",
+    "path": "./problemset/swap-for-longest-repeated-character-substring/README.md"
+  },
+  {
     "id": "1233",
     "title": {
       "cn": "删除子文件夹",
