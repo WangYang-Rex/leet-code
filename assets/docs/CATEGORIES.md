@@ -28,6 +28,7 @@
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
 | 141. [环形链表](../../problemset/linked-list-cycle/README.md) | 简单 |
 | 160. [相交链表](../../problemset/intersection-of-two-linked-lists/README.md) | 简单 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
@@ -133,6 +134,7 @@
 | 31. [下一个排列](../../problemset/next-permutation/README.md) | 中等 |
 | 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |
 | 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
@@ -291,6 +293,7 @@
 
 | 题目 | 难度 |
 | ---- | ---- |
+| 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 
 ## 贪心算法
 

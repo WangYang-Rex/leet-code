@@ -164,6 +164,8 @@
 
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
+[169. 多数元素](../../problemset/majority-element/README.md)
+
 [187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
 
 [206. 反转链表](../../problemset/reverse-linked-list/README.md)

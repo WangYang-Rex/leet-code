@@ -122,6 +122,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "169",
+        "title": "多数元素",
+        "path": "./problemset/majority-element/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "187",
         "title": "重复的DNA序列",
         "path": "./problemset/repeated-dna-sequences/README.md",
@@ -600,6 +606,12 @@
         "title": "颜色分类",
         "path": "./problemset/sort-colors/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "169",
+        "title": "多数元素",
+        "path": "./problemset/majority-element/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "215",
@@ -1322,7 +1334,14 @@
   },
   {
     "label": "分治",
-    "topics": []
+    "topics": [
+      {
+        "id": "169",
+        "title": "多数元素",
+        "path": "./problemset/majority-element/README.md",
+        "difficulty": "简单"
+      }
+    ]
   },
   {
     "label": "贪心算法",
