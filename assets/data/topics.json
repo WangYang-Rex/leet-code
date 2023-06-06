@@ -1000,6 +1000,16 @@
     "path": "./problemset/reverse-vowels-of-a-string/README.md"
   },
   {
+    "id": "374",
+    "title": {
+      "cn": "猜数字大小",
+      "en": "guess-number-higher-or-lower"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/guess-number-higher-or-lower/",
+    "path": "./problemset/guess-number-higher-or-lower/README.md"
+  },
+  {
     "id": "382",
     "title": {
       "cn": "链表随机节点",

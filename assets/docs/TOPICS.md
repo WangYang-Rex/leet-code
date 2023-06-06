@@ -200,6 +200,8 @@
 
 [345. 反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md)
 
+[374. 猜数字大小](../../problemset/guess-number-higher-or-lower/README.md)
+
 [382. 链表随机节点](../../problemset/linked-list-random-node/README.md)
 
 [412. Fizz Buzz](../../problemset/fizz-buzz/README.md)

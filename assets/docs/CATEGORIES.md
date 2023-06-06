@@ -294,6 +294,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
+| 374. [猜数字大小](../../problemset/guess-number-higher-or-lower/README.md) | 简单 |
 
 ## 贪心算法
 

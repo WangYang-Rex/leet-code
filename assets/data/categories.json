@@ -1340,6 +1340,12 @@
         "title": "多数元素",
         "path": "./problemset/majority-element/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "374",
+        "title": "猜数字大小",
+        "path": "./problemset/guess-number-higher-or-lower/README.md",
+        "difficulty": "简单"
       }
     ]
   },
