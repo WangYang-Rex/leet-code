@@ -34,6 +34,7 @@
 | 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
+| 2352. [相等行列对](../../problemset/equal-row-and-column-pairs/README.md) | 中等 |
 | 2451. [差值数组不同的字符串](../../problemset/odd-string-difference/README.md) | 简单 |
 
 ## 数组
@@ -57,6 +58,7 @@
 | 1144. [递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 2341. [数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md) | 简单 |
+| 2352. [相等行列对](../../problemset/equal-row-and-column-pairs/README.md) | 中等 |
 | 2460. [对数组执行操作](../../problemset/apply-operations-to-an-array/README.md) | 简单 |
 | 2559. [统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |

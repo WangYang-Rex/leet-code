@@ -284,6 +284,8 @@
 
 [2347. 最好的扑克手牌](../../problemset/best-poker-hand/README.md)
 
+[2352. 相等行列对](../../problemset/equal-row-and-column-pairs/README.md)
+
 [2437. 有效时间的数目](../../problemset/number-of-valid-clock-times/README.md)
 
 [2446. 判断两个事件是否存在冲突](../../problemset/determine-if-two-events-have-conflict/README.md)

@@ -158,6 +158,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "2352",
+        "title": "相等行列对",
+        "path": "./problemset/equal-row-and-column-pairs/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "2451",
         "title": "差值数组不同的字符串",
         "path": "./problemset/odd-string-difference/README.md",
@@ -269,6 +275,12 @@
         "title": "数组能形成多少数对",
         "path": "./problemset/maximum-number-of-pairs-in-array/README.md",
         "difficulty": "简单"
+      },
+      {
+        "id": "2352",
+        "title": "相等行列对",
+        "path": "./problemset/equal-row-and-column-pairs/README.md",
+        "difficulty": "中等"
       },
       {
         "id": "2460",

@@ -1420,6 +1420,16 @@
     "path": "./problemset/best-poker-hand/README.md"
   },
   {
+    "id": "2352",
+    "title": {
+      "cn": "相等行列对",
+      "en": "equal-row-and-column-pairs"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/equal-row-and-column-pairs/",
+    "path": "./problemset/equal-row-and-column-pairs/README.md"
+  },
+  {
     "id": "2437",
     "title": {
       "cn": "有效时间的数目",
