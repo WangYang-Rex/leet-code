@@ -1000,6 +1000,16 @@
     "path": "./problemset/reverse-vowels-of-a-string/README.md"
   },
   {
+    "id": "349",
+    "title": {
+      "cn": "两个数组的交集",
+      "en": "intersection-of-two-arrays"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/intersection-of-two-arrays/",
+    "path": "./problemset/intersection-of-two-arrays/README.md"
+  },
+  {
     "id": "374",
     "title": {
       "cn": "猜数字大小",

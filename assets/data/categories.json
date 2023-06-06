@@ -140,6 +140,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "349",
+        "title": "两个数组的交集",
+        "path": "./problemset/intersection-of-two-arrays/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1072",
         "title": "按列翻转得到最大值等行数",
         "path": "./problemset/flip-columns-for-maximum-number-of-equal-rows/README.md",
