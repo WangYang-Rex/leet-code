@@ -125,6 +125,7 @@
 | 35. [搜索插入位置](../../problemset/search-insert-position/README.md) | 简单 |
 | 162. [寻找峰值](../../problemset/find-peak-element/README.md) | 中等 |
 | 278. [第一个错误的版本](../../problemset/first-bad-version/README.md) | 简单 |
+| 374. [猜数字大小](../../problemset/guess-number-higher-or-lower/README.md) | 简单 |
 
 ## 排序
 
