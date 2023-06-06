@@ -190,6 +190,7 @@
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 | 1335. [工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md) | 困难 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
+| 面试题 17.16. [按摩师](../../problemset/the-masseuse-lcci/README.md) | 简单 |
 | 剑指 Offer 47. [礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md) | 中等 |
 
 ## 双指针

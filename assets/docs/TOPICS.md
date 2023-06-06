@@ -308,4 +308,6 @@
 
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
 
+[面试题 17.16. 按摩师](../../problemset/the-masseuse-lcci/README.md)
+
 [剑指 Offer 47. 礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md)
