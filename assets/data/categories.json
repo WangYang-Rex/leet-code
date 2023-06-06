@@ -1511,6 +1511,12 @@
         "title": "循环码排列",
         "path": "./problemset/circular-permutation-in-binary-representation/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "面试题 16.07",
+        "title": "最大数值",
+        "path": "./problemset/maximum-lcci/README.md",
+        "difficulty": "简单"
       }
     ]
   },
