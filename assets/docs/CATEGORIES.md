@@ -183,6 +183,7 @@
 | 91. [解码方法](../../problemset/decode-ways/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
+| 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
 | 877. [石子游戏](../../problemset/stone-game/README.md) | 中等 |
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |

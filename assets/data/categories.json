@@ -852,6 +852,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "338",
+        "title": "比特位计数",
+        "path": "./problemset/counting-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "877",
         "title": "石子游戏",
         "path": "./problemset/stone-game/README.md",
