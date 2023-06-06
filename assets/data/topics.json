@@ -1010,6 +1010,16 @@
     "path": "./problemset/intersection-of-two-arrays/README.md"
   },
   {
+    "id": "350",
+    "title": {
+      "cn": "两个数组的交集 II",
+      "en": "intersection-of-two-arrays-ii"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/intersection-of-two-arrays-ii/",
+    "path": "./problemset/intersection-of-two-arrays-ii/README.md"
+  },
+  {
     "id": "374",
     "title": {
       "cn": "猜数字大小",

@@ -32,6 +32,7 @@
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
 | 349. [两个数组的交集](../../problemset/intersection-of-two-arrays/README.md) | 简单 |
+| 350. [两个数组的交集 II](../../problemset/intersection-of-two-arrays-ii/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
 | 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
 | 1233. [删除子文件夹](../../problemset/remove-sub-folders-from-the-filesystem/README.md) | 中等 |
