@@ -184,6 +184,7 @@
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 322. [零钱兑换](../../problemset/coin-change/README.md) | 中等 |
 | 338. [比特位计数](../../problemset/counting-bits/README.md) | 简单 |
+| 392. [判断子序列](../../problemset/is-subsequence/README.md) | 简单 |
 | 877. [石子游戏](../../problemset/stone-game/README.md) | 中等 |
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
@@ -219,6 +220,7 @@
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
 | 344. [反转字符串](../../problemset/reverse-string/README.md) | 简单 |
 | 345. [反转字符串中的元音字母](../../problemset/reverse-vowels-of-a-string/README.md) | 简单 |
+| 392. [判断子序列](../../problemset/is-subsequence/README.md) | 简单 |
 | 413. [等差数列划分](../../problemset/arithmetic-slices/README.md) | 中等 |
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |
 | 643. [子数组最大平均数 I](../../problemset/maximum-average-subarray-i/README.md) | 简单 |

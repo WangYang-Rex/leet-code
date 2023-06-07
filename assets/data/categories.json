@@ -858,6 +858,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "392",
+        "title": "判断子序列",
+        "path": "./problemset/is-subsequence/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "877",
         "title": "石子游戏",
         "path": "./problemset/stone-game/README.md",
@@ -1040,6 +1046,12 @@
         "id": "345",
         "title": "反转字符串中的元音字母",
         "path": "./problemset/reverse-vowels-of-a-string/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "392",
+        "title": "判断子序列",
+        "path": "./problemset/is-subsequence/README.md",
         "difficulty": "简单"
       },
       {

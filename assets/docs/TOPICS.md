@@ -210,6 +210,8 @@
 
 [382. 链表随机节点](../../problemset/linked-list-random-node/README.md)
 
+[392. 判断子序列](../../problemset/is-subsequence/README.md)
+
 [412. Fizz Buzz](../../problemset/fizz-buzz/README.md)
 
 [413. 等差数列划分](../../problemset/arithmetic-slices/README.md)

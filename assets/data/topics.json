@@ -1050,6 +1050,16 @@
     "path": "./problemset/linked-list-random-node/README.md"
   },
   {
+    "id": "392",
+    "title": {
+      "cn": "判断子序列",
+      "en": "is-subsequence"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/is-subsequence/",
+    "path": "./problemset/is-subsequence/README.md"
+  },
+  {
     "id": "412",
     "title": {
       "cn": "Fizz Buzz",
