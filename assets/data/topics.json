@@ -1590,6 +1590,16 @@
     "path": "./problemset/gzcjip/README.md"
   },
   {
+    "id": "剑指 Offer II 003",
+    "title": {
+      "cn": "前 n 个数字二进制中 1 的个数",
+      "en": "w3tcbm"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/w3tCBm/",
+    "path": "./problemset/w3tcbm/README.md"
+  },
+  {
     "id": "面试题 05.02",
     "title": {
       "cn": "二进制数转字符串",

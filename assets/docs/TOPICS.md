@@ -318,6 +318,8 @@
 
 [剑指 Offer II 088. 爬楼梯的最少成本](../../problemset/gzcjip/README.md)
 
+[剑指 Offer II 003. 前 n 个数字二进制中 1 的个数](../../problemset/w3tcbm/README.md)
+
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
 
 [面试题 17.16. 按摩师](../../problemset/the-masseuse-lcci/README.md)

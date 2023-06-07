@@ -196,6 +196,7 @@
 | 1335. [工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md) | 困难 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 | 剑指 Offer II 088. [爬楼梯的最少成本](../../problemset/gzcjip/README.md) | 简单 |
+| 剑指 Offer II 003. [前 n 个数字二进制中 1 的个数](../../problemset/w3tcbm/README.md) | 简单 |
 | 面试题 17.16. [按摩师](../../problemset/the-masseuse-lcci/README.md) | 简单 |
 | 剑指 Offer 47. [礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md) | 中等 |
 
