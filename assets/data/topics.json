@@ -1250,6 +1250,16 @@
     "path": "./problemset/binary-string-with-substrings-representing-1-to-n/README.md"
   },
   {
+    "id": "1025",
+    "title": {
+      "cn": "除数博弈",
+      "en": "divisor-game"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/divisor-game/",
+    "path": "./problemset/divisor-game/README.md"
+  },
+  {
     "id": "1072",
     "title": {
       "cn": "按列翻转得到最大值等行数",

@@ -250,6 +250,8 @@
 
 [1016. 子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md)
 
+[1025. 除数博弈](../../problemset/divisor-game/README.md)
+
 [1072. 按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md)
 
 [1073. 负二进制数相加](../../problemset/adding-two-negabinary-numbers/README.md)

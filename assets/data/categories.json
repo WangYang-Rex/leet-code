@@ -751,6 +751,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1025",
+        "title": "除数博弈",
+        "path": "./problemset/divisor-game/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1073",
         "title": "负二进制数相加",
         "path": "./problemset/adding-two-negabinary-numbers/README.md",
@@ -880,6 +886,12 @@
         "title": "至少有 1 位重复的数字",
         "path": "./problemset/numbers-with-repeated-digits/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "1025",
+        "title": "除数博弈",
+        "path": "./problemset/divisor-game/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "1139",

@@ -162,6 +162,7 @@
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
+| 1025. [除数博弈](../../problemset/divisor-game/README.md) | 简单 |
 | 1073. [负二进制数相加](../../problemset/adding-two-negabinary-numbers/README.md) | 中等 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 | 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
@@ -188,6 +189,7 @@
 | 746. [使用最小花费爬楼梯](../../problemset/min-cost-climbing-stairs/README.md) | 简单 |
 | 877. [石子游戏](../../problemset/stone-game/README.md) | 中等 |
 | 1012. [至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md) | 困难 |
+| 1025. [除数博弈](../../problemset/divisor-game/README.md) | 简单 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
