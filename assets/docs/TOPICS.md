@@ -240,6 +240,8 @@
 
 [680. 验证回文串 II](../../problemset/valid-palindrome-ii/README.md)
 
+[746. 使用最小花费爬楼梯](../../problemset/min-cost-climbing-stairs/README.md)
+
 [877. 石子游戏](../../problemset/stone-game/README.md)
 
 [1012. 至少有 1 位重复的数字](../../problemset/numbers-with-repeated-digits/README.md)

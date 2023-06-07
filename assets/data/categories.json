@@ -864,6 +864,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "746",
+        "title": "使用最小花费爬楼梯",
+        "path": "./problemset/min-cost-climbing-stairs/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "877",
         "title": "石子游戏",
         "path": "./problemset/stone-game/README.md",

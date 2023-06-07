@@ -1200,6 +1200,16 @@
     "path": "./problemset/valid-palindrome-ii/README.md"
   },
   {
+    "id": "746",
+    "title": {
+      "cn": "使用最小花费爬楼梯",
+      "en": "min-cost-climbing-stairs"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/min-cost-climbing-stairs/",
+    "path": "./problemset/min-cost-climbing-stairs/README.md"
+  },
+  {
     "id": "877",
     "title": {
       "cn": "石子游戏",
