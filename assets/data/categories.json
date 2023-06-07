@@ -1417,6 +1417,12 @@
         "title": "灌溉花园的最少水龙头数目",
         "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
         "difficulty": "困难"
+      },
+      {
+        "id": "2611",
+        "title": "老鼠和奶酪",
+        "path": "./problemset/mice-and-cheese/README.md",
+        "difficulty": "中等"
       }
     ]
   },

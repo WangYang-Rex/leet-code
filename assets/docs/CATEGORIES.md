@@ -311,6 +311,7 @@
 | 55. [跳跃游戏](../../problemset/jump-game/README.md) | 中等 |
 | 502. [IPO](../../problemset/ipo/README.md) | 困难 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
+| 2611. [老鼠和奶酪](../../problemset/mice-and-cheese/README.md) | 中等 |
 
 ## 二叉树
 

@@ -308,6 +308,8 @@
 
 [2559. 统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md)
 
+[2611. 老鼠和奶酪](../../problemset/mice-and-cheese/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)

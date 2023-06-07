@@ -1540,6 +1540,16 @@
     "path": "./problemset/count-vowel-strings-in-ranges/README.md"
   },
   {
+    "id": "2611",
+    "title": {
+      "cn": "老鼠和奶酪",
+      "en": "mice-and-cheese"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/mice-and-cheese/",
+    "path": "./problemset/mice-and-cheese/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",
