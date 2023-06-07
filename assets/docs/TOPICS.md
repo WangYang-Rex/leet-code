@@ -316,6 +316,8 @@
 
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
+[剑指 Offer II 088. 爬楼梯的最少成本](../../problemset/gzcjip/README.md)
+
 [面试题 05.02. 二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md)
 
 [面试题 17.16. 按摩师](../../problemset/the-masseuse-lcci/README.md)

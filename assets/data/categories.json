@@ -924,6 +924,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "剑指 Offer II 088",
+        "title": "爬楼梯的最少成本",
+        "path": "./problemset/gzcjip/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "面试题 17.16",
         "title": "按摩师",
         "path": "./problemset/the-masseuse-lcci/README.md",

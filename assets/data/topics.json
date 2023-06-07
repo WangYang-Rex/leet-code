@@ -1580,6 +1580,16 @@
     "path": "./problemset/xx4gt2/README.md"
   },
   {
+    "id": "剑指 Offer II 088",
+    "title": {
+      "cn": "爬楼梯的最少成本",
+      "en": "gzcjip"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/GzCJIP/",
+    "path": "./problemset/gzcjip/README.md"
+  },
+  {
     "id": "面试题 05.02",
     "title": {
       "cn": "二进制数转字符串",
