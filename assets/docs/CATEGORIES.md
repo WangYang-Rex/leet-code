@@ -199,6 +199,7 @@
 | 剑指 Offer II 088. [爬楼梯的最少成本](../../problemset/gzcjip/README.md) | 简单 |
 | 剑指 Offer II 003. [前 n 个数字二进制中 1 的个数](../../problemset/w3tcbm/README.md) | 简单 |
 | 面试题 17.16. [按摩师](../../problemset/the-masseuse-lcci/README.md) | 简单 |
+| 面试题 16.17. [连续数列](../../problemset/contiguous-sequence-lcci/README.md) | 简单 |
 | 剑指 Offer 47. [礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md) | 中等 |
 
 ## 双指针

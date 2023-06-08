@@ -948,6 +948,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "面试题 16.17",
+        "title": "连续数列",
+        "path": "./problemset/contiguous-sequence-lcci/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "剑指 Offer 47",
         "title": "礼物的最大价值",
         "path": "./problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md",

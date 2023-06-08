@@ -328,4 +328,6 @@
 
 [面试题 16.07. 最大数值](../../problemset/maximum-lcci/README.md)
 
+[面试题 16.17. 连续数列](../../problemset/contiguous-sequence-lcci/README.md)
+
 [剑指 Offer 47. 礼物的最大价值](../../problemset/li-wu-de-zui-da-jie-zhi-lcof/README.md)

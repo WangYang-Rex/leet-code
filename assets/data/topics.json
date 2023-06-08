@@ -1640,6 +1640,16 @@
     "path": "./problemset/maximum-lcci/README.md"
   },
   {
+    "id": "面试题 16.17",
+    "title": {
+      "cn": "连续数列",
+      "en": "contiguous-sequence-lcci"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/contiguous-sequence-lcci/",
+    "path": "./problemset/contiguous-sequence-lcci/README.md"
+  },
+  {
     "id": "剑指 Offer 47",
     "title": {
       "cn": "礼物的最大价值",
