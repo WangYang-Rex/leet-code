@@ -280,6 +280,8 @@
 
 [1238. 循环码排列](../../problemset/circular-permutation-in-binary-representation/README.md)
 
+[1240. 铺瓷砖](../../problemset/tiling-a-rectangle-with-the-fewest-squares/README.md)
+
 [1250. 检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md)
 
 [1326. 灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md)

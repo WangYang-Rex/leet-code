@@ -1400,6 +1400,16 @@
     "path": "./problemset/circular-permutation-in-binary-representation/README.md"
   },
   {
+    "id": "1240",
+    "title": {
+      "cn": "铺瓷砖",
+      "en": "tiling-a-rectangle-with-the-fewest-squares"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/tiling-a-rectangle-with-the-fewest-squares/",
+    "path": "./problemset/tiling-a-rectangle-with-the-fewest-squares/README.md"
+  },
+  {
     "id": "1250",
     "title": {
       "cn": "检查「好数组」",

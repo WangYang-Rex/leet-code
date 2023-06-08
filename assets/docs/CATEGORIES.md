@@ -164,6 +164,7 @@
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1025. [除数博弈](../../problemset/divisor-game/README.md) | 简单 |
 | 1073. [负二进制数相加](../../problemset/adding-two-negabinary-numbers/README.md) | 中等 |
+| 1240. [铺瓷砖](../../problemset/tiling-a-rectangle-with-the-fewest-squares/README.md) | 困难 |
 | 1250. [检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md) | 困难 |
 | 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
 | 面试题 05.02. [二进制数转字符串](../../problemset/bianry-number-to-string-lcci/README.md) | 中等 |
@@ -270,6 +271,7 @@
 | 47. [全排列 II](../../problemset/permutations-ii/README.md) | 中等 |
 | 96. [不同的二叉搜索树](../../problemset/unique-binary-search-trees/README.md) | 中等 |
 | 212. [单词搜索 II](../../problemset/word-search-ii/README.md) | 困难 |
+| 1240. [铺瓷砖](../../problemset/tiling-a-rectangle-with-the-fewest-squares/README.md) | 困难 |
 
 ## 栈
 

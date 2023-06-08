@@ -763,6 +763,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1240",
+        "title": "铺瓷砖",
+        "path": "./problemset/tiling-a-rectangle-with-the-fewest-squares/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1250",
         "title": "检查「好数组」",
         "path": "./problemset/check-if-it-is-a-good-array/README.md",
@@ -1296,6 +1302,12 @@
         "id": "212",
         "title": "单词搜索 II",
         "path": "./problemset/word-search-ii/README.md",
+        "difficulty": "困难"
+      },
+      {
+        "id": "1240",
+        "title": "铺瓷砖",
+        "path": "./problemset/tiling-a-rectangle-with-the-fewest-squares/README.md",
         "difficulty": "困难"
       }
     ]
