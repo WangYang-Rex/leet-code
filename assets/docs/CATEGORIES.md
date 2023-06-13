@@ -197,6 +197,7 @@
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 | 1335. [工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md) | 困难 |
 | 1483. [树节点的第 K 个祖先](../../problemset/kth-ancestor-of-a-tree-node/README.md) | 困难 |
+| 1646. [获取生成数组中的最大值](../../problemset/get-maximum-in-generated-array/README.md) | 简单 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
 | 剑指 Offer II 088. [爬楼梯的最少成本](../../problemset/gzcjip/README.md) | 简单 |
 | 剑指 Offer II 003. [前 n 个数字二进制中 1 的个数](../../problemset/w3tcbm/README.md) | 简单 |

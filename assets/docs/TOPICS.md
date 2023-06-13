@@ -294,6 +294,8 @@
 
 [1615. 最大网络秩](../../problemset/maximal-network-rank/README.md)
 
+[1646. 获取生成数组中的最大值](../../problemset/get-maximum-in-generated-array/README.md)
+
 [1653. 使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md)
 
 [1763. 最长的美好子字符串](../../problemset/longest-nice-substring/README.md)
