@@ -307,6 +307,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "2475",
+        "title": "数组中不等三元组的数目",
+        "path": "./problemset/number-of-unequal-triplets-in-array/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "2559",
         "title": "统计范围内的元音字符串数",
         "path": "./problemset/count-vowel-strings-in-ranges/README.md",
@@ -1143,6 +1149,12 @@
         "title": "使字符串平衡的最少删除次数",
         "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "2475",
+        "title": "数组中不等三元组的数目",
+        "path": "./problemset/number-of-unequal-triplets-in-array/README.md",
+        "difficulty": "简单"
       }
     ]
   },

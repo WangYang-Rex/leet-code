@@ -314,6 +314,8 @@
 
 [2460. 对数组执行操作](../../problemset/apply-operations-to-an-array/README.md)
 
+[2475. 数组中不等三元组的数目](../../problemset/number-of-unequal-triplets-in-array/README.md)
+
 [2559. 统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md)
 
 [2611. 老鼠和奶酪](../../problemset/mice-and-cheese/README.md)

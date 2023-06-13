@@ -63,6 +63,7 @@
 | 2341. [数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md) | 简单 |
 | 2352. [相等行列对](../../problemset/equal-row-and-column-pairs/README.md) | 中等 |
 | 2460. [对数组执行操作](../../problemset/apply-operations-to-an-array/README.md) | 简单 |
+| 2475. [数组中不等三元组的数目](../../problemset/number-of-unequal-triplets-in-array/README.md) | 简单 |
 | 2559. [统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
@@ -236,6 +237,7 @@
 | 1156. [单字符重复子串的最大长度](../../problemset/swap-for-longest-repeated-character-substring/README.md) | 中等 |
 | 1234. [替换子串得到平衡字符串](../../problemset/replace-the-substring-for-balanced-string/README.md) | 中等 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
+| 2475. [数组中不等三元组的数目](../../problemset/number-of-unequal-triplets-in-array/README.md) | 简单 |
 
 ## 模拟
 

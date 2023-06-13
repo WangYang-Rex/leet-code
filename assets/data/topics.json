@@ -1570,6 +1570,16 @@
     "path": "./problemset/apply-operations-to-an-array/README.md"
   },
   {
+    "id": "2475",
+    "title": {
+      "cn": "数组中不等三元组的数目",
+      "en": "number-of-unequal-triplets-in-array"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/number-of-unequal-triplets-in-array/",
+    "path": "./problemset/number-of-unequal-triplets-in-array/README.md"
+  },
+  {
     "id": "2559",
     "title": {
       "cn": "统计范围内的元音字符串数",
