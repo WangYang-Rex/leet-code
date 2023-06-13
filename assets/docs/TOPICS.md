@@ -288,6 +288,8 @@
 
 [1335. 工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md)
 
+[1483. 树节点的第 K 个祖先](../../problemset/kth-ancestor-of-a-tree-node/README.md)
+
 [1487. 保证文件名唯一](../../problemset/making-file-names-unique/README.md)
 
 [1615. 最大网络秩](../../problemset/maximal-network-rank/README.md)
@@ -315,6 +317,8 @@
 [2559. 统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md)
 
 [2611. 老鼠和奶酪](../../problemset/mice-and-cheese/README.md)
+
+[2699. 修改图中的边权](../../problemset/modify-graph-edge-weights/README.md)
 
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 

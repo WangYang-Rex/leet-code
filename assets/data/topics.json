@@ -1440,6 +1440,16 @@
     "path": "./problemset/minimum-difficulty-of-a-job-schedule/README.md"
   },
   {
+    "id": "1483",
+    "title": {
+      "cn": "树节点的第 K 个祖先",
+      "en": "kth-ancestor-of-a-tree-node"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/",
+    "path": "./problemset/kth-ancestor-of-a-tree-node/README.md"
+  },
+  {
     "id": "1487",
     "title": {
       "cn": "保证文件名唯一",
@@ -1578,6 +1588,16 @@
     "difficulty": "中等",
     "url": "https://leetcode.cn/problems/mice-and-cheese/",
     "path": "./problemset/mice-and-cheese/README.md"
+  },
+  {
+    "id": "2699",
+    "title": {
+      "cn": "修改图中的边权",
+      "en": "modify-graph-edge-weights"
+    },
+    "difficulty": "困难",
+    "url": "https://leetcode.cn/problems/modify-graph-edge-weights/",
+    "path": "./problemset/modify-graph-edge-weights/README.md"
   },
   {
     "id": "剑指 Offer II 076",

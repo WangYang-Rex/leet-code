@@ -924,6 +924,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1483",
+        "title": "树节点的第 K 个祖先",
+        "path": "./problemset/kth-ancestor-of-a-tree-node/README.md",
+        "difficulty": "困难"
+      },
+      {
         "id": "1653",
         "title": "使字符串平衡的最少删除次数",
         "path": "./problemset/minimum-deletions-to-make-string-balanced/README.md",
