@@ -288,6 +288,8 @@
 
 [1335. 工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md)
 
+[1375. 二进制字符串前缀一致的次数](../../problemset/number-of-times-binary-string-is-prefix-aligned/README.md)
+
 [1483. 树节点的第 K 个祖先](../../problemset/kth-ancestor-of-a-tree-node/README.md)
 
 [1487. 保证文件名唯一](../../problemset/making-file-names-unique/README.md)

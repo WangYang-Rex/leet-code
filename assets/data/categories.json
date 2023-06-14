@@ -930,6 +930,12 @@
         "difficulty": "困难"
       },
       {
+        "id": "1375",
+        "title": "二进制字符串前缀一致的次数",
+        "path": "./problemset/number-of-times-binary-string-is-prefix-aligned/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1483",
         "title": "树节点的第 K 个祖先",
         "path": "./problemset/kth-ancestor-of-a-tree-node/README.md",
@@ -1267,6 +1273,12 @@
         "id": "1139",
         "title": "最大的以 1 为边界的正方形",
         "path": "./problemset/largest-1-bordered-square/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "1375",
+        "title": "二进制字符串前缀一致的次数",
+        "path": "./problemset/number-of-times-binary-string-is-prefix-aligned/README.md",
         "difficulty": "中等"
       },
       {

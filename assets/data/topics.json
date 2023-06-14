@@ -1440,6 +1440,16 @@
     "path": "./problemset/minimum-difficulty-of-a-job-schedule/README.md"
   },
   {
+    "id": "1375",
+    "title": {
+      "cn": "二进制字符串前缀一致的次数",
+      "en": "number-of-times-binary-string-is-prefix-aligned"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/number-of-times-binary-string-is-prefix-aligned/",
+    "path": "./problemset/number-of-times-binary-string-is-prefix-aligned/README.md"
+  },
+  {
     "id": "1483",
     "title": {
       "cn": "树节点的第 K 个祖先",

@@ -196,6 +196,7 @@
 | 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 | 1335. [工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md) | 困难 |
+| 1375. [二进制字符串前缀一致的次数](../../problemset/number-of-times-binary-string-is-prefix-aligned/README.md) | 中等 |
 | 1483. [树节点的第 K 个祖先](../../problemset/kth-ancestor-of-a-tree-node/README.md) | 困难 |
 | 1646. [获取生成数组中的最大值](../../problemset/get-maximum-in-generated-array/README.md) | 简单 |
 | 1653. [使字符串平衡的最少删除次数](../../problemset/minimum-deletions-to-make-string-balanced/README.md) | 中等 |
@@ -261,6 +262,7 @@
 | 1073. [负二进制数相加](../../problemset/adding-two-negabinary-numbers/README.md) | 中等 |
 | 1079. [活字印刷](../../problemset/letter-tile-possibilities/README.md) | 中等 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
+| 1375. [二进制字符串前缀一致的次数](../../problemset/number-of-times-binary-string-is-prefix-aligned/README.md) | 中等 |
 | 2347. [最好的扑克手牌](../../problemset/best-poker-hand/README.md) | 简单 |
 | 2437. [有效时间的数目](../../problemset/number-of-valid-clock-times/README.md) | 简单 |
 
