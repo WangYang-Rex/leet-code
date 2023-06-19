@@ -194,6 +194,7 @@
 | 1025. [除数博弈](../../problemset/divisor-game/README.md) | 简单 |
 | 1139. [最大的以 1 为边界的正方形](../../problemset/largest-1-bordered-square/README.md) | 中等 |
 | 1140. [石子游戏 II](../../problemset/stone-game-ii/README.md) | 中等 |
+| 1262. [可被三整除的最大和](../../problemset/greatest-sum-divisible-by-three/README.md) | 中等 |
 | 1326. [灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md) | 困难 |
 | 1335. [工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md) | 困难 |
 | 1375. [二进制字符串前缀一致的次数](../../problemset/number-of-times-binary-string-is-prefix-aligned/README.md) | 中等 |

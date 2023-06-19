@@ -284,6 +284,8 @@
 
 [1250. 检查「好数组」](../../problemset/check-if-it-is-a-good-array/README.md)
 
+[1262. 可被三整除的最大和](../../problemset/greatest-sum-divisible-by-three/README.md)
+
 [1326. 灌溉花园的最少水龙头数目](../../problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md)
 
 [1335. 工作计划的最低难度](../../problemset/minimum-difficulty-of-a-job-schedule/README.md)

@@ -918,6 +918,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "1262",
+        "title": "可被三整除的最大和",
+        "path": "./problemset/greatest-sum-divisible-by-three/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "1326",
         "title": "灌溉花园的最少水龙头数目",
         "path": "./problemset/minimum-number-of-taps-to-open-to-water-a-garden/README.md",
