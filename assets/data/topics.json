@@ -550,6 +550,16 @@
     "path": "./problemset/sort-colors/README.md"
   },
   {
+    "id": "78",
+    "title": {
+      "cn": "子集",
+      "en": "subsets"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/subsets/",
+    "path": "./problemset/subsets/README.md"
+  },
+  {
     "id": "80",
     "title": {
       "cn": "删除有序数组中的重复项 II",

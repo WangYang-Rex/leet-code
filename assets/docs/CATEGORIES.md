@@ -52,6 +52,7 @@
 | 49. [字母异位词分组](../../problemset/group-anagrams/README.md) | 中等 |
 | 66. [加一](../../problemset/plus-one/README.md) | 简单 |
 | 75. [颜色分类](../../problemset/sort-colors/README.md) | 中等 |
+| 78. [子集](../../problemset/subsets/README.md) | 中等 |
 | 80. [删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md) | 中等 |
 | 121. [买卖股票的最佳时机](../../problemset/best-time-to-buy-and-sell-stock/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |

@@ -110,6 +110,8 @@
 
 [75. 颜色分类](../../problemset/sort-colors/README.md)
 
+[78. 子集](../../problemset/subsets/README.md)
+
 [80. 删除有序数组中的重复项 II](../../problemset/remove-duplicates-from-sorted-array-ii/README.md)
 
 [83. 删除排序链表中的重复元素](../../problemset/remove-duplicates-from-sorted-list/README.md)
