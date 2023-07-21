@@ -39,6 +39,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "137",
+        "title": "只出现一次的数字 II",
+        "path": "./problemset/single-number-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "211",
         "title": "添加与搜索单词 - 数据结构设计",
         "path": "./problemset/design-add-and-search-words-data-structure/README.md",
