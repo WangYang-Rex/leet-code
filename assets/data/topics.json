@@ -590,6 +590,16 @@
     "path": "./problemset/merge-sorted-array/README.md"
   },
   {
+    "id": "90",
+    "title": {
+      "cn": "子集 II",
+      "en": "subsets-ii"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/subsets-ii/",
+    "path": "./problemset/subsets-ii/README.md"
+  },
+  {
     "id": "91",
     "title": {
       "cn": "解码方法",

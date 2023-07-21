@@ -1615,6 +1615,12 @@
     "label": "位运算",
     "topics": [
       {
+        "id": "90",
+        "title": "子集 II",
+        "path": "./problemset/subsets-ii/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "187",
         "title": "重复的DNA序列",
         "path": "./problemset/repeated-dna-sequences/README.md",
