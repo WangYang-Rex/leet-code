@@ -1633,6 +1633,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "191",
+        "title": "位1的个数",
+        "path": "./problemset/number-of-1-bits/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "476",
         "title": "数字的补数",
         "path": "./problemset/number-complement/README.md",

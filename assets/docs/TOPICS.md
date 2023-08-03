@@ -174,6 +174,8 @@
 
 [187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
 
+[191. 位1的个数](../../problemset/number-of-1-bits/README.md)
+
 [206. 反转链表](../../problemset/reverse-linked-list/README.md)
 
 [209. 长度最小的子数组](../../problemset/minimum-size-subarray-sum/README.md)
