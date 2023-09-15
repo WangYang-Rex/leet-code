@@ -1604,6 +1604,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "226",
+        "title": "翻转二叉树",
+        "path": "./problemset/description/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "437",
         "title": "路径总和 III",
         "path": "./problemset/path-sum-iii/README.md",

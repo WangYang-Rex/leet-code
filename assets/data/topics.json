@@ -960,6 +960,16 @@
     "path": "./problemset/rectangle-area/README.md"
   },
   {
+    "id": "226",
+    "title": {
+      "cn": "翻转二叉树",
+      "en": "description"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/invert-binary-tree/description/",
+    "path": "./problemset/description/README.md"
+  },
+  {
     "id": "273",
     "title": {
       "cn": "整数转换英文表示",

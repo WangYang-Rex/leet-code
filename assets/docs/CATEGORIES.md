@@ -346,6 +346,7 @@
 | 112. [路径总和](../../problemset/path-sum/README.md) | 简单 |
 | 144. [二叉树的前序遍历](../../problemset/binary-tree-preorder-traversal/README.md) | 简单 |
 | 145. [二叉树的后序遍历](../../problemset/binary-tree-postorder-traversal/README.md) | 简单 |
+| 226. [翻转二叉树](../../problemset/description/README.md) | 简单 |
 | 437. [路径总和 III](../../problemset/path-sum-iii/README.md) | 中等 |
 | 1080. [根到叶路径上的不足节点](../../problemset/insufficient-nodes-in-root-to-leaf-paths/README.md) | 中等 |
 
