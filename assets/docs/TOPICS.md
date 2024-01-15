@@ -170,6 +170,8 @@
 
 [167. 两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md)
 
+[168. Excel表列名称](../../problemset/excel-sheet-column-title/README.md)
+
 [169. 多数元素](../../problemset/majority-element/README.md)
 
 [171. Excel 表列序号](../../problemset/excel-sheet-column-number/README.md)

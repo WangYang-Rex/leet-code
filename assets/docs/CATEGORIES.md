@@ -84,6 +84,7 @@
 | 58. [最后一个单词的长度](../../problemset/length-of-last-word/README.md) | 简单 |
 | 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
+| 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
@@ -161,6 +162,7 @@
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-ii/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |

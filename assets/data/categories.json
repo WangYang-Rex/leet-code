@@ -408,6 +408,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "168",
+        "title": "Excel表列名称",
+        "path": "./problemset/excel-sheet-column-title/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "171",
         "title": "Excel 表列序号",
         "path": "./problemset/excel-sheet-column-number/README.md",
@@ -742,6 +748,12 @@
         "id": "136",
         "title": "只出现一次的数字",
         "path": "./problemset/single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "168",
+        "title": "Excel表列名称",
+        "path": "./problemset/excel-sheet-column-title/README.md",
         "difficulty": "简单"
       },
       {
