@@ -86,6 +86,7 @@
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
 | 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
+| 205. [同构字符串](../../problemset/isomorphic-strings/README.md) | 简单 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |

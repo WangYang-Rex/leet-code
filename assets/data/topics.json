@@ -900,6 +900,16 @@
     "path": "./problemset/number-of-1-bits/README.md"
   },
   {
+    "id": "205",
+    "title": {
+      "cn": "同构字符串",
+      "en": "isomorphic-strings"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/isomorphic-strings",
+    "path": "./problemset/isomorphic-strings/README.md"
+  },
+  {
     "id": "206",
     "title": {
       "cn": "反转链表",

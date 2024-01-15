@@ -420,6 +420,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "205",
+        "title": "同构字符串",
+        "path": "./problemset/isomorphic-strings/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "541",
         "title": "反转字符串 II",
         "path": "./problemset/reverse-string-ii/README.md",
