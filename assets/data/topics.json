@@ -860,6 +860,16 @@
     "path": "./problemset/majority-element/README.md"
   },
   {
+    "id": "171",
+    "title": {
+      "cn": "Excel 表列序号",
+      "en": "excel-sheet-column-number"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/excel-sheet-column-number/description/",
+    "path": "./problemset/excel-sheet-column-number/README.md"
+  },
+  {
     "id": "187",
     "title": {
       "cn": "重复的DNA序列",

@@ -408,6 +408,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "171",
+        "title": "Excel 表列序号",
+        "path": "./problemset/excel-sheet-column-number/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "541",
         "title": "反转字符串 II",
         "path": "./problemset/reverse-string-ii/README.md",
@@ -736,6 +742,12 @@
         "id": "136",
         "title": "只出现一次的数字",
         "path": "./problemset/single-number/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "171",
+        "title": "Excel 表列序号",
+        "path": "./problemset/excel-sheet-column-number/README.md",
         "difficulty": "简单"
       },
       {
@@ -1631,6 +1643,12 @@
         "title": "子集 II",
         "path": "./problemset/subsets-ii/README.md",
         "difficulty": "中等"
+      },
+      {
+        "id": "171",
+        "title": "Excel 表列序号",
+        "path": "./problemset/excel-sheet-column-number/README.md",
+        "difficulty": "简单"
       },
       {
         "id": "187",

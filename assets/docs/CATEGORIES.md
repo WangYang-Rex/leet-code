@@ -84,6 +84,7 @@
 | 58. [最后一个单词的长度](../../problemset/length-of-last-word/README.md) | 简单 |
 | 151. [反转字符串中的单词](../../problemset/reverse-words-in-a-string/README.md) | 中等 |
 | 165. [比较版本号](../../problemset/compare-version-numbers/README.md) | 中等 |
+| 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
@@ -160,6 +161,7 @@
 | 118. [杨辉三角](../../problemset/pascals-triangle/README.md) | 简单 |
 | 119. [杨辉三角 II](../../problemset/pascals-triangle-ii/README.md) | 简单 |
 | 136. [只出现一次的数字](../../problemset/single-number/README.md) | 简单 |
+| 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 292. [Nim 游戏](../../problemset/nim-game/README.md) | 简单 |
 | 326. [3 的幂](../../problemset/power-of-three/README.md) | 简单 |
 | 509. [斐波那契数](../../problemset/fibonacci-number/README.md) | 简单 |
@@ -355,6 +357,7 @@
 | 题目 | 难度 |
 | ---- | ---- |
 | 90. [子集 II](../../problemset/subsets-ii/README.md) | 中等 |
+| 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 191. [位1的个数](../../problemset/number-of-1-bits/README.md) | 简单 |
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |

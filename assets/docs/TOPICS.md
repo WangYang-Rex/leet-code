@@ -172,6 +172,8 @@
 
 [169. 多数元素](../../problemset/majority-element/README.md)
 
+[171. Excel 表列序号](../../problemset/excel-sheet-column-number/README.md)
+
 [187. 重复的DNA序列](../../problemset/repeated-dna-sequences/README.md)
 
 [191. 位1的个数](../../problemset/number-of-1-bits/README.md)
