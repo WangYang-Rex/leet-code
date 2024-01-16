@@ -14,7 +14,7 @@
 
 ### 示例 1:
 ```typescript
-输入：s = "egg", t = "add"
+输入：s = "egg", t = "add" 
 输出：true
 ```
 
