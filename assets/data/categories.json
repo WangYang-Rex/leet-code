@@ -146,6 +146,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "242",
+        "title": "有效的字母异位词",
+        "path": "./problemset/valid-anagram/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "349",
         "title": "两个数组的交集",
         "path": "./problemset/intersection-of-two-arrays/README.md",
@@ -423,6 +429,12 @@
         "id": "205",
         "title": "同构字符串",
         "path": "./problemset/isomorphic-strings/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "242",
+        "title": "有效的字母异位词",
+        "path": "./problemset/valid-anagram/README.md",
         "difficulty": "简单"
       },
       {

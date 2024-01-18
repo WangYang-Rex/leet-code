@@ -15,7 +15,7 @@ interface InquirerAnswers {
 // main
 (async() => {
   // git pull
-  await commandAction('git', ['pull'])
+  // await commandAction('git', ['pull'])
 
   // clear terminal
   clear()

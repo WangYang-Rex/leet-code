@@ -32,6 +32,7 @@
 | 169. [多数元素](../../problemset/majority-element/README.md) | 简单 |
 | 187. [重复的DNA序列](../../problemset/repeated-dna-sequences/README.md) | 中等 |
 | 217. [存在重复元素](../../problemset/contains-duplicate/README.md) | 简单 |
+| 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
 | 349. [两个数组的交集](../../problemset/intersection-of-two-arrays/README.md) | 简单 |
 | 350. [两个数组的交集 II](../../problemset/intersection-of-two-arrays-ii/README.md) | 简单 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
@@ -87,6 +88,7 @@
 | 168. [Excel表列名称](../../problemset/excel-sheet-column-title/README.md) | 简单 |
 | 171. [Excel 表列序号](../../problemset/excel-sheet-column-number/README.md) | 简单 |
 | 205. [同构字符串](../../problemset/isomorphic-strings/README.md) | 简单 |
+| 242. [有效的字母异位词](../../problemset/valid-anagram/README.md) | 简单 |
 | 541. [反转字符串 II](../../problemset/reverse-string-ii/README.md) | 简单 |
 | 557. [反转字符串中的单词 III](../../problemset/reverse-words-in-a-string-iii/README.md) | 简单 |
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |

@@ -1000,6 +1000,16 @@
     "path": "./problemset/description/README.md"
   },
   {
+    "id": "242",
+    "title": {
+      "cn": "有效的字母异位词",
+      "en": "valid-anagram"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/valid-anagram",
+    "path": "./problemset/valid-anagram/README.md"
+  },
+  {
     "id": "273",
     "title": {
       "cn": "整数转换英文表示",

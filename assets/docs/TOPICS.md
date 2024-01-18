@@ -200,6 +200,8 @@
 
 [226. 翻转二叉树](../../problemset/description/README.md)
 
+[242. 有效的字母异位词](../../problemset/valid-anagram/README.md)
+
 [273. 整数转换英文表示](../../problemset/integer-to-english-words/README.md)
 
 [278. 第一个错误的版本](../../problemset/first-bad-version/README.md)
