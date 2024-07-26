@@ -10,7 +10,7 @@ class Solution:
       res = res + (c -_A) * math.pow(26, i)
     return int(res)
 
-# s = Solution()
-# print(s.titleToNumber('A'))
+s = Solution()
+print(s.titleToNumber('A'))
 # print(s.titleToNumber('AB'))
 # print(s.titleToNumber('ZY'))
