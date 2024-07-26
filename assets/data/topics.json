@@ -1730,6 +1730,16 @@
     "path": "./problemset/modify-graph-edge-weights/README.md"
   },
   {
+    "id": "2740",
+    "title": {
+      "cn": "找出分区值",
+      "en": "find-the-value-of-the-partition"
+    },
+    "difficulty": "中等",
+    "url": "https://leetcode.cn/problems/find-the-value-of-the-partition/description/?envType=daily-question&envId=2024-07-26",
+    "path": "./problemset/find-the-value-of-the-partition/README.md"
+  },
+  {
     "id": "剑指 Offer II 076",
     "title": {
       "cn": "数组中的第 k 大的数字",

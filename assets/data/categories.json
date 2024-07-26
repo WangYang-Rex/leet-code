@@ -337,6 +337,12 @@
         "difficulty": "中等"
       },
       {
+        "id": "2740",
+        "title": "找出分区值",
+        "path": "./problemset/find-the-value-of-the-partition/README.md",
+        "difficulty": "中等"
+      },
+      {
         "id": "剑指 Offer II 076",
         "title": "数组中的第 k 大的数字",
         "path": "./problemset/xx4gt2/README.md",
@@ -695,6 +701,12 @@
         "id": "1090",
         "title": "受标签影响的最大值",
         "path": "./problemset/largest-values-from-labels/README.md",
+        "difficulty": "中等"
+      },
+      {
+        "id": "2740",
+        "title": "找出分区值",
+        "path": "./problemset/find-the-value-of-the-partition/README.md",
         "difficulty": "中等"
       },
       {

@@ -68,6 +68,7 @@
 | 2460. [对数组执行操作](../../problemset/apply-operations-to-an-array/README.md) | 简单 |
 | 2475. [数组中不等三元组的数目](../../problemset/number-of-unequal-triplets-in-array/README.md) | 简单 |
 | 2559. [统计范围内的元音字符串数](../../problemset/count-vowel-strings-in-ranges/README.md) | 中等 |
+| 2740. [找出分区值](../../problemset/find-the-value-of-the-partition/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 字符串
@@ -149,6 +150,7 @@
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 524. [通过删除字母匹配到字典里最长单词](../../problemset/longest-word-in-dictionary-through-deleting/README.md) | 中等 |
 | 1090. [受标签影响的最大值](../../problemset/largest-values-from-labels/README.md) | 中等 |
+| 2740. [找出分区值](../../problemset/find-the-value-of-the-partition/README.md) | 中等 |
 | 剑指 Offer II 076. [数组中的第 k 大的数字](../../problemset/xx4gt2/README.md) | 中等 |
 
 ## 数学

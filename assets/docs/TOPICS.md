@@ -346,6 +346,8 @@
 
 [2699. 修改图中的边权](../../problemset/modify-graph-edge-weights/README.md)
 
+[2740. 找出分区值](../../problemset/find-the-value-of-the-partition/README.md)
+
 [剑指 Offer II 076. 数组中的第 k 大的数字](../../problemset/xx4gt2/README.md)
 
 [剑指 Offer II 088. 爬楼梯的最少成本](../../problemset/gzcjip/README.md)
