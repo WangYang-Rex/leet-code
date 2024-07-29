@@ -295,6 +295,12 @@
         "difficulty": "简单"
       },
       {
+        "id": "682",
+        "title": "棒球比赛",
+        "path": "./problemset/baseball-game/README.md",
+        "difficulty": "简单"
+      },
+      {
         "id": "1144",
         "title": "递减元素使数组呈锯齿状",
         "path": "./problemset/decrease-elements-to-make-array-zigzag/README.md",
@@ -1309,6 +1315,12 @@
         "id": "476",
         "title": "数字的补数",
         "path": "./problemset/number-complement/README.md",
+        "difficulty": "简单"
+      },
+      {
+        "id": "682",
+        "title": "棒球比赛",
+        "path": "./problemset/baseball-game/README.md",
         "difficulty": "简单"
       },
       {

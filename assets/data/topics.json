@@ -1290,6 +1290,16 @@
     "path": "./problemset/valid-palindrome-ii/README.md"
   },
   {
+    "id": "682",
+    "title": {
+      "cn": "棒球比赛",
+      "en": "baseball-game"
+    },
+    "difficulty": "简单",
+    "url": "https://leetcode.cn/problems/baseball-game/description/?envType=daily-question&envId=2024-07-29",
+    "path": "./problemset/baseball-game/README.md"
+  },
+  {
     "id": "746",
     "title": {
       "cn": "使用最小花费爬楼梯",

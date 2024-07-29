@@ -61,6 +61,7 @@
 | 167. [两数之和 II - 输入有序数组](../../problemset/two-sum-ii-input-array-is-sorted/README.md) | 中等 |
 | 215. [数组中的第K个最大元素](../../problemset/kth-largest-element-in-an-array/README.md) | 中等 |
 | 283. [移动零](../../problemset/move-zeroes/README.md) | 简单 |
+| 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 1144. [递减元素使数组呈锯齿状](../../problemset/decrease-elements-to-make-array-zigzag/README.md) | 中等 |
 | 1487. [保证文件名唯一](../../problemset/making-file-names-unique/README.md) | 中等 |
 | 2341. [数组能形成多少数对](../../problemset/maximum-number-of-pairs-in-array/README.md) | 简单 |
@@ -268,6 +269,7 @@
 | 447. [回旋镖的数量](../../problemset/number-of-boomerangs/README.md) | 中等 |
 | 470. [用 Rand7() 实现 Rand10()](../../problemset/implement-rand10-using-rand7/README.md) | 中等 |
 | 476. [数字的补数](../../problemset/number-complement/README.md) | 简单 |
+| 682. [棒球比赛](../../problemset/baseball-game/README.md) | 简单 |
 | 1015. [可被 K 整除的最小整数](../../problemset/smallest-integer-divisible-by-k/README.md) | 中等 |
 | 1016. [子串能表示从 1 到 N 数字的二进制串](../../problemset/binary-string-with-substrings-representing-1-to-n/README.md) | 中等 |
 | 1072. [按列翻转得到最大值等行数](../../problemset/flip-columns-for-maximum-number-of-equal-rows/README.md) | 中等 |
