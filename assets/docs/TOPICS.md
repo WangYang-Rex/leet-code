@@ -180,6 +180,8 @@
 
 [191. 位1的个数](../../problemset/number-of-1-bits/README.md)
 
+[202. 快乐数](../../problemset/happy-number/README.md)
+
 [205. 同构字符串](../../problemset/isomorphic-strings/README.md)
 
 [206. 反转链表](../../problemset/reverse-linked-list/README.md)
